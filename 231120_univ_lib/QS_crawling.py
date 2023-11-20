@@ -29,26 +29,33 @@ driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install())
 driver.get('https://www.topuniversities.com/world-university-rankings/2022')
 
 # 동적 페이지 갱신을 위한 여유시간
-time.sleep(50)
+time.sleep(30)
 
 # 웹 페이지 HTML 소스 파싱
 html = driver.page_source
 soup = BeautifulSoup(html, 'html.parser')
 
-univ_name = list()
-univ_url = list()
+seletor = soup.select('div#ranking-data-load')
+# print(type(seletor))
+f = open('selectors.txt', 'w')
+for _ in seletor:
+    f.write(str(_) + "\n")
+f.close()
 
-for a_tag in soup.select('a.uni-link'):
-    university_name = a_tag.text
-    university_url = a_tag['href']
-
-    univ_name.append(university_name)
-    univ_url.append(university_url)
-    # print(f'University Name: {university_name}')
-    # print(f'University URL: {university_url}')
-
-print(univ_name)
-print(univ_url)
+# univ_name = list()
+# univ_url = list()
+#
+# for a_tag in soup.select('a.uni-link'):
+#     university_name = a_tag.text
+#     university_url = a_tag['href']
+#
+#     univ_name.append(university_name)
+#     univ_url.append(university_url)
+#     # print(f'University Name: {university_name}')
+#     # print(f'University URL: {university_url}')
+#
+# print(univ_name)
+# print(univ_url)
 
 
 
