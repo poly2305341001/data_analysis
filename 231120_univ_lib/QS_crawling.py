@@ -14,18 +14,16 @@ from bs4 import BeautifulSoup
 # 동적 웹페이지 작동 준비
 import time
 
-# 데이터 저장 준비
-import pandas as pd
+# # 데이터 저장 준비
+# import pandas as pd
 
 # import requests
-
 
 
 # 크롬 드라이버 생성
 driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
 
 # 사이트에 접속
-
 driver.get('https://www.topuniversities.com/world-university-rankings/2022')
 
 # 동적 페이지 갱신을 위한 여유시간
@@ -35,12 +33,14 @@ time.sleep(30)
 html = driver.page_source
 soup = BeautifulSoup(html, 'html.parser')
 
-seletor = soup.select('div#ranking-data-load')
-# print(type(seletor))
-f = open('selectors.txt', 'w')
-for _ in seletor:
-    f.write(str(_) + "\n")
+# 중복되는 태그 제외, 학교 이름과 각 점수 파싱
+rm_duplicate = soup.select('div.row.ind-row.firstloaded.hide-this-in-mobile-indi div.td-wrap-in')
+f = open('univ_score.txt', 'w')
+for line in rm_duplicate:
+    text = line.get_text()
+    f.write(text + '\n')
 f.close()
+
 
 # univ_name = list()
 # univ_url = list()
