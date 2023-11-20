@@ -1,0 +1,3117 @@
+
+
+  <!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+<head attr="https://www.topuniversities.com/">
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+
+  {'gtm.start': new Date().getTime(),event:'gtm.js'}
+  );var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-W4T4GS');</script>
+
+
+<script type="text/javascript">!function(a,e,d,m,t){a.adm={};a.adm.pixid=136038;var o=e.getElementsByTagName("head")[0],c=e.createElement("script");a.adm.json="https://ps.l.admedo.com/e3322918-86d6-46ae-b85a-9d5f02249f4c.json",a.adm.pixurl="https://pool.admedo.com",c.src="https://pj.l.admedo.com/admtracker.lib.min.js",c.async=!0,o.appendChild(c)}(window,document);</script>
+<noscript><img loading="lazy" height="1" width="1" style="display:none" src="https://pool.admedo.com/pixel?id=136038&t=img" /></noscript>
+
+
+<meta name="facebook-domain-verification" content="jyed73etkbrc34h8gwtc8axnj2g5v3" />
+
+
+<link rel="preconnect" href="//cdn.bannerflow.com" crossorigin>
+<link rel="preconnect" href="//embed.bannerflow.com" crossorigin>
+<link rel="preconnect" href="//fonts.googleapis.com" crossorigin>
+<link rel="preconnect" href="//c.bannerflow.net" crossorigin>
+<link rel="preconnect" href="//ajax.cloudflare.com" crossorigin>
+<link rel="preconnect" href="//cdnjs.cloudflare.com" crossorigin>
+<link rel="preconnect" href="//code.jquery.com" crossorigin>
+<link rel="preconnect" href="//static.cloudflareinsights.com" crossorigin>
+<link rel="preconnect" href="//cdn.jsdelivr.net" crossorigin>
+<link rel="preconnect" href="//kit.fontawesome.com" crossorigin>
+<link rel="preconnect" href="//static.addtoany.com" crossorigin>
+<link rel="preconnect" href="//dev-sso.qs.com" crossorigin>
+<link rel="preconnect" href="//www.googletagservices.com" crossorigin>
+<link rel="preconnect" href="//securepubads.g.doubleclick.net" crossorigin>
+<link rel="preconnect" href="//adservice.google.com" crossorigin>
+<link rel="preconnect" href="//tpc.googlesyndication.com" crossorigin>
+<link rel="preconnect" href="//ajax.googleapis.com" crossorigin>
+<link rel="preconnect" href="//www.googletagmanager.com" crossorigin>
+<link rel="preconnect" href="//ka-p.fontawesome.com" crossorigin>
+<link rel="preconnect" href="//pagead2.googlesyndication.com" crossorigin>
+<link rel="preconnect" href="//bam.nr-data.net" crossorigin>
+<link rel="preconnect" href="//www.gstatic.com" crossorigin>
+
+<meta charset="utf-8" />
+<link rel="dns-prefetch" href="//app.omniconvert.com" />
+<script type="text/javascript">window._mktz=window._mktz||[];</script>
+<script src="//cdn.omniconvert.com/js/l4632e1.js"></script>
+<meta name="description" content="Discover the world&#039;s top universities. Explore the QS World University Rankings¢ç 2022, based on 6 key ranking indicators." />
+<link rel="canonical" href="https://www.topuniversities.com/world-university-rankings/2022?countries=kr&amp;order_by=asc&amp;region=Asia&amp;sort_by=rank&amp;tab=indicators" />
+<meta property="og:site_name" content="Top Universities" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.topuniversities.com/world-university-rankings/2022" />
+<meta property="og:title" content="QS World University Rankings 2022" />
+<meta property="og:description" content="Discover the world¡¯s top universities. Explore the QS World University Rankings¢ç 2022." />
+<meta property="og:image" content="https://www.topuniversities.com/sites/default/files/OG-wur22%20%281%29_0.jpg" />
+<meta property="og:image:url" content="https://www.topuniversities.com/sites/default/files/OG-wur22%20%281%29_0.jpg" />
+<meta property="og:image:secure_url" content="https://www.topuniversities.com/sites/default/files/OG-wur22%20%281%29_0.jpg" />
+<meta property="og:image:type" content="&quot;image/jpg&quot;" />
+<meta property="og:image:width" content="700" />
+<meta property="og:image:height" content="325" />
+<meta property="og:image:alt" content="QS World University Rankings¢ç 2022" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@TopUnis" />
+<meta name="twitter:title" content="QS World University Rankings 2022" />
+<meta name="twitter:description" content="Discover the world¡¯s top universities. Explore the QS World University Rankings¢ç 2022" />
+<meta name="twitter:url" content="https://www.topuniversities.com/world-university-rankings/2022" />
+<meta name="twitter:image" content="https://www.topuniversities.com/sites/default/files/OG-wur22%20%281%29_0.jpg" />
+<meta name="twitter:image:alt" content="QS World University Rankings¢ç 2022" />
+<meta name="twitter:image:height" content="325" />
+<meta name="twitter:image:width" content="700" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="next" href="https://www.topuniversities.com/world-university-rankings/2022?countries=kr&amp;order_by=asc&amp;region=Asia&amp;sort_by=rank&amp;tab=indicators&amp;page=1" />
+<script type="application/ld+json">{
+          "@context" : "https://schema.org",
+          "@type" : "BreadcrumbList",
+          "itemListElement":[
+    {
+        "@type": "ListItem",
+        "position": 0,
+        "name": "Home",
+        "item": "https://www.topuniversities.com/"
+    },
+    {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "QS World University Rankings",
+        "item": "https://www.topuniversities.com/qs-world-university-rankings"
+    },
+    {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "QS World University Rankings 2022",
+        "item": "https://www.topuniversities.com/world-university-rankings/2022"
+    }
+]
+        }</script>
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<script type="text/javascript">
+// Initialize the google variables.
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+// Add a place to store the slot name variable.
+googletag.slots = googletag.slots || {};
+(function() {
+  var useSSL = "https:" == document.location.protocol;
+  var src = (useSSL ? 'https:' : 'http:') + '//securepubads.g.doubleclick.net/tag/js/gpt.js';
+  document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script>
+<script type="text/javascript">
+    // Start by defining breakpoints for this ad.
+  var mapping = googletag.sizeMapping()
+        .addSize([0, 320], [[300, 50], [300, 50]])
+            .addSize([768, 200], [970, 90])
+            .build();
+  
+  googletag.slots["top_slot"] = googletag.defineSlot("/8070/Topuni-Web/world-university-rankings/2022", [[970, 90], [300, 50], [300, 50]], "js-dfp-tag-top_slot")
+
+        .addService(googletag.pubads())
+
+      
+      
+      
+            .setTargeting('URL', ['/world-university-rankings/2022'])
+                  // Apply size mapping when there are breakpoints.
+      .defineSizeMapping(mapping)
+    ;
+</script>
+<script type="text/javascript">
+googletag.cmd.push(function() {
+      googletag.pubads().enableAsyncRendering();
+          googletag.pubads().collapseEmptyDivs();
+          googletag.pubads().setTargeting('pos', ['top']);
+      googletag.pubads().setTargeting('URL', ['/world-university-rankings/2022']);
+      googletag.pubads().setTargeting('ArticleTagging', ['','','']);
+  });
+googletag.enableServices();
+</script>
+<link rel="icon" href="/themes/custom/tu_d8/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://www.topuniversities.com/world-university-rankings/2022" />
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_config.thanks = {
+    postShare: false
+};</script>
+<script type="text/javascript">
+        // Initialize the google variables.
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        // Add a place to store the slot name variable.
+        googletag.slots = googletag.slots || {};
+        (function() {
+          var useSSL = "https:" == document.location.protocol;
+          var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+          document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+        })();
+    </script>
+<meta name="referrer" content="unsafe-url" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no" />
+<title>QS World University Rankings 2022: Top Global Universities | Top Universities </title>
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_RqQcg9T6yUwuzvb6aFZUrODXdgjX1MlRqV7aELR9cB4.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_9ZvaxOwKqtIEmHZpahHugf1HPaIx2x6vPiOsmVY0QJM.css" />
+<link rel="stylesheet" media="all" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/components/search.min.css" />
+<link rel="stylesheet" media="all" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.min.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_ytKFVXlbHt0GXlx2i_5WTNsLvwDKqJUo8WPP7CDT3qs.css" />
+<script src="https://content.qs.com/sso/sso.min.js"></script>
+<meta name="google-site-verification" content="Gt4Ek9hCb6nf3m8WfbvskhuFcDIry9-i4Z_l1TB1_CY" />
+
+
+<script>
+              (function(h,o,t,j,a,r){
+                  h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+                  h._hjSettings={hjid:173635,hjsv:6};
+                  a=o.getElementsByTagName('head')[0];
+                  r=o.createElement('script');r.async=1;
+                  r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+                  a.appendChild(r);
+              })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+          </script>
+<script>
+        document.addEventListener("DOMContentLoaded", function() {
+  var lazyloadImages = document.querySelectorAll("img.lazy-image");
+  var lazyloadThrottleTimeout;
+
+  function lazyload () {
+    if(lazyloadThrottleTimeout) {
+      clearTimeout(lazyloadThrottleTimeout);
+    }
+
+    lazyloadThrottleTimeout = setTimeout(function() {
+        var scrollTop = window.pageYOffset;
+        lazyloadImages.forEach(function(img) {
+            if(img.offsetTop < (window.innerHeight + scrollTop)) {
+              if(!img.complete) {
+                img.src = img.dataset.src;
+              }
+              img.classList.remove('lazy-image');
+            }
+        });
+        if(lazyloadImages.length == 0) {
+          document.removeEventListener("scroll", lazyload);
+          window.removeEventListener("resize", lazyload);
+          window.removeEventListener("orientationChange", lazyload);
+        }
+    }, 20);
+  }
+
+  document.addEventListener("scroll", lazyload);
+  window.addEventListener("resize", lazyload);
+  window.addEventListener("orientationChange", lazyload);
+  window.addEventListener("DOMContentLoaded", lazyload);
+});
+
+
+  function BackgroundNode({node, loadedClassName}) {
+  let src = node.getAttribute('data-background-image-url');
+  let show = (onComplete) => {
+    requestAnimationFrame(() => {
+      node.style.backgroundImage = `url(${src})`
+      node.classList.add(loadedClassName);
+      onComplete();
+    })
+  }
+
+  return {
+    node,
+
+    // onComplete is called after the image is done loading.
+    load: (onComplete) => {
+      let img = new Image();
+      img.onload = show(onComplete);
+      img.src = src;
+    }
+  }
+}
+
+let defaultOptions = {
+  selector: '[data-background-image-url]',
+  loadedClassName: 'loaded'
+}
+
+function BackgroundLazyLoader({selector, loadedClassName} = defaultOptions) {
+  let nodes = [].slice.apply(document.querySelectorAll(selector))
+    .map(node => new BackgroundNode({node, loadedClassName}));
+
+  let callback = (entries, observer) => {
+    entries.forEach(({target, isIntersecting}) => {
+      if (!isIntersecting) {
+        return;
+      }
+
+      let obj = nodes.find(it => it.node.isSameNode(target));
+
+      if (obj) {
+        obj.load(() => {
+          // Unobserve the node:
+          observer.unobserve(target);
+          // Remove this node from our list:
+          nodes = nodes.filter(n => !n.node.isSameNode(target));
+
+          // If there are no remaining unloaded nodes,
+          // disconnect the observer since we don't need it anymore.
+          if (!nodes.length) {
+            observer.disconnect();
+          }
+        });
+      }
+    })
+  };
+
+  let observer = new IntersectionObserver(callback);
+  nodes.forEach(node => observer.observe(node.node));
+};
+
+
+document.addEventListener("DOMContentLoaded", function() {
+  BackgroundLazyLoader()
+});
+</script>
+</head>
+<body class="section-world-university-rankings world-university-rankings not-logged-in path-node node--type-ranking-set-release lang-en topuniversities">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W4T4GS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+<div id="page-wrapper">
+<div id="page">
+<header class="header">
+<div class="top_menu">
+<div class="container">
+<div class="qs_logo tu">
+<a href="/"><img loading="lazy" src="/themes/custom/tu_d8/logo.svg" alt width="187" height="34"></a>
+<ul class="top_right_menu d-block d-sm-none top_right_menu_mobile">
+<li class="_mobile-div">
+<a href="#" class="top_search_toggle" data-toggle="modal" data-target="#top_search"><i class="fal fa-search"></i></a>
+</li>
+<li class=" _mobile-div">
+<a class="nav-link reg-log-popup crm_top_nav" href="/signin?nid=''&redirect_path=/world-university-rankings/2022" id="user_login">
+<img loading="lazy" src="/themes/custom/tu_d8/images/user-icon-white.svg" class="_user-image" height="20" width="20">
+</a>
+</li>
+<li class="_mobile-div">
+<a href="#top_menu" class="menu_togle" onclick="Drupal.behaviors.tu_d8.menutoggle(this)">
+<i class="fal fa-bars"></i>
+<i class="fal fa-times"></i>
+</a>
+</li>
+</ul>
+</div>
+<nav id="top_menu" class="tu">
+<ul class="d-none d-sm-block tu">
+<li class="rankings">
+<a href="#" onclick="return false;">Rankings</a>
+<ul class="rankings">
+<section class="d-block d-xl-none">Rankings</section>
+<li><a href="/university-rankings">Rankings Overview</a>
+</li>
+<li><a href="/world-university-rankings">QS World University Rankings</a>
+</li>
+<li><a href="/subject-rankings/2023">QS World University Rankings by Subject</a>
+</li>
+<li><a href="/university-rankings/sustainability-rankings/2023">QS Sustainability Rankings</a>
+</li>
+<li><a href="/regional-rankings">QS University Rankings by Region</a>
+</li>
+<li><a href="/best-student-cities">QS Best Student Cities</a>
+</li>
+<li><a href="/mba-rankings">QS Global MBA Rankings</a>
+</li>
+<li><a href="/business-masters-rankings">QS Business Masters Rankings</a>
+</li>
+<li><a href="/university-rankings/international-trade-rankings/2023">QS International Trade Rankings</a>
+</li>
+<li><a href="/university-rankings/employability-rankings/2022">QS Graduate Employability Rankings</a>
+</li>
+<li><a href="/qs-stars/home">QS Stars Rating System</a>
+</li>
+<li><a href="https://www.igauge.in/ratings">QS IGAUGE Rating System</a>
+</li>
+</ul>
+</li>
+<li class="discover">
+<a href="#" onclick="return false;">Discover</a>
+<ul class="discover">
+<section class="d-block d-xl-none">Discover</section>
+<li><a href="/university-finder/student/match">Course Matching Tool</a>
+</li>
+<li><a href="/universities">University Search</a>
+</li>
+<li><a href="/programs">Program Search</a>
+</li>
+<li><a href="/courses">Subject Guides</a>
+</li>
+<li><a href="/where-to-study/home">Study Destination Guides</a>
+</li>
+<li><a href="/student-info/scholarship-advice">Scholarship Advice</a>
+</li>
+<li><a href="/chat-to-students">Chat to Students</a>
+</li>
+</ul>
+</li>
+<li class="events">
+<a href="#" onclick="return false;">Events</a>
+<ul class="events">
+<section class="d-block d-xl-none">Events</section>
+<li><a href="/events#qs-event-master">QS Master&#039;s Events</a>
+</li>
+<li><a href="/events/india#qs-event-master">QS Master&#039;s Events in India</a>
+</li>
+<li><a href="/events/europe#qs-event-master">QS Master&#039;s Events in Europe</a>
+</li>
+<li><a href="/events/asia#qs-event-master">QS Master&#039;s Events in Asia</a>
+</li>
+<li><a href="/events/middle-east-africa#qs-event-master">QS Master&#039;s Events in Middle East and Africa </a>
+</li>
+<li><a href="/events/north-america#qs-event-master">QS Master&#039;s Events in North America</a>
+</li>
+<li><a href="/events/south-america#qs-event-master">QS Master&#039;s Events in South America</a>
+</li>
+<li><a href="/events#qs-event-mba">QS MBA Events</a>
+</li>
+<li><a href="/events/india#qs-event-mba">QS MBA Events in India</a>
+</li>
+<li><a href="/events/europe#qs-event-mba">QS MBA Events in Europe</a>
+</li>
+<li><a href="/events/asia#qs-event-mba">QS MBA Events in Asia</a>
+</li>
+<li><a href="/events/middle-east-africa#qs-event-mba">QS MBA Events in Middle East and Africa</a>
+</li>
+<li><a href="/events/north-america#qs-event-mba">QS MBA Events in North America</a>
+</li>
+<li><a href="/events/south-america#qs-event-mba">QS MBA Events in South America</a>
+</li>
+</ul>
+</li>
+<li class="prepare">
+<a href="#" onclick="return false;">Prepare</a>
+<ul class="prepare">
+<section class="d-block d-xl-none">Prepare</section>
+<li><a href="/university-finder/student/match">Course Matching Tool</a>
+</li>
+<li><a href="https://qs.topuniversities.com/student-apply-support">Admission Support</a>
+</li>
+<li><a href="/student-info/student-finance">Student Finance</a>
+</li>
+<li><a href="/student-info/qs-guides">QS Student Guides</a>
+</li>
+</ul>
+</li>
+<li class="apply">
+<a href="#" onclick="return false;">Apply</a>
+<ul class="apply">
+<section class="d-block d-xl-none">Apply</section>
+<li><a href="https://qs.topuniversities.com/qs-student-apply-support">Apply Now</a>
+</li>
+</ul>
+</li>
+<li class="careers">
+<a href="#" onclick="return false;">Careers</a>
+<ul class="careers">
+<section class="d-block d-xl-none">Careers</section>
+<li><a href="/student-info/careers-advice">Careers Advice</a>
+</li>
+<li><a href="/student-info/totaljobs-gwp?qs_qp=topnav">Job Portal</a>
+</li>
+</ul>
+</li>
+<li class="community">
+<a href="#" onclick="return false;">Community</a>
+<ul class="community">
+<section class="d-block d-xl-none">Community</section>
+<li><a href="/blog">Blog</a>
+</li>
+<li><a href="/student-info/university-news">University News</a>
+</li>
+<li><a href="/student-info/videos">Videos</a>
+</li>
+</ul>
+</li>
+</ul>
+
+<div class="login_section d-block d-sm-none">
+<ul>
+<li class="nav-item">
+<a class="nav-link btn-green reg-log-popup crm_top_nav" href="/signup?nid=''&redirect_path=/world-university-rankings/2022" id="user_register">SIGN UP</a>
+</li>
+<li class="nav-item">
+<a class="nav-link reg-log-popup crm_top_nav" href="/signin?nid=''&redirect_path=/world-university-rankings/2022" id="user_login">LOGIN</a>
+</li>
+</ul>
+</div>
+<ul class="accordion d-block d-sm-none mobile-menu-js ">
+<li class="rankings" onclick="Drupal.behaviors.tu_d8.menutogglelilist(this);">
+<section class="header">Rankings</section>
+<div class="content">
+<ul class="rankings">
+<li><a href="/university-rankings">Rankings Overview</a>
+</li>
+<li><a href="/world-university-rankings">QS World University Rankings</a>
+</li>
+<li><a href="/subject-rankings/2023">QS World University Rankings by Subject</a>
+</li>
+<li><a href="/university-rankings/sustainability-rankings/2023">QS Sustainability Rankings</a>
+</li>
+<li><a href="/regional-rankings">QS University Rankings by Region</a>
+</li>
+<li><a href="/best-student-cities">QS Best Student Cities</a>
+</li>
+<li><a href="/mba-rankings">QS Global MBA Rankings</a>
+</li>
+<li><a href="/business-masters-rankings">QS Business Masters Rankings</a>
+</li>
+<li><a href="/university-rankings/international-trade-rankings/2023">QS International Trade Rankings</a>
+</li>
+<li><a href="/university-rankings/employability-rankings/2022">QS Graduate Employability Rankings</a>
+</li>
+<li><a href="/qs-stars/home">QS Stars Rating System</a>
+</li>
+<li><a href="https://www.igauge.in/ratings">QS IGAUGE Rating System</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="discover" onclick="Drupal.behaviors.tu_d8.menutogglelilist(this);">
+<section class="header">Discover</section>
+<div class="content">
+<ul class="discover">
+<li><a href="/university-finder/student/match">Course Matching Tool</a>
+</li>
+<li><a href="/universities">University Search</a>
+</li>
+<li><a href="/programs">Program Search</a>
+</li>
+<li><a href="/courses">Subject Guides</a>
+</li>
+<li><a href="/where-to-study/home">Study Destination Guides</a>
+</li>
+<li><a href="/student-info/scholarship-advice">Scholarship Advice</a>
+</li>
+<li><a href="/chat-to-students">Chat to Students</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="events" onclick="Drupal.behaviors.tu_d8.menutogglelilist(this);">
+<section class="header">Events</section>
+<div class="content">
+<ul class="events">
+<li><a href="/events#qs-event-master">QS Master&#039;s Events</a>
+</li>
+<li><a href="/events/india#qs-event-master">QS Master&#039;s Events in India</a>
+</li>
+<li><a href="/events/europe#qs-event-master">QS Master&#039;s Events in Europe</a>
+</li>
+<li><a href="/events/asia#qs-event-master">QS Master&#039;s Events in Asia</a>
+</li>
+<li><a href="/events/middle-east-africa#qs-event-master">QS Master&#039;s Events in Middle East and Africa </a>
+</li>
+<li><a href="/events/north-america#qs-event-master">QS Master&#039;s Events in North America</a>
+</li>
+<li><a href="/events/south-america#qs-event-master">QS Master&#039;s Events in South America</a>
+</li>
+<li><a href="/events#qs-event-mba">QS MBA Events</a>
+</li>
+<li><a href="/events/india#qs-event-mba">QS MBA Events in India</a>
+</li>
+<li><a href="/events/europe#qs-event-mba">QS MBA Events in Europe</a>
+</li>
+<li><a href="/events/asia#qs-event-mba">QS MBA Events in Asia</a>
+</li>
+<li><a href="/events/middle-east-africa#qs-event-mba">QS MBA Events in Middle East and Africa</a>
+</li>
+<li><a href="/events/north-america#qs-event-mba">QS MBA Events in North America</a>
+</li>
+<li><a href="/events/south-america#qs-event-mba">QS MBA Events in South America</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="prepare" onclick="Drupal.behaviors.tu_d8.menutogglelilist(this);">
+<section class="header">Prepare</section>
+<div class="content">
+<ul class="prepare">
+<li><a href="/university-finder/student/match">Course Matching Tool</a>
+</li>
+<li><a href="https://qs.topuniversities.com/student-apply-support">Admission Support</a>
+</li>
+<li><a href="/student-info/student-finance">Student Finance</a>
+</li>
+<li><a href="/student-info/qs-guides">QS Student Guides</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="apply" onclick="Drupal.behaviors.tu_d8.menutogglelilist(this);">
+<section class="header">Apply</section>
+<div class="content">
+<ul class="apply">
+<li><a href="https://qs.topuniversities.com/qs-student-apply-support">Apply Now</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="careers" onclick="Drupal.behaviors.tu_d8.menutogglelilist(this);">
+<section class="header">Careers</section>
+<div class="content">
+<ul class="careers">
+<li><a href="/student-info/careers-advice">Careers Advice</a>
+</li>
+<li><a href="/student-info/totaljobs-gwp?qs_qp=topnav">Job Portal</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="community" onclick="Drupal.behaviors.tu_d8.menutogglelilist(this);">
+<section class="header">Community</section>
+<div class="content">
+<ul class="community">
+<li><a href="/blog">Blog</a>
+</li>
+<li><a href="/student-info/university-news">University News</a>
+</li>
+<li><a href="/student-info/videos">Videos</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<span class="d-block d-sm-none mobile-menu-js ">
+<a class="btn btn-white btn-round mb-btn-round" href="https://info.topuniversities.com/qs-student-apply-support?utm_source=toprightCTA&utm_medium=TU&utm_id=QSSA">Apply Now</a>
+</span>
+</nav>
+<div class="icon_menu d-md-block d-sm-none">
+<ul class="top_right_menu">
+<li class="language_change">
+<div class="dropdown">
+<button class="dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+EN
+</button>
+<div class="dropdown-menu lang_dropdown_menu dropdown-menu-right dropdownMenu2" aria-labelledby="dropdownMenu2">
+<a class="dropdown-item" href="#">Action</a>
+<a class="dropdown-item" href="#">Another action</a>
+</div>
+</div>
+</li>
+<li class="nav-item">
+<a class="btn btn-white btn-round" href="https://info.topuniversities.com/qs-student-apply-support?utm_source=toprightCTA&utm_medium=TU&utm_id=QSSA">Apply Now</a>
+</li>
+<li class="nav-item nav-search"><a href="#" class="top_search_toggle" data-toggle="modal" data-target="#top_search"><i class="fal fa-search"></i></a></li>
+<li class="nav-item">
+<a class="nav-link reg-log-popup crm_top_nav" href="/signin?nid=''&redirect_path=/world-university-rankings/2022">LOGIN</a>
+</li>
+<li class="nav-item">
+<a class="nav-link btn-green reg-log-popup crm_top_nav" href="/signup?nid=''&redirect_path=/world-university-rankings/2022">SIGN UP</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="global_search modal fade" id="top_search" tabindex="-1" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="overlay_search">
+<div class="container">
+<div class="search_field">
+<div class="SearchBox"><i class="fal fa-search"></i></div>
+<a href="/search" class="close_overlay" data-dismiss="modal" aria-label="Close"><i class="fal fa-times"></i></a>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="results">
+<ul class="search_region">
+<li class="programs_search_res"></li>
+<li class="universities_search_res"></li>
+<li class="events_search_res"></li>
+<li class="rankings_search_res"></li>
+<li class="articles_search_res"></li>
+<li class="videos_search_res"></li>
+</ul>
+</div>
+<div class="no_results"></div>
+<div class="suggestions"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="survey-popup">
+<div class="modal" id="surveyModal">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+Help us to know you better
+</div>
+<div class="modal-body">
+<p><span>Thanks for visiting TopUniversities.com today!</span> So that we can show you the most relevant information, please select the option that most closely relates to you.</p>
+<ul class="survey-list">
+<li>
+<input type="radio" id="undergraduate" name="role" value="Looking for undergraduate studies">
+<label for="undergraduate">Looking for undergraduate studies</label>
+</li>
+<li>
+<input type="radio" id="postgraduate" name="role" value="Looking for postgraduate studies">
+<label for="postgraduate">Looking for postgraduate studies</label>
+</li>
+<li>
+<input type="radio" id="not_looking" name="role" value="Student but not looking for further education at the moment">
+<label for="not_looking">Student but not looking for further education at the moment</label>
+</li>
+<li>
+<input type="radio" id="accademic" name="role" value="Academic">
+<label for="accademic">Academic</label>
+</li>
+<li>
+<input type="radio" id="parent" name="role" value="Parent or Guardian">
+<label for="parent">Parent or Guardian</label>
+</li>
+<li>
+<input type="radio" id="uni_administrator" name="role" value="University administrator">
+<label for="uni_administrator">University administrator</label>
+</li>
+<li>
+<input type="radio" id="professional" name="role" value="Professional">
+<label for="professional">Professional</label>
+</li>
+<li class="no-bdr">
+<input type="radio" id="other" name="role" value="other">
+<label for="other">Other</label>
+</li>
+<li class="no-bdr" id="otherRole">
+<div class="form-group col-sm-12">
+<div class="row">
+<input type="text" name="other_list" id="surveyOther" class="form-control" value required>
+<label class="form-control-placeholder" for="other_list">Please specify</label>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="modal-footer">
+<button type="button" class="survey-button" disabled data-dismiss="modal" data-toggle="modal" data-target="#success_survey">Submit</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="success_survey_popup text-center">
+<div class="modal fade" id="success_survey" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<img src="/themes/custom/tu_d8/images/close-icon-button.png" class="close" data-dismiss="modal" aria-label="Close">
+</div>
+<div class="modal-body">
+<img loading="lazy" src="/themes/custom/tu_d8/images/Success_img.gif" />
+<h4>Thanks for sending your response.</h4>
+<p><span>Your input will help us improve your experience.</span>You can close this popup to continue using the website or choose an option below to register in or login.</p>
+</div>
+<div class="modal-footer">
+<button type="button" class="survey-button" onclick="location.href='signup'">Register</button>
+<p>Already have an account? <a href="signin">Sign in</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="yellow_nav"><div class="container"><div class="floating_scroll"><a href="/university-rankings-articles/world-university-rankings/qs-world-university-rankings-methodology" class>Methodology</a><a href="/university-rankings/world-university-rankings/sustainable-development-goals" class>SDG information</a><a href="/qs-stars" class>What is QS Stars?</a><a href="/write-for-us" class>Write for us!</a></div></div></div> </header>
+<div id="main-wrapper" class="layout-main-wrapper clearfix">
+<div class="highlighted">
+<aside class="section clearfix" role="complementary">
+<section class="region region-highlighted">
+<div data-drupal-messages-fallback class="hidden"></div>
+<div class="block block-qs-coming-soon-alert block-qscomingsoon">
+<div class="content">
+</div>
+</div>
+</section>
+</aside>
+</div>
+<div id="main" class>
+<main>
+<section class="section">
+<a href="/main-content" id="main-content" tabindex="-1"></a>
+<div class="container">
+<section class="region region-content">
+<div id="block-tubreadcrumbs" class="block block-qs-breadcrumbs block-tu-breadcrumbs">
+<div class="content">
+<div id="breadcrumbs" class="_qs_breadcrumb">
+<a href="/" class="level-1 first">Home</a> <span class="arrow"></span>
+<a href="/qs-world-university-rankings" class="level-2">QS World University Rankings</a> <span class="arrow"></span>
+<span class="current" autofocus>QS World University Rankings 2022</span>
+</div>
+</div>
+</div>
+<section class="commenting-on-qna">
+<div id="block-tu-d8-content" class="block block-system block-system-main-block">
+<div class="content">
+<article data-history-node-id="3740566" role="article" about="/world-university-rankings/2022" class="node node--type-ranking-set-release node--view-mode-full clearfix">
+<header>
+</header>
+<div class="node__content clearfix">
+<div class="layout layout--onecol">
+<div class="layout__region layout__region--content">
+<div class="block block-dfp block-dfp-ad2c5a05bf-567b-4d58-ac2f-01d246dd6dea">
+<div class="content">
+<div id="js-dfp-tag-top_slot">
+<script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('js-dfp-tag-top_slot');
+        });
+    </script>
+</div>
+</div>
+</div>
+<div class="block block-qs-rankings block-ranking-header-block">
+<div class="content">
+<div class="block block- hero-block force-width-100">
+
+<input type="hidden" id="recommended-slider-images-videos-QsRanking" value="https://www.youtube.com/watch?v=uA9C8XqI07Y&amp;feature=emb_logo" />
+<div id="top-world-ranking-hero" class="qs-world-ranking-hero d-none d-md-block" style="background-color: ">
+<div class="container container-withback">
+<div class="left-hand-side-text">
+<div class="right-top-logos">
+<div class="_qs-ranking-logo wur-logo">
+<img loading="lazy" data-src="/themes/custom/tu_d8/images/ranking/wur-logo.svg" alt="WUR Logo" class="lazy-image">
+</div>
+</div>
+<div class="_qs-ranking-title">
+<h4 class="_qs-class-headline" style="color:">
+QS World University Rankings 2022
+</h4>
+<div>
+<p class="context-inpargrph"><p>Discover the world¡¯s top universities. Explore the <strong>QS World University Rankings¢ç 2022</strong>.</p>
+<p>Out now!&nbsp;<a href="https://www.topuniversities.com/university-rankings/world-university-rankings/2024">QS World University Rankings 2024</a>.</p>
+</p>
+</div>
+</div>
+<div class="qs-videos-btn-block rank-widget-ctas">
+<div class="video-btn video-btn-white d-none">
+<button class="btn qs-rank-btn-default" onclick="Drupal.behaviors.tu_d8.generalGalleryVideoAndImage('QsRanking')"><i class="far fa-play"></i>
+Top 10 2022
+</button>
+</div>
+</div>
+<div class="_read-more-content-js-div-1 _non_subject">
+<div class="less-content-js display-inline-block-div">
+Featuring 1,300 universities from around the world, this year's university rankings are our largest ever. Each institution has been assessed according to six key metrics, and you can learn more about ...
+</div>
+<div class="more-content-js display-inline-block-div d-none">
+<p>Featuring 1,300 universities from around the world, this year's university rankings are our largest ever. Each institution has been assessed according to six&nbsp;key metrics, and you can learn more about this process by reading our <a href="https://www.topuniversities.com/qs-world-university-rankings/methodology">methodology</a>.</p>
+<p>You can use our rankings to easily compare universities and start your university search. Once you're ready to start learning more about each institution and building your shortlist, each university included in our rankings also has a profile page full of details about that institution, from available degree programs to facilities and tuition fees.</p>
+<p>Corrections to university performance may be made after publication.&nbsp;You can view the release version and a summary of any edits <a href="https://www.topuniversities.com/university-rankings-articles/world-university-rankings/qs-world-university-rankings-2022">here</a>.</p>
+<p>You can also meet many of the universities included in the QS World University Rankings at one of our <a href="https://www.topuniversities.com/events">events</a>.</p>
+<p>Let us know what you think of the results and join the #QSWUR conversation on&nbsp;<a data-mce-href="https://www.facebook.com/topuniversities/" href="https://www.facebook.com/topuniversities/">Facebook</a>,&nbsp;<a data-mce-href="https://twitter.com/TopUnis" href="https://twitter.com/TopUnis">Twitter</a>,&nbsp;<a data-mce-href="https://www.linkedin.com/company/qs-world-university-rankings" href="https://www.linkedin.com/company/qs-world-university-rankings">LinkedIn</a>&nbsp;and&nbsp;<a data-mce-href="https://www.instagram.com/topunis/" href="https://www.instagram.com/topunis/">Instagram</a>.</p>
+</div>
+<a href="javascript:void(0)" class="_read-moreclick" myparent="1">Read more</a>
+</div>
+<div class="register-free-member-parent">
+<div class="register-free-member">
+<p>Register for <span>free</span> site membership to access direct university comparisons and more</p>
+<a href="/signup?nid=''&redirect_path=/world-university-rankings/2022">Register today!</a>
+</div>
+</div>
+</div>
+<div class="right-hand-side-text">
+<div class="qs-elsevier-logo"><img loading="lazy" data-src="/sites/default/files/rankings/Elsevier_12_185.png" class="lazy-image"></div>
+<img loading="lazy" data-src="/sites/default/files/ranking-hero/Rankings%20page%402x_1.png" class="d-none d-md-block lazy-image">
+</div>
+</div>
+</div>
+<div class="_read-more-content-js-div-1 _only_subject d-none">
+<div class="container container-withback">
+<div class="less-content-js display-inline-block-div">
+Featuring 1,300 universities from around the world, this year's university rankings are our largest ever. Each institution has been assessed according to six key metrics, and you can learn more about ...
+</div>
+<div class="more-content-js display-inline-block-div d-none">
+<p>Featuring 1,300 universities from around the world, this year's university rankings are our largest ever. Each institution has been assessed according to six&nbsp;key metrics, and you can learn more about this process by reading our <a href="https://www.topuniversities.com/qs-world-university-rankings/methodology">methodology</a>.</p>
+<p>You can use our rankings to easily compare universities and start your university search. Once you're ready to start learning more about each institution and building your shortlist, each university included in our rankings also has a profile page full of details about that institution, from available degree programs to facilities and tuition fees.</p>
+<p>Corrections to university performance may be made after publication.&nbsp;You can view the release version and a summary of any edits <a href="https://www.topuniversities.com/university-rankings-articles/world-university-rankings/qs-world-university-rankings-2022">here</a>.</p>
+<p>You can also meet many of the universities included in the QS World University Rankings at one of our <a href="https://www.topuniversities.com/events">events</a>.</p>
+<p>Let us know what you think of the results and join the #QSWUR conversation on&nbsp;<a data-mce-href="https://www.facebook.com/topuniversities/" href="https://www.facebook.com/topuniversities/">Facebook</a>,&nbsp;<a data-mce-href="https://twitter.com/TopUnis" href="https://twitter.com/TopUnis">Twitter</a>,&nbsp;<a data-mce-href="https://www.linkedin.com/company/qs-world-university-rankings" href="https://www.linkedin.com/company/qs-world-university-rankings">LinkedIn</a>&nbsp;and&nbsp;<a data-mce-href="https://www.instagram.com/topunis/" href="https://www.instagram.com/topunis/">Instagram</a>.</p>
+</div>
+<a href="javascript:void(0)" class="_read-moreclick" myparent="1">Read more</a>
+</div>
+</div>
+<div id="top-world-ranking-hero" class="qs-world-ranking-hero mobile d-block d-md-none" style="background-color: ">
+<div class="container container-withback">
+<div class="right-hand-side-text">
+<div class="right-top-logos">
+<div class="_qs-ranking-logo wur-logo">
+<img loading="lazy" data-src="/themes/custom/tu_d8/images/ranking/wur-logo.svg" alt="WUR Logo" class="lazy-image">
+</div>
+</div>
+</div>
+<div class="left-hand-side-text">
+<div class="_qs-ranking-title">
+<h4 class="_qs-class-headline _qs-class-headlineh1" style="color:">
+QS World University Rankings 2022
+</h4>
+<div><p class="context-inpargrph"><p>Discover the world¡¯s top universities. Explore the <strong>QS World University Rankings¢ç 2022</strong>.</p>
+<p>Out now!&nbsp;<a href="https://www.topuniversities.com/university-rankings/world-university-rankings/2024">QS World University Rankings 2024</a>.</p>
+</p>
+</div>
+</div>
+<div class="qs-videos-btn-block rank-widget-ctas">
+<div class="video-btn video-btn-white d-none">
+<button class="btn qs-rank-btn-default" onclick="Drupal.behaviors.tu_d8.generalGalleryVideoAndImage('QsRanking')"><i class="far fa-play"></i>
+Top 10 2022
+</button>
+</div>
+</div>
+<div class="_read-more-content-js-div-1 _non_subject">
+<div class="less-content-js display-inline-block-div">
+Featuring 1,300 universities from around the world, this year's university rankings are our largest ever. Each institution has been assessed according to six ke ...
+</div>
+<div class="more-content-js display-inline-block-div d-none">
+<p>Featuring 1,300 universities from around the world, this year's university rankings are our largest ever. Each institution has been assessed according to six&nbsp;key metrics, and you can learn more about this process by reading our <a href="https://www.topuniversities.com/qs-world-university-rankings/methodology">methodology</a>.</p>
+<p>You can use our rankings to easily compare universities and start your university search. Once you're ready to start learning more about each institution and building your shortlist, each university included in our rankings also has a profile page full of details about that institution, from available degree programs to facilities and tuition fees.</p>
+<p>Corrections to university performance may be made after publication.&nbsp;You can view the release version and a summary of any edits <a href="https://www.topuniversities.com/university-rankings-articles/world-university-rankings/qs-world-university-rankings-2022">here</a>.</p>
+<p>You can also meet many of the universities included in the QS World University Rankings at one of our <a href="https://www.topuniversities.com/events">events</a>.</p>
+<p>Let us know what you think of the results and join the #QSWUR conversation on&nbsp;<a data-mce-href="https://www.facebook.com/topuniversities/" href="https://www.facebook.com/topuniversities/">Facebook</a>,&nbsp;<a data-mce-href="https://twitter.com/TopUnis" href="https://twitter.com/TopUnis">Twitter</a>,&nbsp;<a data-mce-href="https://www.linkedin.com/company/qs-world-university-rankings" href="https://www.linkedin.com/company/qs-world-university-rankings">LinkedIn</a>&nbsp;and&nbsp;<a data-mce-href="https://www.instagram.com/topunis/" href="https://www.instagram.com/topunis/">Instagram</a>.</p>
+</div>
+<a href="javascript:void(0)" class="_read-moreclick" myparent="1">Read more</a>
+</div>
+</div>
+</div>
+<div class="_read-more-content-js-div-1 _only_subject d-none mobile">
+<div class="container container-withback">
+<div class="less-content-js display-inline-block-div">
+Featuring 1,300 universities from around the world, this year's university rankings are our largest ever. Each institution has been assessed according to six ke ...
+</div>
+<div class="more-content-js display-inline-block-div d-none">
+<p>Featuring 1,300 universities from around the world, this year's university rankings are our largest ever. Each institution has been assessed according to six&nbsp;key metrics, and you can learn more about this process by reading our <a href="https://www.topuniversities.com/qs-world-university-rankings/methodology">methodology</a>.</p>
+<p>You can use our rankings to easily compare universities and start your university search. Once you're ready to start learning more about each institution and building your shortlist, each university included in our rankings also has a profile page full of details about that institution, from available degree programs to facilities and tuition fees.</p>
+<p>Corrections to university performance may be made after publication.&nbsp;You can view the release version and a summary of any edits <a href="https://www.topuniversities.com/university-rankings-articles/world-university-rankings/qs-world-university-rankings-2022">here</a>.</p>
+<p>You can also meet many of the universities included in the QS World University Rankings at one of our <a href="https://www.topuniversities.com/events">events</a>.</p>
+<p>Let us know what you think of the results and join the #QSWUR conversation on&nbsp;<a data-mce-href="https://www.facebook.com/topuniversities/" href="https://www.facebook.com/topuniversities/">Facebook</a>,&nbsp;<a data-mce-href="https://twitter.com/TopUnis" href="https://twitter.com/TopUnis">Twitter</a>,&nbsp;<a data-mce-href="https://www.linkedin.com/company/qs-world-university-rankings" href="https://www.linkedin.com/company/qs-world-university-rankings">LinkedIn</a>&nbsp;and&nbsp;<a data-mce-href="https://www.instagram.com/topunis/" href="https://www.instagram.com/topunis/">Instagram</a>.</p>
+</div>
+<a href="javascript:void(0)" class="_read-moreclick" myparent="1">Read more</a>
+</div>
+</div>
+<div class="mobile-logo">
+<div class="qs-elsevier-logo"><img loading="lazy" data-src="/sites/default/files/rankings/Elsevier_12_185.png" class="lazy-image"></div>
+</div>
+<div class="register-free-member-parent">
+<div class="register-free-member">
+<p>Register for <span>free</span> site membership to access direct university comparisons and more</p>
+<a href="/signup?nid=''&redirect_path=/world-university-rankings/2022">Register today!</a>
+</div>
+</div>
+<div class="qs-partners-section landing-page container">
+<div class="des-more">
+<div class="collapse" id="readmore">
+<p>Featuring 1,300 universities from around the world, this year's university rankings are our largest ever. Each institution has been assessed according to six&nbsp;key metrics, and you can learn more about this process by reading our <a href="https://www.topuniversities.com/qs-world-university-rankings/methodology">methodology</a>.</p>
+<p>You can use our rankings to easily compare universities and start your university search. Once you're ready to start learning more about each institution and building your shortlist, each university included in our rankings also has a profile page full of details about that institution, from available degree programs to facilities and tuition fees.</p>
+<p>Corrections to university performance may be made after publication.&nbsp;You can view the release version and a summary of any edits <a href="https://www.topuniversities.com/university-rankings-articles/world-university-rankings/qs-world-university-rankings-2022">here</a>.</p>
+<p>You can also meet many of the universities included in the QS World University Rankings at one of our <a href="https://www.topuniversities.com/events">events</a>.</p>
+<p>Let us know what you think of the results and join the #QSWUR conversation on&nbsp;<a data-mce-href="https://www.facebook.com/topuniversities/" href="https://www.facebook.com/topuniversities/">Facebook</a>,&nbsp;<a data-mce-href="https://twitter.com/TopUnis" href="https://twitter.com/TopUnis">Twitter</a>,&nbsp;<a data-mce-href="https://www.linkedin.com/company/qs-world-university-rankings" href="https://www.linkedin.com/company/qs-world-university-rankings">LinkedIn</a>&nbsp;and&nbsp;<a data-mce-href="https://www.instagram.com/topunis/" href="https://www.instagram.com/topunis/">Instagram</a>.</p>
+<a class="ml readm" data-toggle="collapse" href="#readmore" role="button" aria-expanded="false" aria-controls="readmore">Read more</a>
+<a href="#readmore" class="ml readl" data-toggle="collapse" data-target="#readmore" aria-expanded="false" aria-controls="readmore">Read less</a>
+</div>
+</div>
+</div>
+</div>
+<style>
+      @media (min-width: 576px) {
+        .hero {
+          background-image: url('/sites/default/files/ranking-hero/Rankings%20page%402x_1.png')
+        }
+      }
+      @media (max-width: 575px) {
+        .hero {
+          background-image: url('')
+        }
+      }
+    </style>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="layout layout--onecol">
+<div class="layout__region layout__region--content">
+<div class="block block-qs-articleblocks block-ranking-table-block">
+<div class="content">
+<script type="text/javascript">
+                var mapping = googletag.sizeMapping()
+                  .addSize([0, 320], [[300, 50], [300, 250]])
+                    .addSize([768, 200], [750, 200])
+                    .build();
+                  googletag.slots["responsive_ad_1"] = googletag.defineSlot("8070/Topuni-Web/world-university-rankings/2022", [[750, 200], [300, 50], [300, 250]], "js-dfp-tag-responsive_ad_1")
+
+                  .addService(googletag.pubads())
+
+          .setTargeting('URL', ['/world-university-rankings/2022'])
+                    .defineSizeMapping(mapping)
+                ;
+        </script>
+<script type="text/javascript">
+                var mapping = googletag.sizeMapping()
+                  .addSize([0, 320], [[300, 50], [300, 250]])
+                    .addSize([768, 200], [750, 200])
+                    .build();
+                  googletag.slots["responsive_ad_2"] = googletag.defineSlot("8070/Topuni-Web/world-university-rankings/2022", [[750, 200], [300, 50], [300, 250]], "js-dfp-tag-responsive_ad_2")
+
+                  .addService(googletag.pubads())
+
+          .setTargeting('URL', ['/university-rankings/world-university-rankings/2022'])
+                    .defineSizeMapping(mapping)
+                ;
+        </script>
+<script type="text/javascript">
+                  var mapping = googletag.sizeMapping()
+                      .addSize([0, 320], [[300, 50], [300, 250]])
+                      .addSize([768, 200], [750, 200])
+                    .build();
+                
+        googletag.slots["responsive_ad_3"] = googletag.defineSlot("8070/Topuni-Web/world-university-rankings/2022", [[750, 200], [300, 50], [300, 250]], "js-dfp-tag-responsive_ad_3")
+
+                .addService(googletag.pubads())
+        .setTargeting('URL', ['/world-university-rankings/2022'])
+                  .defineSizeMapping(mapping)
+                ;
+      </script>
+<div class=" row need-section-margin dynamic-block-ranking-1 d-none" position="3" customblock="true">
+<div class="_ifdfp_1 _ifdfp_1_divcss scroll-in-mobile td-wrap col-lg-12">
+<div id="js-dfp-tag-responsive_ad_1" class="text-center">
+<script class="dfp-ads-inview" dfp-id="js-dfp-tag-responsive_ad_1" type="text/html">
+                 googletag.cmd.push(function () {
+                 googletag.display('js-dfp-tag-responsive_ad_1');
+                });
+               </script>
+</div>
+</div>
+</div>
+<div class=" row need-section-margin dynamic-block-ranking-2 d-none" position="8" customblock="true">
+<div class="_ifdfp_1 td-wrap col-lg-12 _ifdfp_1_divcss scroll-in-mobile">
+<div id="js-dfp-tag-responsive_ad_2" class="text-center">
+<script class="dfp-ads-inview" dfp-id="js-dfp-tag-responsive_ad_2" type="text/html">
+                 googletag.cmd.push(function () {
+                 googletag.display('js-dfp-tag-responsive_ad_2');
+                });
+               </script>
+</div>
+</div>
+</div>
+<div class=" row need-section-margin dynamic-block-ranking-3 d-none" position customblock="true">
+<div class="_ifdfp_1 td-wrap col-lg-12 _ifdfp_1_divcss scroll-in-mobile">
+<div id="js-dfp-tag-responsive_ad_3" class="text-center">
+<script class="dfp-ads-inview" dfp-id="js-dfp-tag-responsive_ad_3" type="text/html">
+              googletag.cmd.push(function () {
+                googletag.display('js-dfp-tag-responsive_ad_3');
+              });
+            </script>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="block block-block-content block-block-content6d0048a6-5e77-411b-a7d5-2f743a10d07b sdg-learn-more d-none">
+<div class="content" id="sdg_learn_more">
+<p>The UN¡¯s Sustainable Development Goals (SDGs) embody decades of work and a global commitment to tackling the biggest issues facing our world
+<a href="https://www.topuniversities.com/university-rankings/world-university-rankings/sustainable-development-goals" target="_blank" title="Learn more">Learn more</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="layout layout--qsonecol">
+<div class="layout__region layout__region--first">
+<div class="block block-qs-rankings-rest-api block-block-qs-rankings-rest-block">
+<div class="content">
+<input type="hidden" id="apirankingnew" value="1">
+<input type="hidden" id="pagenumberid" value="1">
+<input type="hidden" id="selectedfactor_value" value>
+<input type="hidden" id="selectedfactor_value_group" value>
+<input type="hidden" value="world-university-rankings" id="rankingtype-check-new" name="rankingtype-check">
+<input type="hidden" value="false" id="asia_ranking_type" name="asia_ranking_type">
+<input type="hidden" value="false" id="sustain-check-new" name="sustain-check-new">
+<input type="hidden" value="false" id="trade-ranking-new" name="trade-ranking-new">
+<section>
+<div class="row">
+<div class="col-lg-12">
+<div class>
+<div class="form-inline">
+<div class="field-coll collapse" id="ranking-fillters">
+</div>
+</div>
+<div class="rank-link guides"></div>
+</div>
+</div>
+</div>
+
+<section id="cmt-banner">
+<span class="logo col-md-1 col-1 col-lg-1">&nbsp;</span>
+<div class="cmt-content col-md-7 col-12 col-lg-7">
+<h4>Find your perfect program!</h4>
+<p>Answer a few questions and our program matching tool will do the rest!</p>
+<a class="mobile-link" href="/university-finder/student/match/user-preference" title="Start Matching Tool">Start Matching</a>
+</div>
+<a class="desk-link col-md-2 col-2 col-lg-2" href="/university-finder/student/match/user-preference" title="Start Matching Tool">Start Matching</a>
+<span class="graphic col-md-2 col-2 col-lg-2">&nbsp;</span>
+</section>
+
+
+<div class="row" id="newRankingFilters">
+
+<div class="col-6 col-md-3 d-md-block d-none leftFilterCol _mt_not_scrollbar">
+<div class>
+<div class="filterContainer">
+<div class="filColHead">
+<h6>Filter <span class="selected-counters-js selected-counters d-none">-</span></h6>
+<span id="clearAll" class="hide-in-mobile">
+<a href="javascript:void(0)" class="qsRankMasterfiltersReset_js">Clear All</a>
+</span>
+<span class="show-only-on-mobile filters-close-btn close-modal-filters">
+X
+</span>
+</div>
+<div class="selected-filters selected-filters-js d-none">
+<p class="title-filters">Filtered by:</p>
+<div class="selected-filters-css">
+</div>
+</div>
+<div id="filterAccordion" class="accordion" container="body">
+<div class="card">
+<div class="card-body">
+<div class="yearFilter">
+<div class="f-field-2 no-right-margin year-list d-none d-md-block form-type-select _heightfix48px qs-ranking-year-realdiv hidden margin-top-12-minus  ">
+<label class="float_label_selectpicker">Year</label>
+<select id="qs-ranking-year" class="no-cross-mark qs-ranking-year no-jcf _semantic_select   newzindex required" placeholder="Region" data-autocomplete="false" data-min-charactores="false" data-clearable="true" data-max-selections="false" data-show-on-focus="true" onchange="if (this.value) window.location.href=this.value">
+</select>
+</div>
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header bg-white shadow-sm border-0  ">
+<h2 class="mb-0">
+<button type="button" data-toggle="collapse" data-target="#regionCont" aria-expanded="true" aria-controls="regionCont" class="btn btn-link text-dark font-weight-bold text-uppercase collapsible-link">Region</button>
+</h2>
+</div>
+<div id="regionCont" class="collapse show">
+<div class="card-body">
+<div class="f-field-2 region region-select-fakediv">
+<div class="sel-wrap regn ">
+<div class="region-select no-jcf _semantic_select newzindex required selection ui dropdown" tabindex="0">
+<label for="region-select">Region</label>
+<i class="dropdown icon"></i>
+</div>
+</div>
+</div>
+<div class="f-field-2 region region-select-realdiv d-none">
+<div class="sel-wrap regn ">
+<label for="region-select">Region</label>
+<select id="region-select" class="region-select no-jcf _semantic_select newzindex required" placeholder="Region" data-autocomplete="false" data-min-charactores="false" data-clearable="true" data-max-selections="false" data-show-on-focus="true">
+<option class="hide" value>Region</option>
+</select>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="card">
+<div class="card-header bg-white shadow-sm border-0">
+<h2 class="mb-0">
+<button type="button" data-toggle="collapse" data-target="#locCont" aria-expanded="false" aria-controls="locCont" class="btn btn-link  text-dark font-weight-bold text-uppercase collapsible-link">Country/Territory</button>
+</h2>
+</div>
+<div id="locCont" class="collapse show">
+<div class="card-body">
+
+<div class="f-field-2 country country-select-fakediv">
+<div class="sel-wrap regn ">
+<div class="country-select no-jcf _semantic_select newzindex required selection ui dropdown" tabindex="0">
+<label for="country-select">Country/Territory</label>
+<i class="dropdown icon"></i>
+</div>
+</div>
+</div>
+<div class="f-field-2 country country-select-realdiv d-none">
+<div class="sel-wrap coun ">
+<label for="country-select">Country/Territory</label>
+<select id="country-select" class="country-select no-jcf _semantic_select newzindex required" placeholder="Country/Territory" multiple="multiple" data-autocomplete="true" data-min-charactores="false" data-clearable="false" data-max-selections="false" data-show-on-focus="true" required="required" page="ranking-table">
+<option class="hide" value>Country/Territory</option>
+</select>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-12 col-sm-6 col-md-9 rankTableCol">
+<div class="row">
+<div class="publish-date-ranking-new col-lg-12">
+<p>Published on: <span>08 June 2021</span></p>
+</div>
+</div>
+<div class="row">
+<div class="d-md-none d-sm-block mobileFilters">
+<div class="row">
+<div class="col-12 col-no-padding">
+<div class="new-rank-mobile-search display-inline-mobile">
+<div class="_mob_univ_search">
+<div class="f-field-2 margin-left-24px uni-search uni">
+<input id="_mob_univ_search" class="form-control uni-search-rank _heightfix width314px loc-search-place _type_searchjs" type="text" placeholder="University Search" />
+<i class="fal falqssearch fa-search" onclick="Drupal.behaviors.qs_rankings_datatables.clearvaluesRanking(this, 'uni-search-rank', 'normal')"></i>
+<i class="fal falqssearch fa-times d-none" onclick="Drupal.behaviors.qs_rankings_datatables.clearvaluesRanking(this, 'uni-search-rank', 'clear')"></i>
+</div>
+</div>
+</div>
+<div class="new-rank-filter display-inline-mobile">
+<div class="filter-btn d-block d-md-none">
+<span class="filters-applied-ranking filters-applied-ranking_js d-none">0</span>
+<button type="button" class="btn filterBtn btn-block" data-toggle="modal" data-target="#filterModal">
+<i class="fal fa-filter"></i>
+Filters <span class="selected-counters-js selected-counters d-none">-</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="on-this-position-set">
+</div>
+<div id="it-will-be-fixed-top" class="row">
+<div class="col-lg-12">
+<div class="widthfor-new-ranking display-inline-445 ">
+<div class="ranking_tabs quik-tabs">
+<ul class=" d-none d-md-block  nav nav-pills quicktabs-tabs" role="tablist">
+<li class="d-md-block d-none nav-item first tab_js tab-clicks-js" tabid>
+<a href="#university-rankings" role="tab" data-toggle="tab" class="nav-link  quicktabs-tab-rankings_tabs-0 add_padding quick-navsj ">
+<i class="fal fa-trophy-alt"></i>
+Quick View
+</a>
+</li>
+<li class="d-none d-md-block nav-item last indicators_js tab-clicks-js" tabid="indicators">
+<a href="#university-rankings-indicators" role="tab" data-toggle="tab" class="nav-link quicktabs-tab-rankings_tabs-1 add_padding quick-navsj ">
+<i class="fal fa-analytics"></i>
+Full View
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="widthfor-univ-search display-inline-445 " id="_uni_search">
+<div class="f-field-2 uni-search uni hide-this-in-mobile-indi">
+<input id="_university_search" class="form-control uni-search-rank _heightfix width314px loc-search-place _type_searchjs" type="text" placeholder="University Search" />
+<i class="fal falqssearch fa-search"></i>
+<i class="fal falqssearch fa-times d-none"></i>
+<div class="filter-btn d-block d-md-none">
+<span class="filters-applied-ranking filters-applied-ranking_js d-none">0</span>
+<a class="btn collapsed" data-toggle="collapse" href="#ranking-fillters-div" role="button" aria-expanded="false" aria-controls="_uni_search_filter">
+<i class="fal fa-filter"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="it-will-be-fixed-top-filter" class="row">
+<div class="col-lg-12">
+<div class="_qs-ranking-data-header ">
+<div class="row">
+<div id="sortbyrankingfirstload" class="col-lg-2 col-md-2 col-sm-2 col-2 text-center sort_by_ranking  _mobile-width-320px padding5">
+<span class="_click-function _click-function_js sort_by_ranking active ranks" header="rank">
+<span class="_mobile-width position-relative-i mobilearrow">
+<span class="fixd-width-mobile">Rank
+<span class="arrows-up-down">
+<img loading="lazy" src="/themes/custom/tu_d8/images/ranking/down-active.svg" class="down-active" />
+<img loading="lazy" src="/themes/custom/tu_d8/images/ranking/up-active.svg" class="up-active" />
+<img loading="lazy" src="/themes/custom/tu_d8/images/ranking/down-inactive.svg" class="down-inactive" />
+<img loading="lazy" src="/themes/custom/tu_d8/images/ranking/up-inactive.svg" class="up-inactive" />
+</span>
+</span>
+</span>
+</span>
+</div>
+<div class="col-lg-3 col-md-7 col-sm-5 col-3 heading_university_label sort_by_university _mobile-width-320px padding5">
+<span class="_click-function _click-function_js sort_by_ranking alphabets" header="university">
+University
+<span class="arrows-up-down">
+<img loading="lazy" src="/themes/custom/tu_d8/images/ranking/down-active.svg" class="down-active" />
+<img loading="lazy" src="/themes/custom/tu_d8/images/ranking/up-active.svg" class="up-active" />
+<img loading="lazy" src="/themes/custom/tu_d8/images/ranking/down-inactive.svg" class="down-inactive" />
+<img loading="lazy" src="/themes/custom/tu_d8/images/ranking/up-inactive.svg" class="up-inactive" />
+</span>
+</span>
+</div>
+<div class="col-lg-2 col-md-2 col-sm-3 col-6 text-center sort_by_university _mobile-width-320px padding5 normal-headers">
+<span class="asc _click-function _click-function_js  hide-this-in-mobile-indi   " header="overallscore">
+Overall Score
+<span class="arrows-up-down">
+<img loading="lazy" src="/themes/custom/tu_d8/images/ranking/down-active.svg" class="down-active" />
+<img loading="lazy" src="/themes/custom/tu_d8/images/ranking/up-active.svg" class="up-active" />
+<img loading="lazy" src="/themes/custom/tu_d8/images/ranking/down-inactive.svg" class="down-inactive" />
+<img loading="lazy" src="/themes/custom/tu_d8/images/ranking/up-inactive.svg" class="up-inactive" />
+</span>
+</span>
+<div class="pane-quicktabs-rankings-tabs">
+<div class="_typehtml-div-sorting _typehtml-div-sorting_js"></div>
+</div>
+</div>
+<div class="col-lg-7  col-7  _right_background_big padding-left0 indicators-headers d-none">
+<span class="data-table-scroller-left iconsnew api-arrow data-table-scroller_js hide-this-in-mobile-indi disabled" direction="left">
+<img loading="lazy" src="/themes/custom/tu_d8/images/ranking/left-rank-new.svg" />
+</span>
+<span class="data-table-scroller data-table-scroller-right iconsnew api-arrow data-table-scroller_js hide-this-in-mobile-indi active" direction="right">
+<img loading="lazy" src="/themes/custom/tu_d8/images/ranking/right-rank-new.svg" />
+</span>
+<div id="move-all-js" class="_scrollable_div dxnew-container-institutes extra-padding-right overflowhidden move-all-js ranking-factors-title-js hide-this-in-mobile-indi traderanking  ">
+</div>
+<div class="text-center sort_by_university _mobile-width-320px padding5 asc show-only-on-mobile">
+<span class="asc _click-function hide-this-in-mobile-indi">
+Overall Score
+<span class="arrows-up-down">
+<img loading="lazy" src="/themes/custom/tu_d8/images/ranking/down-active.svg" class="down-active" />
+<img loading="lazy" src="/themes/custom/tu_d8/images/ranking/up-active.svg" class="up-active" />
+<img loading="lazy" src="/themes/custom/tu_d8/images/ranking/down-inactive.svg" class="down-inactive" />
+<img loading="lazy" src="/themes/custom/tu_d8/images/ranking/up-inactive.svg" class="up-inactive" />
+</span>
+</span>
+<div class="pane-quicktabs-rankings-tabs">
+<div class="_typehtml-div-sorting _typehtml-div-sorting_js">
+<div class="td-wrap">University</div>
+<div class="ind-sorter d-block d-md-none">
+<div class="ind-sort-lab mobile-sorting-js-small asc active " header="overallscore" indicator>
+<div class="truncate-txxt-rankdata" header="overallscore">
+<i class="fal fa-arrow-up" aria-hidden="true"></i>
+<i class="fal fa-arrow-down" aria-hidden="true"></i>
+<span>Overall score</span>
+</div>
+</div>
+<div class="dropdown ">
+<a class="dropdown-toggle" href="#" id="indc" data-toggle="dropdown" aria-expanded="false">
+<i class="fal fa-cog" aria-hidden="true"></i>
+</a>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="indc">
+<div class="indc-list">
+<span>Selected indicator will be visible in the table</span>
+<ul id="mobileindicators">
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="ranking-data-load">
+</div>
+<div id="loaderforunivloadmore" class="row d-none">
+<div class="col-lg-12 text-center">
+<div class="loaderforuniv"></div>
+</div>
+</div>
+
+<div class="row mt-3 perpagedata_d-none_js results_perpage_data d-none">
+<div class="col-lg-5 text-center-mobile">
+<div class="inline-block pull-left margin-right-px">
+<p class="_paginationtext">Results per page:</p>
+</div>
+<div class="ui fluid  selection dropdown _semantic_select newzindex sort_by_dropdown perpage_dropdown_js inline-block minwidth84 pull-left margin-right-px">
+<input id="perpagedata" type="hidden" name="perpagedata" value="10">
+<i class="dropdown icon"></i>
+<div class="default text"></div>
+<div class="menu">
+<div class="item active selected" data-value="10">10</div>
+<div class="item" data-value="25">25</div>
+<div class="item" data-value="50">50</div>
+<div class="item" data-value="100">100</div>
+</div>
+</div>
+<div class="inline-block margin-right-px pull-left">
+<p class="_paginationtext _perpagejstext"><span id="_outoftotalcounts">1-10</span> of <span id="_totalcountresults">1000</span></p>
+</div>
+</div>
+<div class="col-lg-7">
+<div class="inline-block100">
+<ul id="alt-style-pagination" class="pagination simple-pagination simple-pagination_right  _qs_stylpaginations">
+<li class="disabled"><span class="current prev"><span aria-hidden="true"><i class="fal fa-chevron-left"></i></span></span></li>
+<li class="active"><span class="current">1</span></li>
+<li><a href="#page-2" class="page-link">2</a></li>
+<li><a href="#page-3" class="page-link">3</a></li>
+<li class><span class="ellipse clickable">¡¦</span></li>
+<li><a href="#page-20" class="page-link">20</a></li>
+<li><a href="#page-2" class="page-link next"><span aria-hidden="true"><i class="fal fa-chevron-right"></i></span></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="pagination-div-new-api"></div>
+<div class="row">
+<div class="col-lg-12">
+<div class="hr-qs-ranking">
+</div>
+</div>
+</div>
+<div class="row">
+<div class="views-element-container"><div class="view view-ranking-footer view-id-ranking_footer view-display-id-block_1 js-view-dom-id-028a489226ea429992b774b55f22d41db209dfa50e8d413a852263fa0b6b8b4f">
+<div class="view-content">
+<div class="views-row">
+<div class="ranking-footer-image">
+</div><div class="ranking-footer-text"><p>Corrections to university performance may be made after publication. You can view the release version and a summary of any edits&nbsp;<a href="https://www.topuniversities.com/university-rankings-articles/world-university-rankings/qs-world-university-rankings-2022" tabindex="-1" target="_blank">here</a>.</p>
+<p><a href="https://www.qs.com/portfolio-items/qs-world-university-rankings-2022-result-tables-excel" target="_blank">Download</a> the results in Excel format.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="loadmoredivvisible"></div>
+</div>
+</div>
+</section>
+<script id="ranking-row" type="text/html">
+   <div class="row ind ::firstloaded::">
+        <div class="col-lg-12">
+          <div class="_qs-ranking-data-row normal-row api-ranking-css ::advanced_profile:: ::redact::">
+            <div class="row">
+              <div class="col-lg-2 col-md-2 col-sm-2 col-2 text-center">
+                <div class="_univ-rank mw-100 hide-this-in-mobile-indi">::rank::</div>
+                <div class="dagger-icon hide-this-in-mobile-indi">
+                  <img loading="lazy" class="::dagger::" src="/themes/custom/tu_d8/images/svg/dagger_symbol.svg" alt="Dagger Icon">
+                </div>
+                <div class="_univ-rank show-this-in-mobile-indi">::rank::<div class="dagger-icon mobile-dagger">
+                    <img loading="lazy" class="::dagger::" src="/themes/custom/tu_d8/images/svg/dagger_symbol.svg" alt="Dagger Icon">
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-7 col-sm-7 col-7">
+                <div class="university-rank-row ">
+                  <span class="logo-wrapper ::university_logo_display::">
+                    <img loading="lazy" src="::logo::">
+                  </span>
+                  <div class="univ-details-right-pos ">
+                    <div class="td-wrap">
+                      <a href="::universityurl::" class="uni-link">::universityname::</a>
+                    </div>
+
+                                        
+
+                    <div class="location">
+                      <i class="fal fa-map-marker-alt" aria-hidden="true"></i>::city:: ::country::
+                    </div>
+                    <div class="stars ::qsstarsdnone::">
+                      <span class="ranking-star">
+                        <i class="fal fa-star" aria-hidden="true"></i>
+                      </span>
+                      <span class="rating_number">::qsrating::</span>
+                      <span class="qs-stars-font">QS Stars</span>
+                    </div>
+                     <div class="more-details ::advanced_profile_more::">
+                        <a href="::universityurl::" class="btn">More Details</a>
+                     </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-2 col-md-2 col-sm-2 col-2 text-center ">
+                <span class="overall-score-span hide-this-in-mobile-indi">::overall_score::</span>
+                <span class="overall-score-span show-this-in-mobile-indi">::overall_score::</span>
+              </div>
+
+
+               
+
+              
+                                           <div class="col-lg-1 col-md-1 col-sm-1 col-1 text-center shortlist_col pull-right">
+                  <a class="wishlist _ranking_page shortlistnonloggedglobaljs _shortlist_nid_::nid::" progoruniv="univ" nid="::nid::" onclick="Drupal.behaviors.tu_d8._adduniversityShortlist(this, ::nid::, 'university')">
+                     <i class="fa fa-heart" aria-hidden="true"></i>
+                     <i class="fas fa-heart" aria-hidden="true"></i>
+                     <span class="_addShortText">Shortlist</span>
+                  </a>
+               </div>
+                           </div>
+          </div>
+        </div>
+      </div>
+</script>
+<script id="ranking-indicators-row" type="text/html">
+   <!-- Mobile starts -->
+      <div class="row ind-row ::firstloaded:: show-only-on-mobile">
+        <div class="col-lg-12">
+          <div class="_qs-ranking-data-row normal-row api-ranking-css ::advanced_profile:: ::redact::">
+            <div class="row">
+              <div class="col-lg-1 col-md-2 col-sm-2 col-2 text-center">
+                <div class="_univ-rank">
+                  <div class="td-wrap">
+                    <div class="td-wrap-in">::rank::</div>
+                  </div>
+                  <div class="dagger-icon mobile-dagger">
+                    <img loading="lazy" class="::dagger::" src="/themes/custom/tu_d8/images/svg/dagger_symbol.svg" alt="Dagger Icon">
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-1 col-md-1 col-sm-1 col-1 dagger-holder hide-this-in-mobile-indi">
+                <div class="dagger-icon">
+                  <img loading="lazy" class="::dagger::" src="/themes/custom/tu_d8/images/svg/dagger_symbol.svg" alt="Dagger Icon">
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-7 col-sm-7 col-7">
+                <div class="university-rank-row  ">
+                  <span class="logo-wrapper ">
+                    <img loading="lazy" src="/sites/default/files/university-of-oxford_478_small.jpg">
+                  </span>
+                  <div class="univ-details-right-pos">
+                    <div class="td-wrap">
+                      <a href="::universityurl::" class="uni-link">::universityname::</a>
+                    </div>
+                    
+                                       
+                    <div class="location ">
+                      <i class="fal fa-map-marker-alt" aria-hidden="true"></i> ::city:: ::country::
+                    </div>
+
+                   
+                    <div class="stars ::qsstarsdnone::">
+                      <span class="ranking-star">
+                        <i class="fal fa-star" aria-hidden="true"></i>
+                      </span>
+                      <span class="rating_number">::qsrating::</span>
+                      <span class="qs-stars-font">QS Stars</span>
+                    </div>
+
+                    <div class="more-details ::advanced_profile_more::">
+                        <a href="::universityurl::" class="btn">More Details</a>
+                    </div>
+
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-2 col-md-2 col-sm-2 col-3 ">
+                <span class="overall-score-span float-right new-ranking"> ::overall_score:: </span>
+              </div>
+
+              
+               
+         
+                                           <div class="col-lg-1 col-md-1 col-sm-1 col-1 text-center shortlist_col pull-right ::advanced_profile::">
+                  <a class="wishlist _ranking_page shortlistnonloggedglobaljs _shortlist_nid_::nid::" progoruniv="univ" nid="::nid::" onclick="Drupal.behaviors.tu_d8._adduniversityShortlist(this, ::nid::, 'university')">
+                     <i class="fa fa-heart" aria-hidden="true"></i>
+                     <i class="fas fa-heart" aria-hidden="true"></i>
+                     <span class="_addShortText">Shortlist</span>
+                  </a>
+               </div>
+                           </div>
+          </div>
+          
+          
+
+        </div>
+      </div>
+      
+
+   <!-- Mobile ends -->
+
+   <div class="row ind-row ::firstloaded:: hide-this-in-mobile-indi">
+      <div class="col-lg-12">
+      <div class="_qs-ranking-data-header-new-white ::redact::">
+         <div class="row">
+            <div class="col-lg-5 _right_background ::advanced_profile::">
+               <div class="row">
+                  <div class="col-lg-12 no-right-padding">
+                     <div class="_qs-ranking-data-row no-top-bottom-border fixed-height common_height_js" nid="::nid::">
+                        <div class="row">
+                           <div class="col-lg-4 text-center hide-this-in-mobile-indi">
+                              <div class="_univ-rank mw-100">::rank::</div>
+                              <div class="dagger-icon">
+                                 <img loading="lazy" class="::dagger::" src="/themes/custom/tu_d8/images/svg/dagger_symbol.svg" alt="Dagger Icon">
+                              </div>
+                           </div>
+                           <div class="col-lg-8 no-padding-indicator-left hide-this-in-mobile-indi">
+                              <div class="university-rank-row ">
+                                 <div class="td-wrap">
+                                    <div class="td-wrap-in"><a href="::universityurl::" class="uni-link">::universityname::</a></div>
+                                 </div>
+                                                                  <div class="location "><i class="fal fa-map-marker-alt" aria-hidden="true"></i> ::city:: ::country::</div>
+                                 <div class="stars ::qsstarsdnone::">
+                                    <span class="ranking-star">
+                                    <i class="fal fa-star" aria-hidden="true"></i>
+                                    </span>
+                                    <span class="rating_number">::qsrating::</span> <span class="qs-stars-font">QS Stars</span>
+                                 </div>
+
+                                 <div class="more-details ::advanced_profile_more::">
+                                    <a href="::universityurl::" class="btn">More Details</a>
+                                 </div>
+
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="col-lg-7 no-left-margin-padding ::advanced_profile::">
+               <div class="row">
+                  <div class="col-lg-12 no-right-padding">
+                     <div class="_scrollable_div all-columns-by-js dxnew-container-institutes overflowhidden _scrollable_div_withdata move-all-js common_height_js_::nid::
+                      ">
+                                                  <div class="_smallblocksfix-width width-120 _mt_not_scrollbar sort_by_university asc move-all-js">
+                             <div class="_data-set">
+                                <div class="overall-score-span-ind overall">
+                                   <span>
+                                      <div class="td-wrap">
+                                         <div class="td-wrap-in">::overall_score::</div>
+                                      </div>
+                                   </span>
+                                </div>
+                             </div>
+                          </div>
+                                                
+
+                        ::moreindicators::
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+
+</script>
+<div class="modal fade" id="more-indi" data-src tabindex="-1" role="dialog" aria-labelledby="more_indi" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h4 class="modal-title">Filter Ranking Indicators</h4>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.657712 0.657712C0.867994 0.447429 1.20893 0.447429 1.41921 0.657712L7.5 6.7385L13.5808 0.657712C13.7911 0.447429 14.132 0.447429 14.3423 0.657712C14.5526 0.867994 14.5526 1.20893 14.3423 1.41921L8.2615 7.5L14.3423 13.5808C14.5526 13.7911 14.5526 14.132 14.3423 14.3423C14.132 14.5526 13.7911 14.5526 13.5808 14.3423L7.5 8.2615L1.41921 14.3423C1.20893 14.5526 0.867994 14.5526 0.657712 14.3423C0.447429 14.132 0.447429 13.7911 0.657712 13.5808L6.7385 7.5L0.657712 1.41921C0.447429 1.20893 0.447429 0.867994 0.657712 0.657712Z" fill="#1D1D1B" />
+</svg>
+</button>
+</div>
+<div class="modal-body">
+<form action="#">
+<div class="dynamic-radios-trade"></div>
+</form>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn-close-trading _apply-trade-filter-clear" data-dismiss="modal">Clear Filters</button>
+<button type="button" class="btn btn-primary _apply-trade-filter">Apply Filters</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="display-block block block-block-content block-block-content5e919aa1-4555-4004-bd2e-374d44076ebd">
+<div class="_webinars qstools">
+<div class="tools tools" style="background-color: #F7A70D">
+<div class="container">
+<div class="image">
+<img loading="lazy" src="/sites/default/files/2021-12/QS%20IGUAGE%20Rating%20System_0.svg" alt="CMT">
+</div>
+<div class="_webinar_content">
+<div class="tag">
+<span><img loading="lazy" src="/sites/default/files/2021-12/calendar-events-yellowOval-squiggle_15.svg" alt="Explore Events" /></span>
+<div class="field field--name-field-tag field--type-list-string field--label-hidden field__item">Tool</div>
+</div>
+<h3>
+<div class="field field--name-field-title field--type-string field--label-hidden field__item">Tired of Google? Speak to those in the know</div>
+</h3>
+<div class="_middle_sectoin">
+<p><div ccp_infra_copy_id="cd7df329-0a51-4860-879b-075e441950a6" ccp_infra_timestamp="1638786394237" ccp_infra_user_hash="383809542" ccp_infra_version="3" data-ccp-timestamp="1638786394237">Get an in-depth look at courses, universities, business schools, career prospects and more at our free events.</div>
+</p>
+<div class="holder">
+<div class="holder">
+</div>
+</div>
+</div>
+<div class="_cta_section">
+<a class="btn" target="_blank" style="background-color: #FFFFFF" href="https://www.topuniversities.com/events">FIND LIVE OR ONLINE EVENTS</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="layout layout--onecol">
+<div class="layout__region layout__region--content">
+<div class="block block-related-content block-layout-builder block-inline-blockrelated-content profile-menu-target blog_section1" id data-stickymenutitle="Related Content">
+<div class="container">
+<h2>Recent articles</h2>
+<div class="field__item category">
+<a href="/article/tags/university-rankings" title="View All">View All</a>
+</div>
+<div class="content">
+<div class="related-contents-categories blog_content related_content_blog">
+<div class="view view-articles view-id-articles view-display-id-block_4 js-view-dom-id-55bfe466ec082c2cfe51e9b198fe9b16ecddf2b21930943c1e86043dc47fe805">
+<div class="view-content">
+<div class="owl-carousel">
+<div class="views-row item">
+<div class="related_blog_item">
+<div class="_qs-related-article">
+<div class="_gallery-for-article">
+<div class="card-img-overlay-new width-100p">
+</div>
+<div class="qs-save-blog-flag">
+<a class="nav-link reg-log-popup article_nid_save-non-logged" href="/signup?nid=118216&redirect_path=/world-university-rankings/2022" article_nid="118216">
+<i class="fal fa-bookmark" id="heart"></i>
+</a>
+</div>
+<a href="/student-info/choosing-university/worlds-top-100-universities " class="article_lead_hyper">
+<div class="_thumb-for-sliders">
+<img srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" sizes="100vw" data-srcset="/sites/default/files/styles/350x168/public/articles/lead-images/MIT%20main.jpg.webp" class="lazyload" src="/sites/default/files/styles/350x168/public/articles/lead-images/MIT%20main.jpg.webp" alt="MIT" title="MIT" typeof="foaf:Image" loading="lazy" />
+</div>
+</a>
+</div>
+<div class="qs-article-content-area">
+<a href="/student-info/choosing-university/worlds-top-100-universities" title="The world&#039;s top 100 universities" hreflang="und" class="new-style-lego">
+The world&#039;s top 100 universities
+</a>
+<div class="qs-article-content-para">
+Discover the top 100 universities in the world, based on the latest QS World University Rankings.
+</div>
+<div class="qs-article-footer-content clearfix">
+<div class="qs-author-image">
+<a href="/users/craigocallaghan-0">
+<img class="rounded-circle image-style-_0x40" src="/sites/default/files/styles/40x40/public/externals/06db3b5b597cc32653da042021bdae29.jpg.webp" width="40" height="40" alt="Craig image" loading="lazy" typeof="foaf:Image" />
+</a>
+</div>
+<div class="user_info">
+<div class="author-name-qs">
+<a href="/users/craigocallaghan-0" data-name="Craig OCallaghan
+">
+By Craig OCallaghan
+</a>
+</div>
+<div class="qs-blog-stats">
+<small class="dt">Nov 15, 2023
+</small>
+<div class="pull-right">
+<i class="far fa-eye" aria-hidden="true"></i> 0M
+<i class="far fa-share-alt" aria-hidden="true"></i>
+8.6k
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row item">
+<div class="related_blog_item">
+<div class="_qs-related-article">
+<div class="_gallery-for-article">
+<div class="card-img-overlay-new width-100p">
+</div>
+<div class="qs-save-blog-flag">
+<a class="nav-link reg-log-popup article_nid_save-non-logged" href="/signup?nid=957333&redirect_path=/world-university-rankings/2022" article_nid="957333">
+<i class="fal fa-bookmark" id="heart"></i>
+</a>
+</div>
+<a href="/university-rankings-articles/asian-university-rankings/top-universities-asia " class="article_lead_hyper">
+<div class="_thumb-for-sliders">
+<img srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" sizes="100vw" data-srcset="/sites/default/files/styles/350x168/public/articles/lead-images/nus_header.jpg.webp" class="lazyload" src="/sites/default/files/styles/350x168/public/articles/lead-images/nus_header.jpg.webp" alt="Top Universities in Asia main image" title="Top Universities in Asia main image" typeof="foaf:Image" loading="lazy" />
+</div>
+</a>
+</div>
+<div class="qs-article-content-area">
+<a href="/university-rankings-articles/asian-university-rankings/top-universities-asia" title="Top universities in Asia" hreflang="und" class="new-style-lego">
+Top universities in Asia
+</a>
+<div class="qs-article-content-para">
+Discover the top 10 universities in&nbsp;Asia&nbsp;this year, based on the QS&nbsp;Asia University Rankings.
+</div>
+<div class="qs-article-footer-content clearfix">
+<div class="qs-author-image">
+<a href="/users/hollyhemmings">
+<img class="rounded-circle image-style-_0x40" src="/themes/custom/tu_d8/images/user-default.png" alt="Holly image" typeof="foaf:Image" loading="lazy" />
+</a>
+</div>
+<div class="user_info">
+<div class="author-name-qs">
+<a href="/users/hollyhemmings" data-name="Holly Hemmings
+">
+By Holly Hemmings
+</a>
+</div>
+<div class="qs-blog-stats">
+<small class="dt">Nov 14, 2023
+</small>
+<div class="pull-right">
+<i class="far fa-eye" aria-hidden="true"></i> 0M
+<i class="far fa-share-alt" aria-hidden="true"></i>
+108
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row item">
+<div class="related_blog_item">
+<div class="_qs-related-article">
+<div class="_gallery-for-article">
+<div class="card-img-overlay-new width-100p">
+</div>
+<div class="qs-save-blog-flag">
+<a class="nav-link reg-log-popup article_nid_save-non-logged" href="/signup?nid=948724&redirect_path=/world-university-rankings/2022" article_nid="948724">
+<i class="fal fa-bookmark" id="heart"></i>
+</a>
+</div>
+<a href="/university-rankings-articles/world-university-rankings/top-universities-uk " class="article_lead_hyper">
+<div class="_thumb-for-sliders">
+<img srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" sizes="100vw" data-srcset="/sites/default/files/styles/350x168/public/articles/lead-images/oxford_university_radcliffe.jpg.webp" class="lazyload" src="/sites/default/files/styles/350x168/public/articles/lead-images/oxford_university_radcliffe.jpg.webp" alt="Top Universities in the UK main image" title="Top Universities in the UK main image" typeof="foaf:Image" loading="lazy" />
+</div>
+</a>
+</div>
+<div class="qs-article-content-area">
+<a href="/university-rankings-articles/world-university-rankings/top-universities-uk" title="Top universities in the UK" hreflang="und" class="new-style-lego">
+Top universities in the UK
+</a>
+<div class="qs-article-content-para">
+Discover which universities in the UK come out on top in the QS World University Rankings.
+</div>
+<div class="qs-article-footer-content clearfix">
+<div class="qs-author-image">
+<a href="/users/hollyhemmings">
+<img class="rounded-circle image-style-_0x40" src="/themes/custom/tu_d8/images/user-default.png" alt="Holly image" typeof="foaf:Image" loading="lazy" />
+</a>
+</div>
+<div class="user_info">
+<div class="author-name-qs">
+<a href="/users/hollyhemmings" data-name="Holly Hemmings
+">
+By Holly Hemmings
+</a>
+</div>
+<div class="qs-blog-stats">
+<small class="dt">Nov 12, 2023
+</small>
+<div class="pull-right">
+<i class="far fa-eye" aria-hidden="true"></i> 1,790,612
+<i class="far fa-share-alt" aria-hidden="true"></i>
+1.8k
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row item">
+<div class="related_blog_item">
+<div class="_qs-related-article">
+<div class="_gallery-for-article">
+<div class="card-img-overlay-new width-100p">
+</div>
+<div class="qs-save-blog-flag">
+<a class="nav-link reg-log-popup article_nid_save-non-logged" href="/signup?nid=326189&redirect_path=/world-university-rankings/2022" article_nid="326189">
+<i class="fal fa-bookmark" id="heart"></i>
+</a>
+</div>
+<a href="/qs-world-university-rankings/methodology " class="article_lead_hyper">
+<div class="_thumb-for-sliders">
+<img srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" sizes="100vw" data-srcset="/sites/default/files/styles/350x168/public/articles/lead-images/World_University_Rankings_2024.jpg.webp" class="lazyload" src="/sites/default/files/styles/350x168/public/articles/lead-images/World_University_Rankings_2024.jpg.webp" alt="QS World University Rankings 2024 methodology" title="QS World University Rankings 2024 methodology" typeof="foaf:Image" loading="lazy" />
+</div>
+</a>
+</div>
+<div class="qs-article-content-area">
+<a href="/qs-world-university-rankings/methodology" title="QS World University Rankings methodology: Using rankings to start your university search" hreflang="und" class="new-style-lego">
+QS World University Rankings methodology: Usin¡¦
+</a>
+<div class="qs-article-content-para">
+The 20th edition of the QS World University Rankings features 1,500 institutions across 104 locations and is the only ranking of its kind to emphasise employability and sustainability. This year, we've implemented our largest-ever methodological enhancement, introducing three new metrics: Sustainability, Employment Outcomes and International Research Network.&nbsp;
+</div>
+<div class="qs-article-footer-content clearfix">
+<div class="qs-author-image">
+<a href="/users/craigocallaghan-0">
+<img class="rounded-circle image-style-_0x40" src="/sites/default/files/styles/40x40/public/externals/06db3b5b597cc32653da042021bdae29.jpg.webp" width="40" height="40" alt="Craig image" loading="lazy" typeof="foaf:Image" />
+</a>
+</div>
+<div class="user_info">
+<div class="author-name-qs">
+<a href="/users/craigocallaghan-0" data-name="Craig OCallaghan
+">
+By Craig OCallaghan
+</a>
+</div>
+<div class="qs-blog-stats">
+<small class="dt">Nov 09, 2023
+</small>
+<div class="pull-right">
+<i class="far fa-eye" aria-hidden="true"></i> 0M
+<i class="far fa-share-alt" aria-hidden="true"></i>
+2.4k
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row item">
+<div class="related_blog_item">
+<div class="_qs-related-article">
+<div class="_gallery-for-article">
+<div class="card-img-overlay-new width-100p">
+</div>
+<div class="qs-save-blog-flag">
+<a class="nav-link reg-log-popup article_nid_save-non-logged" href="/signup?nid=3922197&redirect_path=/world-university-rankings/2022" article_nid="3922197">
+<i class="fal fa-bookmark" id="heart"></i>
+</a>
+</div>
+<a href="/university-rankings-articles/world-university-rankings/top-universities-australia " class="article_lead_hyper">
+<div class="_thumb-for-sliders">
+<img srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" sizes="100vw" data-srcset="/sites/default/files/styles/350x168/public/articles/lead-images/pexels-felix-haumann-3626248%20%281%29.jpg.webp" class="lazyload" src="/sites/default/files/styles/350x168/public/articles/lead-images/pexels-felix-haumann-3626248%20%281%29.jpg.webp" alt="Melbourne" title="Melbourne" typeof="foaf:Image" loading="lazy" />
+</div>
+</a>
+</div>
+<div class="qs-article-content-area">
+<a href="/university-rankings-articles/world-university-rankings/top-universities-australia" title="Top universities in Australia" hreflang="und" class="new-style-lego">
+Top universities in Australia
+</a>
+<div class="qs-article-content-para">
+Discover the top universities in Australia, according to the QS World University Rankings 2024.
+</div>
+<div class="qs-article-footer-content clearfix">
+<div class="qs-author-image">
+<a href="/users/craigocallaghan-0">
+<img class="rounded-circle image-style-_0x40" src="/sites/default/files/styles/40x40/public/externals/06db3b5b597cc32653da042021bdae29.jpg.webp" width="40" height="40" alt="Craig image" loading="lazy" typeof="foaf:Image" />
+</a>
+</div>
+<div class="user_info">
+<div class="author-name-qs">
+<a href="/users/craigocallaghan-0" data-name="Craig OCallaghan
+">
+By Craig OCallaghan
+</a>
+</div>
+<div class="qs-blog-stats">
+<small class="dt">Nov 07, 2023
+</small>
+<div class="pull-right">
+<i class="far fa-eye" aria-hidden="true"></i> 0M
+<i class="far fa-share-alt" aria-hidden="true"></i>
+202
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row item">
+<div class="related_blog_item">
+<div class="_qs-related-article">
+<div class="_gallery-for-article">
+<div class="card-img-overlay-new width-100p">
+</div>
+<div class="qs-save-blog-flag">
+<a class="nav-link reg-log-popup article_nid_save-non-logged" href="/signup?nid=923289&redirect_path=/world-university-rankings/2022" article_nid="923289">
+<i class="fal fa-bookmark" id="heart"></i>
+</a>
+</div>
+<a href="/university-rankings-articles/world-university-rankings/top-us-universities-state " class="article_lead_hyper">
+<div class="_thumb-for-sliders">
+<img srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" sizes="100vw" data-srcset="/sites/default/files/styles/350x168/public/articles/lead-images/main_state_columbia.jpg.webp" class="lazyload" src="/sites/default/files/styles/350x168/public/articles/lead-images/main_state_columbia.jpg.webp" alt="Columbia University " title="Columbia University " typeof="foaf:Image" loading="lazy" />
+</div>
+</a>
+</div>
+<div class="qs-article-content-area">
+<a href="/university-rankings-articles/world-university-rankings/top-us-universities-state" title="Top US universities by state" hreflang="und" class="new-style-lego">
+Top US universities by state
+</a>
+<div class="qs-article-content-para">
+Find out which is the best university in each US state, according to the QS World University Rankings 2024.
+</div>
+<div class="qs-article-footer-content clearfix">
+<div class="qs-author-image">
+<a href="/users/keshalajayawickrama-0">
+<img class="rounded-circle image-style-_0x40" src="/sites/default/files/styles/40x40/public/externals/d9bba90833751b77c3e476cd620ae74b.png.webp" width="40" height="40" alt="Keshala image" loading="lazy" typeof="foaf:Image" />
+</a>
+</div>
+<div class="user_info">
+<div class="author-name-qs">
+<a href="/users/keshalajayawickrama-0" data-name="Keshala Jayawickrama
+">
+By Keshala Jayawickrama
+</a>
+</div>
+<div class="qs-blog-stats">
+<small class="dt">Nov 04, 2023
+</small>
+<div class="pull-right">
+<i class="far fa-eye" aria-hidden="true"></i> 0M
+<i class="far fa-share-alt" aria-hidden="true"></i>
+126
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row item">
+<div class="related_blog_item">
+<div class="_qs-related-article">
+<div class="_gallery-for-article">
+<div class="card-img-overlay-new width-100p">
+</div>
+<div class="qs-save-blog-flag">
+<a class="nav-link reg-log-popup article_nid_save-non-logged" href="/signup?nid=350795&redirect_path=/world-university-rankings/2022" article_nid="350795">
+<i class="fal fa-bookmark" id="heart"></i>
+</a>
+</div>
+<a href="/where-to-study/north-america/united-states/ranked-top-100-us-universities " class="article_lead_hyper">
+<div class="_thumb-for-sliders">
+<img srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" sizes="100vw" data-srcset="/sites/default/files/styles/350x168/public/articles/lead-images/harvard-university-students-relaxing-along-charles-river-picture-id131543948.jpg.webp" class="lazyload" src="/sites/default/files/styles/350x168/public/articles/lead-images/harvard-university-students-relaxing-along-charles-river-picture-id131543948.jpg.webp" alt="Ranked: The Top 100 US Universities" title="Ranked: The Top 100 US Universities" typeof="foaf:Image" loading="lazy" />
+</div>
+</a>
+</div>
+<div class="qs-article-content-area">
+<a href="/where-to-study/north-america/united-states/ranked-top-100-us-universities" title="Ranked: The top 100 universities in the USA" hreflang="und" class="new-style-lego">
+Ranked: The top 100 universities in the USA
+</a>
+<div class="qs-article-content-para">
+These are the top 100 US universities, based upon the QS World University Rankings 2024. Find out which universities are the best in your home state!
+</div>
+<div class="qs-article-footer-content clearfix">
+<div class="qs-author-image">
+<a href="/users/craigocallaghan-0">
+<img class="rounded-circle image-style-_0x40" src="/sites/default/files/styles/40x40/public/externals/06db3b5b597cc32653da042021bdae29.jpg.webp" width="40" height="40" alt="Craig image" loading="lazy" typeof="foaf:Image" />
+</a>
+</div>
+<div class="user_info">
+<div class="author-name-qs">
+<a href="/users/craigocallaghan-0" data-name="Craig OCallaghan
+">
+By Craig OCallaghan
+</a>
+</div>
+<div class="qs-blog-stats">
+<small class="dt">Oct 31, 2023
+</small>
+<div class="pull-right">
+<i class="far fa-eye" aria-hidden="true"></i> 0M
+<i class="far fa-share-alt" aria-hidden="true"></i>
+4.8k
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row item">
+<div class="related_blog_item">
+<div class="_qs-related-article">
+<div class="_gallery-for-article">
+<div class="card-img-overlay-new width-100p">
+</div>
+<div class="qs-save-blog-flag">
+<a class="nav-link reg-log-popup article_nid_save-non-logged" href="/signup?nid=139771&redirect_path=/world-university-rankings/2022" article_nid="139771">
+<i class="fal fa-bookmark" id="heart"></i>
+</a>
+</div>
+<a href="/where-to-study/region/europe/top-universities-europe " class="article_lead_hyper">
+<div class="_thumb-for-sliders">
+<img srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" sizes="100vw" data-srcset="/sites/default/files/styles/350x168/public/articles/lead-images/top_universities_in_europe_2.jpg.webp" class="lazyload" src="/sites/default/files/styles/350x168/public/articles/lead-images/top_universities_in_europe_2.jpg.webp" alt="Top Universities in Europe main image" title="Top Universities in Europe main image" typeof="foaf:Image" loading="lazy" />
+</div>
+</a>
+</div>
+<div class="qs-article-content-area">
+<a href="/where-to-study/region/europe/top-universities-europe" title="Top universities in Europe" hreflang="und" class="new-style-lego">
+Top universities in Europe
+</a>
+<div class="qs-article-content-para">
+Want to study in Europe but can¡¯t decide where? Explore the top universities in Europe by location, according to the QS World University Rankings 2024.
+</div>
+<div class="qs-article-footer-content clearfix">
+<div class="qs-author-image">
+<a href="/users/craigocallaghan-0">
+<img class="rounded-circle image-style-_0x40" src="/sites/default/files/styles/40x40/public/externals/06db3b5b597cc32653da042021bdae29.jpg.webp" width="40" height="40" alt="Craig image" loading="lazy" typeof="foaf:Image" />
+</a>
+</div>
+<div class="user_info">
+<div class="author-name-qs">
+<a href="/users/craigocallaghan-0" data-name="Craig OCallaghan
+">
+By Craig OCallaghan
+</a>
+</div>
+<div class="qs-blog-stats">
+<small class="dt">Oct 25, 2023
+</small>
+<div class="pull-right">
+<i class="far fa-eye" aria-hidden="true"></i> 0M
+<i class="far fa-share-alt" aria-hidden="true"></i>
+906
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row item">
+<div class="related_blog_item">
+<div class="_qs-related-article">
+<div class="_gallery-for-article">
+<div class="card-img-overlay-new width-100p">
+</div>
+<div class="qs-save-blog-flag">
+<a class="nav-link reg-log-popup article_nid_save-non-logged" href="/signup?nid=955215&redirect_path=/world-university-rankings/2022" article_nid="955215">
+<i class="fal fa-bookmark" id="heart"></i>
+</a>
+</div>
+<a href="/university-rankings-articles/arab-region-university-rankings/top-universities-arab-region " class="article_lead_hyper">
+<div class="_thumb-for-sliders">
+<img srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" sizes="100vw" data-srcset="/sites/default/files/styles/350x168/public/articles/lead-images/main_20.jpg.webp" class="lazyload" src="/sites/default/files/styles/350x168/public/articles/lead-images/main_20.jpg.webp" alt="Top Universities in the Arab Region main image" title="Top Universities in the Arab Region main image" typeof="foaf:Image" loading="lazy" />
+</div>
+</a>
+</div>
+<div class="qs-article-content-area">
+<a href="/university-rankings-articles/arab-region-university-rankings/top-universities-arab-region" title="Top universities in the Arab region" hreflang="und" class="new-style-lego">
+Top universities in the Arab region
+</a>
+<div class="qs-article-content-para">
+Discover more about the top 10 universities in the Arab region this year, based on the QS World University Rankings: Arab Region 2024.
+</div>
+<div class="qs-article-footer-content clearfix">
+<div class="qs-author-image">
+<a href="/users/keshalajayawickrama-0">
+<img class="rounded-circle image-style-_0x40" src="/sites/default/files/styles/40x40/public/externals/d9bba90833751b77c3e476cd620ae74b.png.webp" width="40" height="40" alt="Keshala image" loading="lazy" typeof="foaf:Image" />
+</a>
+</div>
+<div class="user_info">
+<div class="author-name-qs">
+<a href="/users/keshalajayawickrama-0" data-name="Keshala Jayawickrama
+">
+By Keshala Jayawickrama
+</a>
+</div>
+<div class="qs-blog-stats">
+<small class="dt">Oct 25, 2023
+</small>
+<div class="pull-right">
+<i class="far fa-eye" aria-hidden="true"></i> 0M
+<i class="far fa-share-alt" aria-hidden="true"></i>
+19
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row item">
+<div class="related_blog_item">
+<div class="_qs-related-article">
+<div class="_gallery-for-article">
+<div class="card-img-overlay-new width-100p">
+</div>
+<div class="qs-save-blog-flag">
+<a class="nav-link reg-log-popup article_nid_save-non-logged" href="/signup?nid=3632333&redirect_path=/world-university-rankings/2022" article_nid="3632333">
+<i class="fal fa-bookmark" id="heart"></i>
+</a>
+</div>
+<a href="/university-rankings-articles/university-subject-rankings/top-computer-science-schools " class="article_lead_hyper">
+<div class="_thumb-for-sliders">
+<img srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" sizes="100vw" data-srcset="/sites/default/files/styles/350x168/public/articles/lead-images/AdobeStock_319449098.jpg.webp" class="lazyload" src="/sites/default/files/styles/350x168/public/articles/lead-images/AdobeStock_319449098.jpg.webp" alt="Computer science students" title="Computer science students" typeof="foaf:Image" loading="lazy" />
+</div>
+</a>
+</div>
+<div class="qs-article-content-area">
+<a href="/university-rankings-articles/university-subject-rankings/top-computer-science-schools" title="Top universities for computer science" hreflang="und" class="new-style-lego">
+Top universities for computer science
+</a>
+<div class="qs-article-content-para">
+Find out which universities rank highest for computer science in the world, based on the recently released QS World University Rankings by Subject.
+</div>
+<div class="qs-article-footer-content clearfix">
+<div class="qs-author-image">
+<a href="/users/hollyhemmings">
+<img class="rounded-circle image-style-_0x40" src="/themes/custom/tu_d8/images/user-default.png" alt="Holly image" typeof="foaf:Image" loading="lazy" />
+</a>
+</div>
+<div class="user_info">
+<div class="author-name-qs">
+<a href="/users/hollyhemmings" data-name="Holly Hemmings
+">
+By Holly Hemmings
+</a>
+</div>
+<div class="qs-blog-stats">
+<small class="dt">Oct 25, 2023
+</small>
+<div class="pull-right">
+<i class="far fa-eye" aria-hidden="true"></i> 0M
+<i class="far fa-share-alt" aria-hidden="true"></i>
+72
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="layout layout--threecol-section layout--threecol-section--33-34-33">
+<div class="layout__region layout__region--first">
+<div class="english-literature-class block block-block-content block-block-content13a5cdae-74c3-4989-ad0a-24be9053a4b2 get-free-updates">
+<div class="block_heading">Monthly updates</div>
+<div class="content">
+<div class="card-box test_prep">
+<div class="d-block d-md-none">
+<div class="field field--name-field-mobile-image field--type-image field--label-hidden field__item"> <img src="/sites/default/files/2021-03/Joing%20QS%201-QS%20Orange%402x_0.png" width="700" height="392" alt="QS Community" loading="lazy" typeof="foaf:Image" />
+</div>
+</div>
+<div class="d-none d-md-block desk_img">
+<div class="field field--name-field-desktop-image field--type-image field--label-hidden field__item"> <img src="/sites/default/files/2021-03/Joing%20QS%201-QS%20Orange%402x.png" width="700" height="392" alt="QS Community" loading="lazy" typeof="foaf:Image" />
+</div>
+</div>
+<div class="card-text">
+<p> Get the latest student and graduate news straight to your inbox. </p>
+<a href="/signup?nid=''&redirect_path=/world-university-rankings/2022" class="reg-log-popup btn btn-white">
+<div class="field field--name-field-button-text field--type-string field--label-hidden field__item">Sign me up</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="layout__region layout__region--second">
+<div class="english-literature-class block block-block-content block-block-content60f7252f-4add-4bc0-ba81-f934c4bb4b1f" style>
+<div class="content">
+<div class="block_heading">
+<div class="field field--name-field-heading field--type-string field--label-hidden field__item">Course Matching Tool</div>
+</div>
+<div class="card-box test_prep">
+<div class="d-block d-md-none">
+<div class="field field--name-field-mobile-image field--type-image field--label-hidden field__item"> <img src="/sites/default/files/2021-03/Course%20Matching-QS%20Orange%402x.png" width="700" height="392" alt="Course Matching Tool" loading="lazy" typeof="foaf:Image" />
+</div>
+</div>
+<div class="d-none d-md-block desk_img">
+<div class="field field--name-field-desktop-image field--type-image field--label-hidden field__item"> <img src="/sites/default/files/2021-03/Course%20Matching-QS%20Orange%402x_0.png" width="700" height="392" alt="Course Matching Tool" loading="lazy" typeof="foaf:Image" />
+</div>
+</div>
+<div class="card-text">
+<p> Use our tool to find your perfect course. Answer a few questions and we will do the rest! </p>
+<a href="/university-finder/student/match?utm_source=TU&amp;utm_campaign=CMT&amp;utm_medium=IW" class="btn btn-white" target="_blank">Start Matching</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="layout__region layout__region--third">
+<div class="english-literature-class block block-block-content block-block-contentd5db902c-f544-4c52-a86c-0698c0de78ff" style>
+<div class="content">
+<div class="block_heading">
+<div class="field field--name-field-heading field--type-string field--label-hidden field__item">Admission Support</div>
+</div>
+<div class="card-box test_prep">
+<div class="d-block d-md-none">
+<div class="field field--name-field-mobile-image field--type-image field--label-hidden field__item"> <img src="/sites/default/files/2021-03/LEAP-QS%20Orange%402x_1.png" width="700" height="392" alt="Admission Support" loading="lazy" typeof="foaf:Image" />
+</div>
+</div>
+<div class="d-none d-md-block desk_img">
+<div class="field field--name-field-desktop-image field--type-image field--label-hidden field__item"> <img src="/sites/default/files/2021-03/LEAP-QS%20Orange%402x_2.png" width="700" height="392" alt="Admission Support" loading="lazy" typeof="foaf:Image" />
+</div>
+</div>
+<div class="card-text">
+<p> Our expert teams are here to help start your academic journey by guiding you through the application process. </p>
+<a href="https://qs.topuniversities.com/student-apply-support?utm_source=tile&amp;utm_campaign=admission_support" class="btn btn-white" target="_blank">Know More</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<div id="block-universityapplyfooterblock" class="block block-qs-uni-prog-directory block-qs-uni-program-footer">
+<div class="content">
+<section class="_showin_iframes d-none">
+<div class="container">
+<div id="compare_universities_data">
+</div>
+</div>
+<input type="hidden" id="pagenumberidshortlist" value="1">
+<input type="hidden" id="perpageshortlist" value="10">
+<input type="hidden" id="shortlistdatatype" value="university">
+<script id="shortlistmodalheader" type="text/html">
+
+  <div class=" _headderdivlisting wrap_head _makeit_full_width grey checkwhenshortlisthidden_js">
+    <div class="header_wrap shortlist_page">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="heading fontweight500 shortlist_new">
+              <p class="title-sub">My Shortlist Summary</p>
+            </div>
+            <h1 class="heading fontweight500 shortlist_new">
+
+              <span class="commonheaderdisplayshortlist hide_in_mob_inline"></span>
+            </h1>
+
+            <span onclick="Drupal.behaviors.tu_d8.getCompareContentShowmodal(this, 'close')" class="pull-right _rightclose">
+                <i class="fal fa-times"></i>
+              </span>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+  <div class="_headderdivlisting wrap_head _makeit_full_width grey fixedonshortlist_js fixedonshortlist_css d-none">
+    <div class="header_wrap shortlist_page">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+
+            <div class="heading fontweight500 shortlist_new after">
+              <p class="title-sub">My Shortlist Summary</p>
+            </div>
+
+            <h1 class="heading fontweight500 shortlist_new">
+            <span class="commonheaderdisplayshortlist hide_in_mob_inline"></span>
+            <span onclick="Drupal.behaviors.tu_d8.getCompareContentShowmodal(this, 'close')" class="pull-right _rightclose new">
+                <i class="fal fa-times"></i>
+              </span>
+            </h1>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row hide_in_desktop">
+      <div class="col-12">
+        <div class="shortlist_text_modal"><span class="commonheaderdisplayshortlist"></span></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="quik-tabs">
+          <ul class="nav nav-pills quicktabs-tabs width50pformobile" role="tablist">
+            <li class="nav-item" onclick="Drupal.behaviors.tu_d8.getAllShortlistedData('university')">
+              <a href="javascript:void(0)" class="nav-link link_shortlist_js link_shortlist_js_university active add-height">
+                Universities
+              </a>
+            </li>
+            <li class="nav-item" onclick="Drupal.behaviors.tu_d8.getAllShortlistedData('program')">
+              <a href="javascript:void(0)" class="nav-link link_shortlist_js link_shortlist_js_program add-height">
+                Programs
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="row margin-top-40px">
+
+      <div class="col-lg-4 leftrightmobilepadding countiszerosearchidejs">
+         <input type="hidden" id="shortlisted_university_nid" value="">
+         <div class="qs-search-box select_uni_field">
+            <div class="_mt__qs_input_style_1 margin-bottom-20px inputshort_pro_js">
+               <input id="shortlisted_university" child-options-id="1" class="form-control" name="shortlisted_university" autocomplete="off" required="required">
+               <span class="_clear-all-shortlist-icon _clear-all-shortlist-icon_js d-none" onclick="Drupal.behaviors.tu_d8.clearShortlistData(this)">
+               <i class="fal fa-times"></i>
+               </span>
+               <label>Select shortlisted university</label>
+               <div id="show-options-1" class="list-of-options list-of-options_js d-none">
+
+               </div>
+            </div>
+         </div>
+      </div>
+
+      <div  id="search-vary-sizes" class="col-lg-12 leftrightmobilepadding">
+        <div class="university_search _closeiconsinput">
+          <input
+                id="_shortlistinput_search"
+                type="text"
+                 class="form-control _shortlistinput heightnew48px padding-left-20px"
+                 placeholder="Search shortlisted university"
+                 >
+          <span class="_postion_Search_new _postion_Search_new_js_shortlist" onclick="Drupal.behaviors.tu_d8.getshortlistinModal();">
+            <i class="fal fa-search"></i>
+          </span>
+           <i class="fal fa-times _shortlistx new d-none" onclick="Drupal.behaviors.tu_d8.getshortlistinModal('clearinput');"></i>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="row no_resultss no_resultss_js_shortlist d-none paddingtop10">
+      <div class="row">
+        <div class="col-lg-12">
+        <div class="_qs-ranking-logo _null-shortlist-image">
+          <img src="/themes/custom/tu_d8/images/null-shortlist.png">
+        </div>
+        <div class="_nor_esultsShortlist">
+          <div class="_user_searchupdate_js_shortlist_univ _user_searchupdate_titlename">
+            <p><i class="fal fa-info-circle"></i> <b></b> </p>
+          </div>
+          <p class="_greywithopacity"> Click on " <span><i class="fal fa-heart"></i></span>Shortlist" to get started!!</p>
+        </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row no_resultss_js_shortlist d-none">
+      <div class="col-lg-12">
+        <div class="desktop_div _title_for_noresults _title_for_noresults_js"></div>
+        <div class="mobile_div _title_for_noresults _title_for_noresults_js"></div>
+      </div>
+    </div>
+
+    <div class="row _loadingforUniv_js_shortlist">
+      <div class="col-lg-12">
+        <div class="text-center">
+          <div class="loaderforuniv"></div>
+        </div>
+      </div>
+    </div>
+
+
+
+    <div id="univListingCards_shortlist"></div>
+
+
+    <div id="resultstextpageshortlist" class="row d-none">
+      <div class="col-lg-5">
+        <div class="inline-block pull-left margin-right-px">
+          <p class="_paginationtext">Results per page:</p>
+        </div>
+        <div class="ui fluid  selection dropdown _semantic_select sort_by_dropdown perpage_dropdown_js_shortlist inline-block minwidth84 pull-left margin-right-px">
+          <input id="perpagedata" type="hidden" name="perpagedata" value="10">
+          <i class="dropdown icon"></i>
+          <div class="default text"></div>
+          <div class="menu">
+            <div class="item active selected" data-value="10">10</div>
+            <div class="item" data-value="25">25</div>
+            <div class="item" data-value="50">50</div>
+            <div class="item" data-value="100">100</div>
+          </div>
+        </div>
+        <div class="inline-block margin-right-px pull-left">
+          <p class="_paginationtext _perpagejstext"><span id="_outoftotalcounts_shortlist">1-10</span> of <span id="_totalcountresults_shortlist">1000</span></p>
+        </div>
+      </div>
+
+      <div class="col-lg-7">
+        <div class="inline-block100">
+          <ul id="alt-style-pagination-shortlist" class="pagination simple-pagination simple-pagination_right  _qs_stylpaginations">
+            <li class="disabled"><span class="current prev"><span aria-hidden="true"><i class="fal fa-chevron-left"></i></span></span></li>
+            <li class="active"><span class="current">1</span></li>
+            <li><a href="#page-2" class="page-link">2</a></li>
+            <li><a href="#page-3" class="page-link">3</a></li>
+            <li class=""><span class="ellipse clickable">¡¦</span></li>
+            <li><a href="#page-20" class="page-link">20</a></li>
+            <li><a href="#page-2" class="page-link next"><span aria-hidden="true"><i class="fal fa-chevron-right"></i></span></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</script>
+
+<script type="text/html" id="_programCardTemplate">
+   <div class="row">
+      <div class="col-lg-12">
+         <div class="programWrap">
+            <div class="card">
+               <div class="card-wrap apply-wrapper-::nid::">
+                  <div class="programeTitle apply_univ_name">
+                     <h2><a title="::program_name::" href="::program_url::">::program_name::</a></h2>
+                  </div>
+                  <div class="left_img">
+                     <a title="::program_name::" href="::program_url::">
+                        <div class="img-wrap overlay_dark" style="background-image: url('::backgroundimg::')">
+                           <div class="card-img-overlay">
+                              <div class="recommended ::recommended_class::">Advert</div>
+                              <div class="def-img">
+                                <div class="gallery_icn d-none  ::galleryVisibleClass_image::" onclick="Drupal.behaviors.tu_d8.openGallerywithID('::apidatatype::', ::nid::, 'image')">
+                                <a href="javascript:void(0)"><i class="far fa-images"></i></a>
+                                </div>
+                                <div class="video_ply ::galleryVisibleClass_video::" onclick="Drupal.behaviors.tu_d8.openGallerywithID('::apidatatype::', ::nid::, 'video')">
+                                  <a href="javascript:void(0)"><i class="fas fa-play"></i></a>
+                                </div>
+                              </div>
+                           </div>
+                        </div>
+                     </a>
+                  </div>
+                  <div class="card-body">
+                     <div class="programeTitle mobileOnly">
+                        <h2><a title="::program_name::" href="::program_url::">::program_name::</a></h2>
+                     </div>
+                     <div class="uni-det">
+                        <h2><a href="::uni_url::" title="::uni_name::"><span><img class="pro-logo" src="::university_logo::"></span></a>
+                        <p title="::uni_name::" class="univ-title"><a href="::uni_url::">::uni_name::</a></p>
+                        </h2>
+                        <div class="location ::hideifnolocation::">
+                           <i class="fal fa-map-marker-alt"></i>
+                           ::region_campus_name:: ::regionlocations::
+                            
+                            <a href="javascript:void(0)"  class="_dropdownshowhover _dropdownshowhover_js" onclick="Drupal.behaviors.tu_d8.getmarkerposition(this);">
+                              ::regionCounters::
+                            <span class="_makedropdownBlack _mobposjs">
+                              <i class="fas fa-caret-up"></i>
+                              <span class="item">::regionlocations_full::</span>
+                            </span>
+                            </a>
+                        </div>
+
+
+
+                     </div>
+                     <div class="uni_list_itm ::unilistdnone::">
+                        <ul>
+                           <li class="uni_ranking ::rankdataDnone::">
+                              <div class="rnk-detle">::qswurtext::</div>
+                              <div class="cont"><i class="fal fa-trophy"></i>::rankdata::</div>
+                           </li>
+                           <li class="uni_str ::qsStarsDnone::">
+                              <div class="rnk-detle">QS Stars</div>
+                              <div class="cont"><i class="fal fa-star"></i>::qsStars::</div>
+                           </li>
+                           <li class="uni_guage d-none">
+                              <div class="rnk-detle">QS I-GAUGE</div>
+                              <div class="cont"><i class="fal fa-medal"></i><img class="pro-logo" src="/themes/custom/tu_d8/images/diamond2.svg"></div>
+                           </li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+               <div class="uni-info ::DataElementClasshideshow::">
+                  <ul>::DataElement::</ul>
+               </div>
+               <div class="actionButtons">
+                  <div class="left">
+                    <div class="full-width-cta">
+                      <a href="::program_url::" class="yellow-anchor">View Program</a>
+                    </div>
+                  </div>
+                  <div class="right">
+                     <div class="">
+                        <a href="javascript:void(0)" class="compare _globCompProg_js _globcompare_programCookie_js_::nid:: ::is_addedCompare::" progoruniv="prog" onclick="Drupal.behaviors.tu_d8._addprogramCompare(this, ::nid::)">
+                           <span class="two-square-icon">
+                              <i class="fal fa-plus-square"></i>
+                           </span>
+                           <span class="d-none d-md-block">Compare</span>
+                        </a>
+                     </div>
+                     <div class="shortlist_div">
+                        <a href="javascript:void(0)" class="wishlist _directorypage shortlistnonloggedglobaljs _shortlist_nid_::nid:: ::is_addedShortlist:: " nid="::nid::"  progoruniv="prog" onclick="Drupal.behaviors.tu_d8._adduniversityShortlist(this, ::nid::, 'program')">
+                           <i class="fa fa-heart" aria-hidden="true"></i>
+                           <i class="fal fa-heart" aria-hidden="true"></i>
+                           <span class="d-none d-md-block _addShortText">::isaddedShortlistText::</span>
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+</script>
+
+<script type="text/html" id="_universityCardTemplate">
+  <div class="row">
+  <div class="university-wrap col-lg-12">
+        <div class="card">
+          <div class="card-wrap">
+            <div class="left_img">
+                            <div class="img-wrap overlay_dark " style="background-image: url('::backgroundimg::')">
+                    <div class="card-img-overlay">
+                        <div class="recommended  ::recommended_class:: ">Ad Feature</div>
+                      <div class="def-img">
+                          <div class="gallery_icn d-none  ::galleryVisibleClass_image::" onclick="Drupal.behaviors.tu_d8.openGallerywithID('::apidatatype::', ::nid::, 'image')">
+                          <a href="javascript:void(0)"><i class="far fa-images"></i></a>
+                          </div>
+                          <div class="video_ply ::galleryVisibleClass_video::" onclick="Drupal.behaviors.tu_d8.openGallerywithID('::apidatatype::', ::nid::, 'video')">
+                          <a href="javascript:void(0)"><i class="fas fa-play"></i></a>
+                        </div>
+                      </div>
+              </div>
+            </div>
+
+            </div>
+            <div class="card-body">
+              <div class="uni-det">
+                <h2>
+                  <a title="::university_name::" href="::university_urlHTML::"><span><img class="pro-logo" src="::university_logo::"></span></a>
+                  <a title="::university_name::" href="::university_urlHTML::">
+                    <span class="bold-text">::university_name::</span>
+                  </a>
+                </h2>
+                <div class="location ::hideifnolocation::">
+                  <i class="fal fa-map-marker-alt"></i>::region_campus_name:: ::regionlocations::
+                  <!-- <text class="_full_edition_ d-none">::regionlocations_full::</text> -->
+                  <!-- <span title="::regionlocations_full::"> ::regionCounters::</span> -->
+                  <a href="javascript:void(0)"  class="_dropdownshowhover _dropdownshowhover_js" onclick="Drupal.behaviors.tu_d8.getmarkerposition(this);">
+                    ::regionCounters::
+                   <span class="_makedropdownBlack _mobposjs">
+                    <i class="fas fa-caret-up"></i>
+                    <span class="item">::regionlocations_full::</span>
+                  </span>
+                  </a>
+                </div>
+
+<!-- <h5 class="view_pgms ::shortlisted_counterDnone::"
+    onclick="Drupal.behaviors.tu_d8.getCompareContentShowmodal(this, '', 'shortlist', ::nid::, '::university_name::')">
+    <a href="javascript:void(0)"
+    onclick="Drupal.behaviors.tu_d8.getCompareContentShowmodal(this, '', 'shortlist', ::nid::, '::university_name::')">
+              <span>View Programs</span>
+       <i class="fal fa-angle-right"></i>
+    </a>
+</h5> -->
+
+              </div>
+              <div class="uni_list_itm ::unilistdnone::">
+                 <ul>
+                  <li class="uni_ranking ::rankdataDnone::">
+                    <div class="rnk-detle">::qswurtext::</div>
+                    <div class="cont"><i class="fal fa-trophy"></i>::rankdata::</div>
+                  </li>
+                  <li class="uni_str ::qsStarsDnone:: ">
+                    <div class="rnk-detle">QS Stars</div>
+                    <div class="cont"><i class="fal fa-star"></i>::qsStars::</div>
+                  </li>
+                  <li class="uni_guage d-none">
+                    <div class="rnk-detle">QS I-GAUGE</div>
+                    <div class="cont"><i class="fal fa-medal"></i><img class="pro-logo" src="/themes/custom/tu_d8/images/diamond2.svg"></div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="uni-info ::DataElementClasshideshow::">
+              <ul>::DataElement::</ul>
+          </div>
+          <div class="actionButtons">
+            <div class="left">
+              ::button_type::
+              <span class="_smalltextapply"  onclick='Drupal.behaviors.tu_d8.getAllShortlistedData("program", ::nid::, "::university_name::")'>::shortlisted_program_count::</span>
+            </div>
+            <div class="right">
+              <div class="">
+                <a href="javascript:void(0)" class="compare _globCompUniv_js _globcompare_universityCookie_js_::nid::  ::is_addedCompare::" progoruniv="univ" onclick="Drupal.behaviors.tu_d8._adduniversityCompare(this, ::nid::)">
+                  <span class="two-square-icon"><i class="fal fa-plus-square"></i></span>
+                  <span class="d-none d-md-block">Compare</span>
+                 </a>
+              </div>
+              <div class="shortlist_div">
+                <a  class="wishlist _directorypage shortlistnonloggedglobaljs  ::is_addedShortlist:: _shortlist_nid_::nid::" progoruniv="univ"  nid="::nid::" onclick="Drupal.behaviors.tu_d8._adduniversityShortlist(this, ::nid::, 'university')">
+                  <i class="fa fa-heart" aria-hidden="true"></i>
+                  <i class="fal fa-heart" aria-hidden="true"></i>
+                  <span class="d-none d-md-block _addShortText">::isaddedShortlistText::</span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</script>
+</section>
+<input type="hidden" id="g8statusGlobal" value="1" />
+<input type="hidden" id="crm_source_data" value="TOPUNI" />
+<input type="hidden" id="universityShortlistCountGlobal" value="0" />
+<input type="hidden" id="programShortlistCountGlobal" value="0" />
+<input type="hidden" id="programAppliedCountGlobal" value="0" />
+<input type="hidden" id="documentrefer" value />
+<div id="_errordivCompare" class="_cookies_limitText">
+<div class="_erromsgdiv">
+<span></span> <i class="fal fa-times-circle pull-right" onclick="Drupal.behaviors.tu_d8.hidediv('hide')"></i>
+</div>
+</div>
+<div id="bottomApplyfooterdiv" class="_bottom_apply_short _makeit_full_width fixedpos d-none">
+<div class="_universitynotifycompare">
+<div class="common_display _universitybtn common_display_js activeonclick activeonclick_university d-none">
+<span class="mobileSeparate"><span class="_compareCountersjs_univ _boldfont">0</span>/<span class="comparecookieLimit _boldfont">4</span> Universities have been added to compare</span>
+<button class="_qs_brandbtntu _updated_CompareURJS _boldfont pull-right" data-redirection="/compare-universities?nids=[]" onclick="Drupal.behaviors.tu_d8.getCompareContentShowmodal(this, '', 'university')">
+Compare
+</button>
+<i class="fas fa-caret-down"></i>
+</div>
+<div class="common_display _programbtn common_display_js activeonclick activeonclick_programs d-none">
+<span class="mobileSeparate"><span class="_compareCountersjs_prog _boldfont">0</span>/<span class="comparecookieLimit _boldfont">4</span> Programs have been added to compare</span>
+<button class="_qs_brandbtntu _updated_CompareURJS_prog _boldfont pull-right" data-redirection="/compare-programs?nids=[]" onclick="Drupal.behaviors.tu_d8.getCompareContentShowmodal(this, '', 'programs')">
+Compare
+</button>
+<i class="fas fa-caret-down"></i>
+</div>
+</div>
+<div class="container">
+<div class="row">
+
+<div class="col-lg-12 paddingleftrightmob0 bottomApplyfooterdivData d-none">
+<div class="_appliedQS_section">
+<div class="_inline_icons first ">
+<a class="nav-link reg-log-popup" href="/signup?nid=&redirect_path=/world-university-rankings/2022">
+<span class="_iconmain">
+<i class="fal fa-paper-plane"></i>
+<i class="fas fa-paper-plane"></i>
+<span class="_appliedCounters show_in_tab_inline">0</span>
+</span>
+<span class="_texts">Applications</span>
+<span class="_appliedCounters hide_in_mob_inline">
+0
+</span>
+</a>
+</div>
+
+
+<div class="displayondesktop second compareuniversityid_pos activeonclick activeonclick_university _inline_icons _updated_CompareURJS " data-redirection="/compare-universities?nids=[]" onclick="Drupal.behaviors.tu_d8.openshorthandpop('university', this)">
+<span class="_iconmain">
+<i class="fal fa-university"></i>
+<i class="fas fa-university"></i>
+<span class="_appliedCounters show_in_tab_inline"><span class="_compareCountersjs_univ">0</span>/<span class="comparecookieLimit">4</span></span>
+</span>
+<span class="_texts">universities</span>
+<span class="_appliedCounters hide_in_mob_inline"><span class="_compareCountersjs_univ">0</span>/<span class="comparecookieLimit">4</span></span>
+</div>
+<div class="displayondesktop third compareprogramsid_pos activeonclick activeonclick_programs _inline_icons _updated_CompareURJS_prog " data-redirection="/compare-programs?nids=[]" onclick="Drupal.behaviors.tu_d8.openshorthandpop('programs', this)">
+<span class="_iconmain">
+<i class="fal fa-graduation-cap"></i>
+<i class="fas fa-graduation-cap"></i>
+<span class="_appliedCounters show_in_tab_inline"><span class="_compareCountersjs_prog">0</span>/<span class="comparecookieLimit">4</span></span>
+</span>
+<span class="_texts">programs</span>
+<span class="_appliedCounters hide_in_mob_inline"><span class="_compareCountersjs_prog">0</span>/<span class="comparecookieLimit">4</span></span>
+</div>
+
+
+<div class="showintabsviewimp  compareuniversityid_pos _inline_icons activeonclick activeonclick_university _updated_CompareURJS " data-redirection="/compare-universities?nids=[]" univorprog="universities" onclick="Drupal.behaviors.tu_d8.openshorthandpop('university', this)">
+<span class="_iconmain">
+<i class="fal fa-university"></i>
+<i class="fas fa-university"></i>
+<span class="_appliedCounters show_in_tab_inline"><span class="_compareCountersjs_univ only">0</span>/<span class="comparecookieLimit">4</span></span>
+</span>
+<span class="_texts">universities</span>
+<span class="_appliedCounters hide_in_mob_inline"><span class="_compareCountersjs_univ">0</span>/<span class="comparecookieLimit">4</span></span>
+</div>
+<div class="showintabsviewimp compareprogramsid_pos _inline_icons activeonclick activeonclick_programs _updated_CompareURJS_prog " data-redirection="/compare-programs?nids=[]" univorprog="programs" onclick="Drupal.behaviors.tu_d8.openshorthandpop('programs', this)">
+<span class="_iconmain">
+<i class="fal fa-graduation-cap"></i>
+<i class="fas fa-graduation-cap"></i>
+<span class="_appliedCounters show_in_tab_inline"><span class="_compareCountersjs_prog only">0</span>/<span class="comparecookieLimit">4</span></span>
+</span>
+<span class="_texts">programs</span>
+<span class="_appliedCounters hide_in_mob_inline"><span class="_compareCountersjs_prog">0</span>/<span class="comparecookieLimit">4</span></span>
+</div>
+
+
+<div class="_inline_icons fourth">
+<a class="nav-link reg-log-popup" href="/signup?nid= &amp;redirect_path=/world-university-rankings/2022?tab=indicators&amp;region=Asia&amp;countries=kr&amp;sort_by=rank&amp;order_by=asc">
+<span class="_iconmain">
+<i class="fal fa-heart"></i>
+<i class="fas fa-heart"></i>
+<span class="_appliedCounters show_in_tab_inline">0</span>
+</span>
+<span class="_texts">shortlisted</span>
+<span class="_appliedCounters hide_in_mob_inline">
+0
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="block-userdetails" class="block block-qs-user-profile block-qs-user-details">
+<div class="content">
+</div>
+</div>
+</section>
+</div>
+</section>
+</main>
+</div>
+</div>
+<div class="back_top">
+<div class="arrow-to-top-wrap d-none" title="Back to top">
+<span class="fa fa-arrow-to-top" aria-hidden="true"></span>
+</div>
+</div>
+<footer class="footer" id="accordionFooter">
+<div class="container">
+<div class="bottom_footer footer_menu_item">
+<div class="row">
+<div class="col-md-7">
+<a href="/about-qs">About</a>
+<a href="/contact-us">Contact</a>
+<a href="/privacy-policy">Privacy</a>
+<a href="/user-agreement">Users</a>
+<a href="/cookies-policy">Cookies</a>
+<a href="/data-permissions">DATA COPYRIGHT</a>
+<a href="/terms-conditions">Terms & Conditions</a>
+<small class="d-none d-md-block">&copy; QS Quacquarelli Symonds Limited 1994 - 2023. All rights reserved.</small>
+</div>
+<div class="col-md-5">
+<ul class="footer-icons">
+<li class="facbook"><a href="https://www.facebook.com/topuniversities" target="_blank" rel="nofollow"><i class="fab fa-facebook-f"></i></a></li>
+<li class="twitter"><a href="https://twitter.com/TopUnis" target="_blank" rel="nofollow"><i class="fab fa-twitter"></i></a></li>
+<li class="linked_in"><a href="https://www.linkedin.com/company/243103" target="_blank" rel="nofollow"><i class="fab fa-linkedin-in"></i></a></li>
+<li class="youtube"><a href="https://www.youtube.com/qstopuniversities?sub_confirmation=1" target="_blank" rel="nofollow"><i class="fab fa-youtube" aria-hidden="true"></i></a></li>
+<li class="instagram"><a href="https://www.instagram.com/topunis/" target="_blank" rel="nofollow"><i class="fab fa-instagram"></i></a></li>
+</ul>
+<div class="block block-qs-formblock block-qs-newsletter">
+<div class="content">
+<div class="subscribe_news_letter">
+<p>Subscribe to Our Newsletter</p>
+<form id="footer-subscribe-form" action="/newsletterCheck/">
+<input type="text" id="footer-input-email-id" placeholder="Please enter your email" name="search">
+<input type="hidden" id="footer-input-loggedin" value="1">
+<button type="button" title="Subscribe" onclick="Drupal.behaviors.tu_d8.footerSubscriptionForm(this)">
+<i class="fal fa-arrow-right"></i>
+</button>
+<p class="subscriber-response"></p>
+</form>
+</div>
+</div>
+</div>
+<small class="d-block d-md-none">&copy; QS Quacquarelli Symonds Limited 1994 - 2023. All rights reserved.</small>
+</div>
+</div>
+
+</div>
+</footer>
+
+<div id="user-global-reg" class="modal pub-reg-log-popup _padding_bottom50px">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="qs-loader-reg d-none">
+<div class="loaderforuniv"></div>
+</div>
+<a class="close-modal" data-dismiss="modal" aria-label="Close"><i class="fas fa-times"></i></a>
+<div class="modal-body">
+<style type="text/css" media="screen">
+          @media all and (min-width: 768px) {
+            #user-global-reg .pub-info-sec {
+              background-image: url(/themes/custom/tu_d8/images/reg_form/bg-desktop.jpg);
+              background-repeat: no-repeat;
+            }
+          }
+          @media all and (max-width: 767px) {
+            #user-global-reg .pub-info-sec {
+              background-image: url(/themes/custom/tu_d8/images/reg_form/bg-mobile.png);
+              background-repeat: no-repeat;
+            }
+          }
+        </style>
+<div class="pub-info-sec">
+<div class="pop-logo-tit">
+<div class="logo-top-pop"><img loading="lazy" src="/themes/custom/tu_d8/images/reg_form/logo.png" width="80" height="80"></div>
+<div class="intro-txt-pop" data-toggle="collapse" href="#multiCollapseExample1" role="button" aria-expanded="true" aria-controls="multiCollapseExample1">Join us to start your higher-ed journey</div>
+</div>
+<div class="pop-cont collapse show" id="multiCollapseExample1">
+<div class="heading-bulet-pop">You also get to:</div>
+<ul>
+<li class="bp1-pop">Find your perfect University program with our matching tool</li>
+<li class="bp2-pop">Meet and apply to universities</li>
+<li class="bp3-pop">Connect with peers</li>
+<li class="bp3-pop"></li>
+</ul>
+</div>
+<div class="log-botom-pop desktop-tablet"><img src></div>
+</div>
+<div class="form-sec">
+<ul class="nav nav-pills login_pills float-right">
+<li class="nav-item">
+<a class="nav-link active" id="user_sign_in_tab" data-toggle="pill" href="#user_sign_in" role="group" aria-controls="user_sign_in">Sign in</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" id="user_join_us_tab" data-toggle="pill" href="#user_join_us" role="group" aria-controls="user_join_us">Join us</a>
+</li>
+</ul>
+<div class="clearfix"></div>
+<div class="tab-content">
+<div class="tab-pane fade show active" id="user_sign_in" role="tabpanel" aria-labelledby="user_sign_in_tab">
+<div class="social-logins">
+<label>Sign in using:</label>
+<a href="#" id="sso-facebook" class="sso-facebook"><i class="fab fa-facebook-square"></i>Facebook </a><a href="#" id="sso-google" class="sso-google"><i class="fab fa-google"></i>Google</a> </div>
+<hr class="ruller-or">
+<form class="user-login-form" data-drupal-selector="user-login-form" action="/world-university-rankings/2022?tab=indicators&amp;region=Asia&amp;countries=kr&amp;sort_by=rank&amp;order_by=asc" method="post" id="user-login-form" accept-charset="UTF-8">
+<input autocomplete="off" data-drupal-selector="form-dyteqmz7bcqfhcbaajn5j-53q-ae-rtnsjtwdsw86uc" type="hidden" name="form_build_id" value="form-DYtEqmz7bcQFHcBAAjN5J-53q-Ae_RtNSjTwDsW86Uc" class="form-control" />
+<input data-drupal-selector="edit-user-login-form" type="hidden" name="form_id" value="user_login_form" class="form-control" />
+<div class="form-group anim_lab">
+<fieldset class="js-form-item js-form-type-textfield form-type-textfield js-form-item-name form-item-name form-group">
+
+<input pattern="[A-Za-z0-9.!$&amp;&#039;*-=^_`{|}~]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,10}" autocomplete="off" data-drupal-selector="edit-name" data-msg-required="Email field is required." data-msg-maxlength="Email field has a maximum length of 60." data-msg-pattern="Email does not meet the requirements." type="text" id="edit-name" name="name" value size="60" maxlength="60" class="form-text required form-control" required="required" aria-required="true" />
+<label for="edit-name" class="js-form-required form-required">Email</label>
+</fieldset>
+</div>
+<div class="form-group anim_lab">
+<fieldset class="js-form-item js-form-type-password form-type-password js-form-item-pass form-item-pass form-group">
+
+<input data-drupal-selector="edit-pass" aria-describedby="edit-pass--description" data-msg-required="Password field is required." data-msg-maxlength="Password field has a maximum length of 128." type="password" id="edit-pass" name="pass" size="60" maxlength="128" class="form-text required form-control" required="required" aria-required="true" />
+<label for="edit-pass" class="js-form-required form-required">Password</label>
+<small id="edit-pass--description" class="description text-muted">
+<a class="blue-dark" href="/user/password">Forgot password?</a> <div class="linkedin-reset">Existing LinkedIn user? Please <a href="/user/password">reset password</a> to sign-in.</div>
+</small>
+</fieldset>
+
+</div>
+<small class="form-text text-muted border-top">* Required</small>
+<input class="btn-green btn-block button js-form-submit form-submit btn" data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Sign in" data-drupal-states="{&quot;disabled&quot;:[{&quot;.user-login-form [name=\u0022name\u0022]&quot;:{&quot;value&quot;:&quot;&quot;}},{&quot;.user-login-form [name=\u0022pass\u0022]&quot;:{&quot;value&quot;:&quot;&quot;}}]}" />
+</form>
+</div>
+<div class="tab-pane fade" id="user_join_us" role="tabpanel" aria-labelledby="user_join_us_tab">
+<div class="step">Step 1 of 2: <span>Join us</span></div>
+<div class="social-logins">
+<label>Join us using:</label>
+<a href="#" id="sso-facebook" class="sso-facebook"><i class="fab fa-facebook-square"></i>Facebook</a><a href="#" id="sso-google" class="sso-google"><i class="fab fa-google"></i>Google</a> </div>
+<hr class="ruller-or">
+<form class="user-register-form user-form" data-drupal-selector="user-register-form" action="/world-university-rankings/2022?tab=indicators&amp;region=Asia&amp;countries=kr&amp;sort_by=rank&amp;order_by=asc" method="post" id="user-register-form" accept-charset="UTF-8">
+<div class="form-row">
+<div class="col anim_lab">
+<div class="field--type-string field--name-field-first-name field--widget-string-textfield js-form-wrapper form-group" data-drupal-selector="edit-field-first-name-wrapper" id="edit-field-first-name-wrapper">
+<fieldset class="js-form-item js-form-type-textfield form-type-textfield js-form-item-field-first-name-0-value form-item-field-first-name-0-value form-group">
+
+<input pattern="^[a-zA-Z ]*$" autocomplete="off" class="text-capitalize form-text required form-control" data-drupal-selector="edit-field-first-name-0-value" data-msg-required="First Name field is required." data-msg-maxlength="First Name field has a maximum length of 255." data-msg-pattern="First Name does not meet the requirements." type="text" id="edit-field-first-name-0-value" name="field_first_name[0][value]" value size="60" maxlength="255" placeholder required="required" aria-required="true" />
+<label for="edit-field-first-name-0-value" class="js-form-required form-required">First Name</label>
+</fieldset>
+</div>
+</div>
+<div class="col anim_lab">
+<div class="field--type-string field--name-field-last-name field--widget-string-textfield js-form-wrapper form-group" data-drupal-selector="edit-field-last-name-wrapper" id="edit-field-last-name-wrapper">
+<fieldset class="js-form-item js-form-type-textfield form-type-textfield js-form-item-field-last-name-0-value form-item-field-last-name-0-value form-group">
+
+<input pattern="^[a-zA-Z ]*$" autocomplete="off" class="text-capitalize form-text required form-control" data-drupal-selector="edit-field-last-name-0-value" data-msg-required="Last Name field is required." data-msg-maxlength="Last Name field has a maximum length of 255." data-msg-pattern="Last Name does not meet the requirements." type="text" id="edit-field-last-name-0-value" name="field_last_name[0][value]" value size="60" maxlength="255" placeholder required="required" aria-required="true" />
+<label for="edit-field-last-name-0-value" class="js-form-required form-required">Last Name</label>
+</fieldset>
+</div>
+</div>
+</div>
+<div class="form-group anim_lab">
+<fieldset class="js-form-item js-form-type-email form-type-email js-form-item-mail form-item-mail form-group">
+
+<input pattern="[A-Za-z0-9.!$&amp;&#039;*-=^_`{|}~]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,10}" autocomplete="off" data-drupal-selector="edit-mail" data-msg-email="Email does not contain a valid email." data-msg-required="Email field is required." data-msg-maxlength="Email field has a maximum length of 254." data-msg-pattern="Email does not meet the requirements." type="email" id="edit-mail" name="mail" value size="60" maxlength="254" class="form-email required form-control" required="required" aria-required="true" />
+<label for="edit-mail" class="js-form-required form-required">Email</label>
+</fieldset>
+</div>
+<div class="form-group anim_lab border-bottom">
+<fieldset class="js-form-item js-form-type-password form-type-password js-form-item-pass form-item-pass form-group">
+
+<input pattern="^(?=.{6,})(?=.*[a-zA-Z])(?=.*[0-9]).*$" data-drupal-selector="edit-pass" data-msg-required="Password field is required." data-msg-maxlength="Password field has a maximum length of 128." data-msg-pattern="Password does not meet the requirements." type="password" id="edit-pass--2" name="pass" size="25" maxlength="128" class="form-text required form-control" required="required" aria-required="true" />
+<label for="edit-pass--2" class="js-form-required form-required">Password</label>
+</fieldset>
+<small class="text-muted"><i class="fas fa-info-circle"></i> Use at least 6 characters and one numeral</small>
+</div>
+<div class="form-group anim_lab">
+<div class="about-textfield js-form-wrapper form-group" style="display: none !important;">
+<fieldset class="js-form-item js-form-type-textfield form-type-textfield js-form-item-about form-item-about form-group">
+
+<input autocomplete="off" data-drupal-selector="edit-about" data-msg-maxlength="Leave this field blank field has a maximum length of 128." type="text" id="edit-about" name="about" value size="20" maxlength="128" class="form-text form-control" />
+<label for="edit-about">Leave this field blank</label>
+</fieldset>
+</div>
+</div>
+<small class="form-text text-muted">I confirm that I am over 16 years old and I am happy to receive newsletters and up-to-date information about Top Universities, Top MBA and QS Leap. I understand that my data will be held for as long as I am registered with the site and I will continue to receive such communications until I amend my user profile.* </small>
+<div class="bigradio"><div class="field--type-boolean field--name-field-newsletter-optin field--widget-options-buttons js-form-wrapper form-group" data-drupal-selector="edit-field-newsletter-optin-wrapper" id="edit-field-newsletter-optin-wrapper"><fieldset data-drupal-selector="edit-field-newsletter-optin" data-msg-required="This field field is required." id="edit-field-newsletter-optin--wrapper" class="fieldgroup form-composite required js-form-item form-item js-form-wrapper form-group" required="required" aria-required="true">
+<div class="fieldset-wrapper">
+<div id="edit-field-newsletter-optin" class="radio">
+<div class="js-form-item js-form-type-radio radio js-form-item-field-newsletter-optin form-item-field-newsletter-optin vl-1">
+<label class="js-form-item js-form-type-radio radio js-form-item-field-newsletter-optin form-item-field-newsletter-optin vl-1 option" for="edit-field-newsletter-optin-1">
+<input data-drupal-selector="edit-field-newsletter-optin-1" type="radio" id="edit-field-newsletter-optin-1" name="field_newsletter_optin" value="1" class="form-radio">
+<div class="radio-title">Yes</div>
+</label>
+</div>
+<div class="js-form-item js-form-type-radio radio js-form-item-field-newsletter-optin form-item-field-newsletter-optin vl-0">
+<label class="js-form-item js-form-type-radio radio js-form-item-field-newsletter-optin form-item-field-newsletter-optin vl-0 option" for="edit-field-newsletter-optin-0">
+<input data-drupal-selector="edit-field-newsletter-optin-0" type="radio" id="edit-field-newsletter-optin-0" name="field_newsletter_optin" value="0" class="form-radio">
+<div class="radio-title">No</div>
+</label>
+</div>
+</div>
+</div>
+</fieldset>
+</div>
+</div>
+<small class="form-text text-muted">I am happy to receive information from universities, our media partners and other 3rd party opportunities.*</small>
+<div class="bigradio"><div class="field--type-boolean field--name-field-partner-optin field--widget-options-buttons js-form-wrapper form-group" data-drupal-selector="edit-field-partner-optin-wrapper" id="edit-field-partner-optin-wrapper"><fieldset data-drupal-selector="edit-field-partner-optin" data-msg-required="This field field is required." id="edit-field-partner-optin--wrapper" class="fieldgroup form-composite required js-form-item form-item js-form-wrapper form-group" required="required" aria-required="true">
+<div class="fieldset-wrapper">
+<div id="edit-field-partner-optin" class="radio">
+<div class="js-form-item js-form-type-radio radio js-form-item-field-partner-optin form-item-field-partner-optin vl-1">
+<label class="js-form-item js-form-type-radio radio js-form-item-field-partner-optin form-item-field-partner-optin vl-1 option" for="edit-field-partner-optin-1">
+<input data-drupal-selector="edit-field-partner-optin-1" type="radio" id="edit-field-partner-optin-1" name="field_partner_optin" value="1" class="form-radio">
+<div class="radio-title">Yes</div>
+</label>
+</div>
+<div class="js-form-item js-form-type-radio radio js-form-item-field-partner-optin form-item-field-partner-optin vl-0">
+<label class="js-form-item js-form-type-radio radio js-form-item-field-partner-optin form-item-field-partner-optin vl-0 option" for="edit-field-partner-optin-0">
+<input data-drupal-selector="edit-field-partner-optin-0" type="radio" id="edit-field-partner-optin-0" name="field_partner_optin" value="0" class="form-radio">
+<div class="radio-title">No</div>
+</label>
+</div>
+</div>
+</div>
+</fieldset>
+</div>
+</div>
+<small class="form-text text-muted border-top privacy_links">
+<a href="/user-agreement">User Agreement</a> |
+<a href="/privacy-policy">Privacy Policy</a> |
+<a href="/cookies-policy">Cookie Policy</a>
+</small>
+<hr>
+<input data-drupal-selector="edit-hubspotutk" type="hidden" name="hubspotutk" value class="form-control" />
+<input data-drupal-selector="edit-hubspot-ip-address" type="hidden" name="hubspot_ip_address" value="112.76.111.81" class="form-control" />
+<input class="btn-green btn-block button button--primary js-form-submit form-submit btn" data-drupal-selector="edit-submit" type="submit" id="edit-submit--2" name="op" value="Create new account" data-drupal-states="{&quot;disabled&quot;:[{&quot;.user-register-form [name=\u0022mail\u0022]&quot;:{&quot;value&quot;:&quot;&quot;}},{&quot;.user-register-form [name=\u0022pass\u0022]&quot;:{&quot;value&quot;:&quot;&quot;}},{&quot;.user-register-form [name=\u0022field_first_name[0][value]\u0022]&quot;:{&quot;value&quot;:&quot;&quot;}},{&quot;.user-register-form [name=\u0022field_last_name[0][value]\u0022]&quot;:{&quot;value&quot;:&quot;&quot;}},{&quot;.user-register-form [name=\u0022field_newsletter_optin\u0022]&quot;:{&quot;value&quot;:false}},{&quot;.user-register-form [name=\u0022field_partner_optin\u0022]&quot;:{&quot;value&quot;:false}}]}" />
+<input autocomplete="off" data-drupal-selector="form-fsey2q7rvilnmqstreahzywznidjc8axlayv-eu3g2a" type="hidden" name="form_build_id" value="form-fSeY2Q7rviLnMqsTReAHzyWzNiDjc8AxLayv_eu3g2A" class="form-control" />
+<input data-drupal-selector="edit-user-register-form" type="hidden" name="form_id" value="user_register_form" class="form-control" />
+<span class="required-register">* Required</span>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/3740566","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","currentQuery":{"countries":"kr","order_by":"asc","region":"Asia","sort_by":"rank","tab":"indicators"}},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"addtoany\/addtoany.front,ckeditor_accordion\/accordion.frontend,clientside_validation_jquery\/cv.jquery.ckeditor,clientside_validation_jquery\/cv.jquery.ife,clientside_validation_jquery\/cv.jquery.validate,clientside_validation_jquery\/cv.pattern.method,core\/drupal.form,core\/drupal.states,core\/normalize,eu_cookie_compliance\/eu_cookie_compliance_bare,ga\/analytics,layout_builder\/threecol_section,layout_discovery\/onecol,lazy_image_style\/main,qs_article\/qs_article,qs_firebase_sso\/sso-lib,qs_firebase_sso\/sso-lib-header,qs_flexreg_user_flow\/qs_flexreg_user_flow,qs_global_site_search\/search_header,qs_layout\/qsonecol,qs_rankings\/qs_rankings,qs_rankings_rest_api\/qs_rankings_rest_api,qs_user_profile\/qsUserProfile,statistics\/drupal.statistics,system\/base,tu_d8\/global,tu_d8\/node,tu_d8\/qna_forums,tu_d8\/qs_ielts,tu_d8\/qs_instant,tu_d8\/qs_related_content,views\/views.module","theme":"tu_d8","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"lazy_image_style":{"offset":"400"},"qs_rankings_rest_api":{"nid":"3740566"},"ga":{"commands":[["set","anonymizeIp",true],["send","pageview"]]},"qs_global_site_search":{"app_id":"B9VSLB5GUV","api_key":"c5a76d12563aa226198ec3dc8c27fefb","algolia_university_index":"live_tu_universities","algolia_article_index":"live_tu_articles","algolia_ranking_index":"live_tu_rankings","algolia_program_index":"live_tu_programs","algolia_video_index":"live_tu_videos","algolia_event_index":"live_tu_events","popular_searches":"\u003Cli\u003E\u003Ca href=\u0022\/search\/all?q=indicators\u0022\u003E\u003Ci class=\u0022fal fa-clock\u0022\u003E\u003C\/i\u003Eindicators\u003C\/a\u003E\u003C\/li\u003E\u003Cli\u003E\u003Ca href=\u0022\/search\/all?q=1\u0022\u003E\u003Ci class=\u0022fal fa-clock\u0022\u003E\u003C\/i\u003E1\u003C\/a\u003E\u003C\/li\u003E\u003Cli\u003E\u003Ca href=\u0022\/search\/all?q=uni\u0022\u003E\u003Ci class=\u0022fal fa-clock\u0022\u003E\u003C\/i\u003Euni\u003C\/a\u003E\u003C\/li\u003E","site_arg":"Top Universities"},"clientside_validation_jquery":{"validate_all_ajax_forms":2,"force_validate_on_blur":false,"messages":{"required":"This field is required.","remote":"Please fix this field.","email":"Please enter a valid email address.","url":"Please enter a valid URL.","date":"Please enter a valid date.","dateISO":"Please enter a valid date (ISO).","number":"Please enter a valid number.","digits":"Please enter only digits.","equalTo":"Please enter the same value again.","maxlength":"Please enter no more than {0} characters.","minlength":"Please enter at least {0} characters.","rangelength":"Please enter a value between {0} and {1} characters long.","range":"Please enter a value between {0} and {1}.","max":"Please enter a value less than or equal to {0}.","min":"Please enter a value greater than or equal to {0}.","step":"Please enter a multiple of {0}."}},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":true,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n  \u003Cdiv class=\u0022container\u0022\u003E\n    \u003Cdiv\u003E\n      \u003Csvg width=\u002264\u0022 height=\u002248\u0022 viewBox=\u00220 0 64 48\u0022 fill=\u0022none\u0022 xmlns=\u0022http:\/\/www.w3.org\/2000\/svg\u0022\u003E\n        \u003Cpath d=\u0022M36.0245 37.8611C36.0245 37.8611 30.0157 35.6092 25.8128 27.3938C21.6098 19.1784 27.7707 9.1421 27.7707 9.1421L27.3216 8.45793C25.3211 7.79136 23.1796 7.42975 20.9529 7.42975C9.91433 7.42975 0.965698 16.3063 0.965698 27.2561C0.965698 38.2059 9.9142 47.0825 20.9529 47.0825C27.3642 47.0825 33.0698 44.0875 36.7272 39.4317L36.0245 37.8611Z\u0022 fill=\u0022#E39B74\u0022\/\u003E\n        \u003Cpath d=\u0022M7.86616 27.2561C7.86616 17.4739 15.0084 9.34726 24.4021 7.72516C23.2815 7.53165 22.1292 7.42975 20.9529 7.42975C9.91433 7.42975 0.965698 16.3063 0.965698 27.2561C0.965698 38.2059 9.9142 47.0825 20.9529 47.0825C22.1295 47.0825 23.2821 46.9807 24.4029 46.7872C15.0088 45.1654 7.86616 37.0386 7.86616 27.2561Z\u0022 fill=\u0022#DD8858\u0022\/\u003E\n        \u003Cpath d=\u0022M62.677 16.6783C62.553 16.0734 61.9176 15.732 61.3251 15.9206C59.0849 16.6339 56.5969 15.5372 55.6505 13.3721C55.4516 12.9168 54.9579 12.6541 54.4714 12.7693C49.5591 13.9311 44.6617 10.6731 43.8424 5.76504C43.7632 5.29037 43.3513 4.94388 42.867 4.91562C41.2635 4.82178 39.9067 3.68537 39.5331 2.14757C39.3993 1.59716 38.837 1.25749 38.2829 1.39323C29.4183 3.56451 22.884 11.6029 23.1088 21.1174C23.3608 31.7796 32.1948 40.3918 42.946 40.467C54.0509 40.5447 63.0776 31.6386 63.0776 20.6412C63.0775 19.2838 62.9393 17.9588 62.677 16.6783Z\u0022 fill=\u0022#E39B74\u0022\/\u003E\n        \u003Cpath d=\u0022M30.0094 21.1173C29.83 13.5324 33.9464 6.8857 40.1144 3.40162C39.8463 3.03059 39.645 2.60749 39.5331 2.14732C39.3993 1.59691 38.837 1.25724 38.2829 1.39299C29.4182 3.56426 22.884 11.6026 23.1088 21.1172C23.3608 31.7793 32.1948 40.3915 42.9459 40.4668C44.1766 40.4754 45.3816 40.3732 46.5517 40.1705C37.3457 38.5708 30.2351 30.6668 30.0094 21.1173Z\u0022 fill=\u0022#DD8858\u0022\/\u003E\n        \u003Cpath d=\u0022M58.6461 6.13179C59.6783 6.13179 60.515 5.30176 60.515 4.27787C60.515 3.25398 59.6783 2.42395 58.6461 2.42395C57.6139 2.42395 56.7771 3.25398 56.7771 4.27787C56.7771 5.30176 57.6139 6.13179 58.6461 6.13179Z\u0022 fill=\u0022#DD8858\u0022\/\u003E\n        \u003Cpath d=\u0022M50.4351 6.07002C51.8627 6.07002 53.0199 4.92208 53.0199 3.50602C53.0199 2.08996 51.8627 0.942017 50.4351 0.942017C49.0076 0.942017 47.8503 2.08996 47.8503 3.50602C47.8503 4.92208 49.0076 6.07002 50.4351 6.07002Z\u0022 fill=\u0022#DD8858\u0022\/\u003E\n        \u003Cpath d=\u0022M58.7082 4.27787C58.7082 3.60498 59.0708 3.01763 59.6116 2.69271C59.3295 2.52325 58.9999 2.42395 58.6461 2.42395C57.6138 2.42395 56.7771 3.25403 56.7771 4.27787C56.7771 5.30171 57.6139 6.13179 58.6461 6.13179C58.9999 6.13179 59.3295 6.03249 59.6116 5.86303C59.0707 5.53812 58.7082 4.95076 58.7082 4.27787Z\u0022 fill=\u0022#CB6C35\u0022\/\u003E\n        \u003Cpath d=\u0022M50.4351 3.50602C50.4351 2.55755 50.9557 1.73131 51.7275 1.28788C51.3469 1.06921 50.9064 0.942017 50.4351 0.942017C49.0076 0.942017 47.8503 2.08995 47.8503 3.50602C47.8503 4.92209 49.0076 6.07002 50.4351 6.07002C50.9065 6.07002 51.3471 5.94283 51.7275 5.72415C50.9558 5.2806 50.4351 4.45449 50.4351 3.50602Z\u0022 fill=\u0022#CB6C35\u0022\/\u003E\n        \u003Cpath d=\u0022M15.1214 37.1668C18.1194 37.1668 20.5497 34.756 20.5497 31.7822C20.5497 28.8084 18.1194 26.3976 15.1214 26.3976C12.1234 26.3976 9.69312 28.8084 9.69312 31.7822C9.69312 34.756 12.1234 37.1668 15.1214 37.1668Z\u0022 fill=\u0022#CB6C35\u0022\/\u003E\n        \u003Cpath d=\u0022M2.67222 27.3936C4.47569 27.3936 5.93774 25.9433 5.93774 24.1543C5.93774 22.3654 4.47569 20.9151 2.67222 20.9151C2.43689 20.9151 2.20757 20.9404 1.98637 20.9872C1.35888 22.8563 1.00484 24.8491 0.969971 26.9189C1.46574 27.2199 2.04848 27.3936 2.67222 27.3936Z\u0022 fill=\u0022#AE5E2E\u0022\/\u003E\n        \u003Cpath d=\u0022M14.0636 20.7695C15.8561 20.7695 17.3092 19.3281 17.3092 17.55C17.3092 15.772 15.8561 14.3306 14.0636 14.3306C12.2712 14.3306 10.8181 15.772 10.8181 17.55C10.8181 19.3281 12.2712 20.7695 14.0636 20.7695Z\u0022 fill=\u0022#CB6C35\u0022\/\u003E\n        \u003Cpath d=\u0022M28.369 40.4675C26.3389 40.4675 24.6931 42.1 24.6931 44.1138C24.6931 45.0447 25.0453 45.8936 25.6239 46.538C27.9419 45.9875 30.1019 45.0348 32.0275 43.7609C31.8485 41.9127 30.2792 40.4675 28.369 40.4675Z\u0022 fill=\u0022#CB6C35\u0022\/\u003E\n        \u003Cpath d=\u0022M32.0442 30.238C32.0442 27.5966 29.8855 25.4553 27.2228 25.4553C26.0043 25.4553 24.8921 25.9047 24.0433 26.6442C25.0319 29.7125 26.7564 32.4593 29.008 34.6805C30.7867 33.9765 32.0442 32.2535 32.0442 30.238Z\u0022 fill=\u0022#AE5E2E\u0022\/\u003E\n        \u003Cpath d=\u0022M36.0244 23.1152C37.4093 23.1152 38.532 22.0016 38.532 20.6278C38.532 19.2541 37.4093 18.1404 36.0244 18.1404C34.6395 18.1404 33.5168 19.2541 33.5168 20.6278C33.5168 22.0016 34.6395 23.1152 36.0244 23.1152Z\u0022 fill=\u0022#CB6C35\u0022\/\u003E\n        \u003Cpath d=\u0022M48.7327 33.4515C51.849 33.4515 54.3753 30.9456 54.3753 27.8543C54.3753 24.763 51.849 22.2571 48.7327 22.2571C45.6164 22.2571 43.0901 24.763 43.0901 27.8543C43.0901 30.9456 45.6164 33.4515 48.7327 33.4515Z\u0022 fill=\u0022#CB6C35\u0022\/\u003E\n        \u003Cpath d=\u0022M49.7815 12.5795C47.1803 11.7392 45.0374 9.70872 44.1562 7.03265C42.3869 7.61418 41.1101 9.26728 41.1101 11.2173C41.1101 13.6521 43.0999 15.6259 45.5545 15.6259C47.5297 15.6259 49.2029 14.3474 49.7815 12.5795Z\u0022 fill=\u0022#CB6C35\u0022\/\u003E\n        \u003Cpath d=\u0022M13.2766 31.782C13.2766 29.4314 14.7956 27.4338 16.9125 26.6993C16.3513 26.5045 15.7485 26.3974 15.1202 26.3974C12.1222 26.3974 9.69189 28.8082 9.69189 31.782C9.69189 34.7559 12.1222 37.1666 15.1202 37.1666C15.7484 37.1666 16.3513 37.0595 16.9125 36.8648C14.7956 36.1303 13.2766 34.1327 13.2766 31.782Z\u0022 fill=\u0022#AE5E2E\u0022\/\u003E\n        \u003Cpath d=\u0022M13.6095 17.5499C13.6095 16.2678 14.3651 15.161 15.4585 14.6431C15.0355 14.4428 14.5619 14.3303 14.0619 14.3303C12.2695 14.3303 10.8164 15.7717 10.8164 17.5497C10.8164 19.3278 12.2695 20.7691 14.0619 20.7691C14.5619 20.7691 15.0355 20.6567 15.4585 20.4564C14.3651 19.9387 13.6095 18.8319 13.6095 17.5499Z\u0022 fill=\u0022#AE5E2E\u0022\/\u003E\n        \u003Cpath d=\u0022M27.485 44.1137C27.485 42.5905 28.4269 41.286 29.7643 40.7406C29.3336 40.5649 28.8623 40.4673 28.3678 40.4673C26.3377 40.4673 24.6919 42.0999 24.6919 44.1137C24.6919 45.0446 25.0441 45.8935 25.6227 46.5379C26.4091 46.351 27.1768 46.1169 27.9239 45.8407C27.6444 45.3266 27.485 44.7389 27.485 44.1137Z\u0022 fill=\u0022#AE5E2E\u0022\/\u003E\n        \u003Cpath d=\u0022M36.3095 20.6276C36.3095 19.7668 36.7505 19.0083 37.4205 18.5617C37.0213 18.2957 36.5409 18.1403 36.0239 18.1403C34.639 18.1403 33.5164 19.254 33.5164 20.6276C33.5164 22.0013 34.6391 23.115 36.0239 23.115C36.5409 23.115 37.0213 22.9596 37.4205 22.6936C36.7505 22.247 36.3095 21.4885 36.3095 20.6276Z\u0022 fill=\u0022#AE5E2E\u0022\/\u003E\n        \u003Cpath d=\u0022M46.6742 27.854C46.6742 25.3845 48.2872 23.29 50.5246 22.5467C49.9613 22.3597 49.3591 22.2568 48.7322 22.2568C45.6159 22.2568 43.0896 24.7628 43.0896 27.854C43.0896 30.9452 45.6159 33.4512 48.7322 33.4512C49.3591 33.4512 49.9612 33.3483 50.5246 33.1613C48.2871 32.4179 46.6742 30.3234 46.6742 27.854Z\u0022 fill=\u0022#AE5E2E\u0022\/\u003E\n        \u003Cpath d=\u0022M43.9025 11.217C43.9025 10.2084 44.2448 9.27968 44.8194 8.53712C44.5534 8.06332 44.3294 7.56063 44.1554 7.03241C42.3862 7.61394 41.1094 9.26703 41.1094 11.217C41.1094 13.6519 43.0992 15.6257 45.5538 15.6257C46.0423 15.6257 46.5122 15.5472 46.9517 15.4028C45.1808 14.8222 43.9025 13.1683 43.9025 11.217Z\u0022 fill=\u0022#AE5E2E\u0022\/\u003E\n        \u003Cpath d=\u0022M63.5666 16.4809C63.5666 16.4808 63.5666 16.4808 63.5666 16.4809C63.3326 15.3387 62.1379 14.6636 61.0098 15.0231C59.2184 15.5935 57.2292 14.7005 56.4818 12.9902C56.0982 12.1125 55.1491 11.6338 54.2252 11.8526C49.7812 12.9036 45.4569 9.90525 44.7383 5.601C44.5877 4.69853 43.8291 4.02998 42.8934 3.97531C41.7121 3.90613 40.6931 3.05994 40.4155 1.91746C40.1599 0.865481 39.0895 0.218375 38.0294 0.478457C33.7185 1.5344 29.8165 3.97022 26.966 7.36802C13.5172 3.3494 0 13.3919 0 27.2438C0 38.6888 9.38666 47.9999 20.9245 47.9999C27.1997 47.9999 33.0293 45.2754 37.0229 40.5022C52.1754 45.0472 66.716 31.8532 63.5666 16.4809V16.4809ZM43.6193 8.28401C44.5399 10.2915 46.2313 12.0708 48.4841 13.0761C47.8517 14.063 46.7478 14.6838 45.5257 14.6838C43.5919 14.6838 42.0188 13.1232 42.0188 11.2049C42.0188 10.0033 42.6365 8.91389 43.6193 8.28401ZM2.67165 21.8332C3.94262 21.8482 4.97189 22.8781 4.97189 24.1423C4.97189 25.7128 3.41186 26.8377 1.89783 26.3306C1.96906 24.8443 2.21738 23.339 2.67165 21.8332V21.8332ZM25.9741 45.4693C25.7315 45.057 25.6014 44.5859 25.6014 44.1014C25.6014 42.6036 26.8299 41.3848 28.3399 41.3848C29.572 41.3848 30.6181 42.1805 30.9603 43.3061C29.4042 44.2658 27.7318 44.9914 25.9741 45.4693ZM32.5506 42.2221C31.8282 40.6164 30.2116 39.5255 28.3399 39.5255C25.7963 39.5255 23.7268 41.5783 23.7268 44.1016C23.7268 44.7188 23.8528 45.3228 24.0906 45.8811C12.7029 47.7587 2.48695 39.3326 1.90133 28.2436C4.502 28.7055 6.8466 26.713 6.8466 24.1424C6.8466 22.0718 5.31669 20.3497 3.31939 20.0281C6.94283 11.3615 16.4781 6.55381 25.756 8.96075C18.3004 19.8397 22.8185 34.8025 35.1309 39.834C34.3385 40.7154 33.4744 41.5133 32.5506 42.2221ZM25.1303 26.9633C25.7454 26.5797 26.4597 26.3728 27.1944 26.3728C29.3362 26.3728 31.0786 28.1012 31.0786 30.2257C31.0786 31.5967 30.3605 32.8314 29.2065 33.5213C27.4294 31.6465 26.0273 29.4192 25.1303 26.9633V26.9633ZM30.5886 34.8422C32.0575 33.7853 32.953 32.0903 32.953 30.2256C32.953 27.0759 30.3696 24.5132 27.1943 24.5132C26.2745 24.5132 25.3767 24.7328 24.5704 25.1429C22.0356 15.0936 28.3746 4.75828 38.4787 2.28341C38.5298 2.27114 38.5809 2.30362 38.593 2.35283C39.062 4.28398 40.785 5.71431 42.783 5.83133C42.836 5.83443 42.8823 5.86666 42.8887 5.9046C42.9214 6.10047 42.9623 6.29435 43.0073 6.48699C41.2648 7.39976 40.1441 9.20025 40.1441 11.2048C40.1441 14.1484 42.5581 16.5432 45.5256 16.5432C47.5608 16.5432 49.3816 15.4209 50.2964 13.6764C51.724 13.9991 53.2191 14.002 54.6598 13.6612C54.6953 13.6526 54.7413 13.6833 54.7615 13.7295C55.8879 16.3068 58.8841 17.6527 61.5825 16.7933C61.6409 16.7749 61.7169 16.7925 61.7294 16.851C65.3443 34.5022 44.2921 46.7094 30.5886 34.8422V34.8422Z\u0022 fill=\u0022#1D1D1B\u0022\/\u003E\n        \u003Cpath d=\u0022M58.6178 7.0494C60.1652 7.0494 61.424 5.80068 61.424 4.26573C61.424 2.73077 60.1652 1.48193 58.6178 1.48193C57.0704 1.48193 55.8115 2.73077 55.8115 4.26573C55.8115 5.80068 57.0704 7.0494 58.6178 7.0494ZM58.6178 3.34143C59.1314 3.34143 59.5494 3.7561 59.5494 4.26573C59.5494 4.77535 59.1314 5.1899 58.6178 5.1899C58.1041 5.1899 57.6861 4.77535 57.6861 4.26573C57.6861 3.7561 58.1041 3.34143 58.6178 3.34143Z\u0022 fill=\u0022#1D1D1B\u0022\/\u003E\n        \u003Cpath d=\u0022M50.4069 6.9875C52.3489 6.9875 53.9289 5.42019 53.9289 3.49375C53.9289 1.56731 52.3489 0 50.4069 0C48.4648 0 46.8848 1.56731 46.8848 3.49375C46.8848 5.42019 48.4648 6.9875 50.4069 6.9875ZM50.4069 1.85962C51.3153 1.85962 52.0544 2.59276 52.0544 3.49388C52.0544 4.39499 51.3153 5.12813 50.4069 5.12813C49.4984 5.12813 48.7593 4.39499 48.7593 3.49388C48.7593 2.59276 49.4984 1.85962 50.4069 1.85962Z\u0022 fill=\u0022#1D1D1B\u0022\/\u003E\n        \u003Cpath d=\u0022M14.0336 21.6875C16.3401 21.6875 18.2166 19.8261 18.2166 17.5382C18.2166 15.2503 16.3401 13.389 14.0336 13.389C11.7272 13.389 9.85071 15.2504 9.85071 17.5382C9.85071 19.826 11.7272 21.6875 14.0336 21.6875ZM14.0336 15.2485C15.3065 15.2485 16.342 16.2757 16.342 17.5382C16.342 18.8007 15.3065 19.828 14.0336 19.828C12.7608 19.828 11.7253 18.8008 11.7253 17.5382C11.7253 16.2756 12.7608 15.2485 14.0336 15.2485Z\u0022 fill=\u0022#1D1D1B\u0022\/\u003E\n        \u003Cpath d=\u0022M35.9961 17.1984C34.0967 17.1984 32.5513 18.7314 32.5513 20.6156C32.5513 22.4997 34.0967 24.0327 35.9961 24.0327C37.8956 24.0327 39.441 22.4997 39.441 20.6156C39.441 18.7314 37.8956 17.1984 35.9961 17.1984ZM35.9961 22.1733C35.1302 22.1733 34.4259 21.4745 34.4259 20.6157C34.4259 19.7568 35.1303 19.058 35.9961 19.058C36.8619 19.058 37.5664 19.7568 37.5664 20.6157C37.5664 21.4745 36.8621 22.1733 35.9961 22.1733Z\u0022 fill=\u0022#1D1D1B\u0022\/\u003E\n        \u003Cpath d=\u0022M15.093 25.4559C11.583 25.4559 8.72742 28.2886 8.72742 31.7703C8.72742 34.1938 10.0902 36.3652 12.2842 37.4371C12.749 37.6639 13.3105 37.4744 13.5392 37.0137C13.7679 36.5531 13.5768 35.9957 13.1124 35.7688C11.5639 35.0124 10.602 33.4803 10.602 31.7703C10.602 29.3139 12.6167 27.3154 15.093 27.3154C17.5693 27.3154 19.584 29.3139 19.584 31.7703C19.584 33.6162 18.4639 35.2443 16.7305 35.9182C16.2485 36.1057 16.0109 36.645 16.1999 37.1232C16.3888 37.6014 16.9327 37.8369 17.4145 37.6495C19.8712 36.6944 21.4586 34.3866 21.4586 31.7703C21.4585 28.2884 18.603 25.4559 15.093 25.4559V25.4559Z\u0022 fill=\u0022#1D1D1B\u0022\/\u003E\n        \u003Cpath d=\u0022M48.7044 23.1744C50.6034 23.1744 52.3066 24.2966 53.0435 26.0332C53.2442 26.5065 53.7938 26.7287 54.2709 26.5295C54.7481 26.3303 54.972 25.7852 54.7713 25.3119C53.741 22.8839 51.3597 21.3149 48.7044 21.3149C45.0762 21.3149 42.1245 24.2429 42.1245 27.8419C42.1245 31.4409 45.0762 34.3689 48.7044 34.3689C51.3597 34.3689 53.7412 32.8 54.7713 30.3719C54.972 29.8988 54.7481 29.3536 54.2709 29.1543C53.7944 28.9553 53.2444 29.1773 53.0435 29.6506C52.3066 31.3871 50.6036 32.5093 48.7044 32.5093C46.1099 32.5093 43.9991 30.4155 43.9991 27.8418C43.999 25.2682 46.1099 23.1744 48.7044 23.1744V23.1744Z\u0022 fill=\u0022#1D1D1B\u0022\/\u003E\n      \u003C\/svg\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Cp\u003EWe use cookies to ensure you get the best experience on our website. \u003Ca href=\u0022\/cookies-policy\u0022 target=\u0022_blank\u0022\u003ECookies Policy\u003C\/a\u003E\u003C\/p\u003E\n\n    \u003C\/div\u003E\n\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003C!-- \u003Cbutton type=\u0022button\u0022 class=\u0022btn btn-white find-more-button\u0022\u003E\u003C\/button\u003E --\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022btn btn-orrange agree-button eu-cookie-compliance-default-button\u0022\u003EGOT IT\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n  \u003Cdiv class=\u0022container\u0022\u003E\n    \u003Cdiv\u003E\n      \u003Csvg width=\u002264\u0022 height=\u002248\u0022 viewBox=\u00220 0 64 48\u0022 fill=\u0022none\u0022 xmlns=\u0022http:\/\/www.w3.org\/2000\/svg\u0022\u003E\n        \u003Cpath d=\u0022M36.0245 37.8611C36.0245 37.8611 30.0157 35.6092 25.8128 27.3938C21.6098 19.1784 27.7707 9.1421 27.7707 9.1421L27.3216 8.45793C25.3211 7.79136 23.1796 7.42975 20.9529 7.42975C9.91433 7.42975 0.965698 16.3063 0.965698 27.2561C0.965698 38.2059 9.9142 47.0825 20.9529 47.0825C27.3642 47.0825 33.0698 44.0875 36.7272 39.4317L36.0245 37.8611Z\u0022 fill=\u0022#E39B74\u0022\/\u003E\n        \u003Cpath d=\u0022M7.86616 27.2561C7.86616 17.4739 15.0084 9.34726 24.4021 7.72516C23.2815 7.53165 22.1292 7.42975 20.9529 7.42975C9.91433 7.42975 0.965698 16.3063 0.965698 27.2561C0.965698 38.2059 9.9142 47.0825 20.9529 47.0825C22.1295 47.0825 23.2821 46.9807 24.4029 46.7872C15.0088 45.1654 7.86616 37.0386 7.86616 27.2561Z\u0022 fill=\u0022#DD8858\u0022\/\u003E\n        \u003Cpath d=\u0022M62.677 16.6783C62.553 16.0734 61.9176 15.732 61.3251 15.9206C59.0849 16.6339 56.5969 15.5372 55.6505 13.3721C55.4516 12.9168 54.9579 12.6541 54.4714 12.7693C49.5591 13.9311 44.6617 10.6731 43.8424 5.76504C43.7632 5.29037 43.3513 4.94388 42.867 4.91562C41.2635 4.82178 39.9067 3.68537 39.5331 2.14757C39.3993 1.59716 38.837 1.25749 38.2829 1.39323C29.4183 3.56451 22.884 11.6029 23.1088 21.1174C23.3608 31.7796 32.1948 40.3918 42.946 40.467C54.0509 40.5447 63.0776 31.6386 63.0776 20.6412C63.0775 19.2838 62.9393 17.9588 62.677 16.6783Z\u0022 fill=\u0022#E39B74\u0022\/\u003E\n        \u003Cpath d=\u0022M30.0094 21.1173C29.83 13.5324 33.9464 6.8857 40.1144 3.40162C39.8463 3.03059 39.645 2.60749 39.5331 2.14732C39.3993 1.59691 38.837 1.25724 38.2829 1.39299C29.4182 3.56426 22.884 11.6026 23.1088 21.1172C23.3608 31.7793 32.1948 40.3915 42.9459 40.4668C44.1766 40.4754 45.3816 40.3732 46.5517 40.1705C37.3457 38.5708 30.2351 30.6668 30.0094 21.1173Z\u0022 fill=\u0022#DD8858\u0022\/\u003E\n        \u003Cpath d=\u0022M58.6461 6.13179C59.6783 6.13179 60.515 5.30176 60.515 4.27787C60.515 3.25398 59.6783 2.42395 58.6461 2.42395C57.6139 2.42395 56.7771 3.25398 56.7771 4.27787C56.7771 5.30176 57.6139 6.13179 58.6461 6.13179Z\u0022 fill=\u0022#DD8858\u0022\/\u003E\n        \u003Cpath d=\u0022M50.4351 6.07002C51.8627 6.07002 53.0199 4.92208 53.0199 3.50602C53.0199 2.08996 51.8627 0.942017 50.4351 0.942017C49.0076 0.942017 47.8503 2.08996 47.8503 3.50602C47.8503 4.92208 49.0076 6.07002 50.4351 6.07002Z\u0022 fill=\u0022#DD8858\u0022\/\u003E\n        \u003Cpath d=\u0022M58.7082 4.27787C58.7082 3.60498 59.0708 3.01763 59.6116 2.69271C59.3295 2.52325 58.9999 2.42395 58.6461 2.42395C57.6138 2.42395 56.7771 3.25403 56.7771 4.27787C56.7771 5.30171 57.6139 6.13179 58.6461 6.13179C58.9999 6.13179 59.3295 6.03249 59.6116 5.86303C59.0707 5.53812 58.7082 4.95076 58.7082 4.27787Z\u0022 fill=\u0022#CB6C35\u0022\/\u003E\n        \u003Cpath d=\u0022M50.4351 3.50602C50.4351 2.55755 50.9557 1.73131 51.7275 1.28788C51.3469 1.06921 50.9064 0.942017 50.4351 0.942017C49.0076 0.942017 47.8503 2.08995 47.8503 3.50602C47.8503 4.92209 49.0076 6.07002 50.4351 6.07002C50.9065 6.07002 51.3471 5.94283 51.7275 5.72415C50.9558 5.2806 50.4351 4.45449 50.4351 3.50602Z\u0022 fill=\u0022#CB6C35\u0022\/\u003E\n        \u003Cpath d=\u0022M15.1214 37.1668C18.1194 37.1668 20.5497 34.756 20.5497 31.7822C20.5497 28.8084 18.1194 26.3976 15.1214 26.3976C12.1234 26.3976 9.69312 28.8084 9.69312 31.7822C9.69312 34.756 12.1234 37.1668 15.1214 37.1668Z\u0022 fill=\u0022#CB6C35\u0022\/\u003E\n        \u003Cpath d=\u0022M2.67222 27.3936C4.47569 27.3936 5.93774 25.9433 5.93774 24.1543C5.93774 22.3654 4.47569 20.9151 2.67222 20.9151C2.43689 20.9151 2.20757 20.9404 1.98637 20.9872C1.35888 22.8563 1.00484 24.8491 0.969971 26.9189C1.46574 27.2199 2.04848 27.3936 2.67222 27.3936Z\u0022 fill=\u0022#AE5E2E\u0022\/\u003E\n        \u003Cpath d=\u0022M14.0636 20.7695C15.8561 20.7695 17.3092 19.3281 17.3092 17.55C17.3092 15.772 15.8561 14.3306 14.0636 14.3306C12.2712 14.3306 10.8181 15.772 10.8181 17.55C10.8181 19.3281 12.2712 20.7695 14.0636 20.7695Z\u0022 fill=\u0022#CB6C35\u0022\/\u003E\n        \u003Cpath d=\u0022M28.369 40.4675C26.3389 40.4675 24.6931 42.1 24.6931 44.1138C24.6931 45.0447 25.0453 45.8936 25.6239 46.538C27.9419 45.9875 30.1019 45.0348 32.0275 43.7609C31.8485 41.9127 30.2792 40.4675 28.369 40.4675Z\u0022 fill=\u0022#CB6C35\u0022\/\u003E\n        \u003Cpath d=\u0022M32.0442 30.238C32.0442 27.5966 29.8855 25.4553 27.2228 25.4553C26.0043 25.4553 24.8921 25.9047 24.0433 26.6442C25.0319 29.7125 26.7564 32.4593 29.008 34.6805C30.7867 33.9765 32.0442 32.2535 32.0442 30.238Z\u0022 fill=\u0022#AE5E2E\u0022\/\u003E\n        \u003Cpath d=\u0022M36.0244 23.1152C37.4093 23.1152 38.532 22.0016 38.532 20.6278C38.532 19.2541 37.4093 18.1404 36.0244 18.1404C34.6395 18.1404 33.5168 19.2541 33.5168 20.6278C33.5168 22.0016 34.6395 23.1152 36.0244 23.1152Z\u0022 fill=\u0022#CB6C35\u0022\/\u003E\n        \u003Cpath d=\u0022M48.7327 33.4515C51.849 33.4515 54.3753 30.9456 54.3753 27.8543C54.3753 24.763 51.849 22.2571 48.7327 22.2571C45.6164 22.2571 43.0901 24.763 43.0901 27.8543C43.0901 30.9456 45.6164 33.4515 48.7327 33.4515Z\u0022 fill=\u0022#CB6C35\u0022\/\u003E\n        \u003Cpath d=\u0022M49.7815 12.5795C47.1803 11.7392 45.0374 9.70872 44.1562 7.03265C42.3869 7.61418 41.1101 9.26728 41.1101 11.2173C41.1101 13.6521 43.0999 15.6259 45.5545 15.6259C47.5297 15.6259 49.2029 14.3474 49.7815 12.5795Z\u0022 fill=\u0022#CB6C35\u0022\/\u003E\n        \u003Cpath d=\u0022M13.2766 31.782C13.2766 29.4314 14.7956 27.4338 16.9125 26.6993C16.3513 26.5045 15.7485 26.3974 15.1202 26.3974C12.1222 26.3974 9.69189 28.8082 9.69189 31.782C9.69189 34.7559 12.1222 37.1666 15.1202 37.1666C15.7484 37.1666 16.3513 37.0595 16.9125 36.8648C14.7956 36.1303 13.2766 34.1327 13.2766 31.782Z\u0022 fill=\u0022#AE5E2E\u0022\/\u003E\n        \u003Cpath d=\u0022M13.6095 17.5499C13.6095 16.2678 14.3651 15.161 15.4585 14.6431C15.0355 14.4428 14.5619 14.3303 14.0619 14.3303C12.2695 14.3303 10.8164 15.7717 10.8164 17.5497C10.8164 19.3278 12.2695 20.7691 14.0619 20.7691C14.5619 20.7691 15.0355 20.6567 15.4585 20.4564C14.3651 19.9387 13.6095 18.8319 13.6095 17.5499Z\u0022 fill=\u0022#AE5E2E\u0022\/\u003E\n        \u003Cpath d=\u0022M27.485 44.1137C27.485 42.5905 28.4269 41.286 29.7643 40.7406C29.3336 40.5649 28.8623 40.4673 28.3678 40.4673C26.3377 40.4673 24.6919 42.0999 24.6919 44.1137C24.6919 45.0446 25.0441 45.8935 25.6227 46.5379C26.4091 46.351 27.1768 46.1169 27.9239 45.8407C27.6444 45.3266 27.485 44.7389 27.485 44.1137Z\u0022 fill=\u0022#AE5E2E\u0022\/\u003E\n        \u003Cpath d=\u0022M36.3095 20.6276C36.3095 19.7668 36.7505 19.0083 37.4205 18.5617C37.0213 18.2957 36.5409 18.1403 36.0239 18.1403C34.639 18.1403 33.5164 19.254 33.5164 20.6276C33.5164 22.0013 34.6391 23.115 36.0239 23.115C36.5409 23.115 37.0213 22.9596 37.4205 22.6936C36.7505 22.247 36.3095 21.4885 36.3095 20.6276Z\u0022 fill=\u0022#AE5E2E\u0022\/\u003E\n        \u003Cpath d=\u0022M46.6742 27.854C46.6742 25.3845 48.2872 23.29 50.5246 22.5467C49.9613 22.3597 49.3591 22.2568 48.7322 22.2568C45.6159 22.2568 43.0896 24.7628 43.0896 27.854C43.0896 30.9452 45.6159 33.4512 48.7322 33.4512C49.3591 33.4512 49.9612 33.3483 50.5246 33.1613C48.2871 32.4179 46.6742 30.3234 46.6742 27.854Z\u0022 fill=\u0022#AE5E2E\u0022\/\u003E\n        \u003Cpath d=\u0022M43.9025 11.217C43.9025 10.2084 44.2448 9.27968 44.8194 8.53712C44.5534 8.06332 44.3294 7.56063 44.1554 7.03241C42.3862 7.61394 41.1094 9.26703 41.1094 11.217C41.1094 13.6519 43.0992 15.6257 45.5538 15.6257C46.0423 15.6257 46.5122 15.5472 46.9517 15.4028C45.1808 14.8222 43.9025 13.1683 43.9025 11.217Z\u0022 fill=\u0022#AE5E2E\u0022\/\u003E\n        \u003Cpath d=\u0022M63.5666 16.4809C63.5666 16.4808 63.5666 16.4808 63.5666 16.4809C63.3326 15.3387 62.1379 14.6636 61.0098 15.0231C59.2184 15.5935 57.2292 14.7005 56.4818 12.9902C56.0982 12.1125 55.1491 11.6338 54.2252 11.8526C49.7812 12.9036 45.4569 9.90525 44.7383 5.601C44.5877 4.69853 43.8291 4.02998 42.8934 3.97531C41.7121 3.90613 40.6931 3.05994 40.4155 1.91746C40.1599 0.865481 39.0895 0.218375 38.0294 0.478457C33.7185 1.5344 29.8165 3.97022 26.966 7.36802C13.5172 3.3494 0 13.3919 0 27.2438C0 38.6888 9.38666 47.9999 20.9245 47.9999C27.1997 47.9999 33.0293 45.2754 37.0229 40.5022C52.1754 45.0472 66.716 31.8532 63.5666 16.4809V16.4809ZM43.6193 8.28401C44.5399 10.2915 46.2313 12.0708 48.4841 13.0761C47.8517 14.063 46.7478 14.6838 45.5257 14.6838C43.5919 14.6838 42.0188 13.1232 42.0188 11.2049C42.0188 10.0033 42.6365 8.91389 43.6193 8.28401ZM2.67165 21.8332C3.94262 21.8482 4.97189 22.8781 4.97189 24.1423C4.97189 25.7128 3.41186 26.8377 1.89783 26.3306C1.96906 24.8443 2.21738 23.339 2.67165 21.8332V21.8332ZM25.9741 45.4693C25.7315 45.057 25.6014 44.5859 25.6014 44.1014C25.6014 42.6036 26.8299 41.3848 28.3399 41.3848C29.572 41.3848 30.6181 42.1805 30.9603 43.3061C29.4042 44.2658 27.7318 44.9914 25.9741 45.4693ZM32.5506 42.2221C31.8282 40.6164 30.2116 39.5255 28.3399 39.5255C25.7963 39.5255 23.7268 41.5783 23.7268 44.1016C23.7268 44.7188 23.8528 45.3228 24.0906 45.8811C12.7029 47.7587 2.48695 39.3326 1.90133 28.2436C4.502 28.7055 6.8466 26.713 6.8466 24.1424C6.8466 22.0718 5.31669 20.3497 3.31939 20.0281C6.94283 11.3615 16.4781 6.55381 25.756 8.96075C18.3004 19.8397 22.8185 34.8025 35.1309 39.834C34.3385 40.7154 33.4744 41.5133 32.5506 42.2221ZM25.1303 26.9633C25.7454 26.5797 26.4597 26.3728 27.1944 26.3728C29.3362 26.3728 31.0786 28.1012 31.0786 30.2257C31.0786 31.5967 30.3605 32.8314 29.2065 33.5213C27.4294 31.6465 26.0273 29.4192 25.1303 26.9633V26.9633ZM30.5886 34.8422C32.0575 33.7853 32.953 32.0903 32.953 30.2256C32.953 27.0759 30.3696 24.5132 27.1943 24.5132C26.2745 24.5132 25.3767 24.7328 24.5704 25.1429C22.0356 15.0936 28.3746 4.75828 38.4787 2.28341C38.5298 2.27114 38.5809 2.30362 38.593 2.35283C39.062 4.28398 40.785 5.71431 42.783 5.83133C42.836 5.83443 42.8823 5.86666 42.8887 5.9046C42.9214 6.10047 42.9623 6.29435 43.0073 6.48699C41.2648 7.39976 40.1441 9.20025 40.1441 11.2048C40.1441 14.1484 42.5581 16.5432 45.5256 16.5432C47.5608 16.5432 49.3816 15.4209 50.2964 13.6764C51.724 13.9991 53.2191 14.002 54.6598 13.6612C54.6953 13.6526 54.7413 13.6833 54.7615 13.7295C55.8879 16.3068 58.8841 17.6527 61.5825 16.7933C61.6409 16.7749 61.7169 16.7925 61.7294 16.851C65.3443 34.5022 44.2921 46.7094 30.5886 34.8422V34.8422Z\u0022 fill=\u0022#1D1D1B\u0022\/\u003E\n        \u003Cpath d=\u0022M58.6178 7.0494C60.1652 7.0494 61.424 5.80068 61.424 4.26573C61.424 2.73077 60.1652 1.48193 58.6178 1.48193C57.0704 1.48193 55.8115 2.73077 55.8115 4.26573C55.8115 5.80068 57.0704 7.0494 58.6178 7.0494ZM58.6178 3.34143C59.1314 3.34143 59.5494 3.7561 59.5494 4.26573C59.5494 4.77535 59.1314 5.1899 58.6178 5.1899C58.1041 5.1899 57.6861 4.77535 57.6861 4.26573C57.6861 3.7561 58.1041 3.34143 58.6178 3.34143Z\u0022 fill=\u0022#1D1D1B\u0022\/\u003E\n        \u003Cpath d=\u0022M50.4069 6.9875C52.3489 6.9875 53.9289 5.42019 53.9289 3.49375C53.9289 1.56731 52.3489 0 50.4069 0C48.4648 0 46.8848 1.56731 46.8848 3.49375C46.8848 5.42019 48.4648 6.9875 50.4069 6.9875ZM50.4069 1.85962C51.3153 1.85962 52.0544 2.59276 52.0544 3.49388C52.0544 4.39499 51.3153 5.12813 50.4069 5.12813C49.4984 5.12813 48.7593 4.39499 48.7593 3.49388C48.7593 2.59276 49.4984 1.85962 50.4069 1.85962Z\u0022 fill=\u0022#1D1D1B\u0022\/\u003E\n        \u003Cpath d=\u0022M14.0336 21.6875C16.3401 21.6875 18.2166 19.8261 18.2166 17.5382C18.2166 15.2503 16.3401 13.389 14.0336 13.389C11.7272 13.389 9.85071 15.2504 9.85071 17.5382C9.85071 19.826 11.7272 21.6875 14.0336 21.6875ZM14.0336 15.2485C15.3065 15.2485 16.342 16.2757 16.342 17.5382C16.342 18.8007 15.3065 19.828 14.0336 19.828C12.7608 19.828 11.7253 18.8008 11.7253 17.5382C11.7253 16.2756 12.7608 15.2485 14.0336 15.2485Z\u0022 fill=\u0022#1D1D1B\u0022\/\u003E\n        \u003Cpath d=\u0022M35.9961 17.1984C34.0967 17.1984 32.5513 18.7314 32.5513 20.6156C32.5513 22.4997 34.0967 24.0327 35.9961 24.0327C37.8956 24.0327 39.441 22.4997 39.441 20.6156C39.441 18.7314 37.8956 17.1984 35.9961 17.1984ZM35.9961 22.1733C35.1302 22.1733 34.4259 21.4745 34.4259 20.6157C34.4259 19.7568 35.1303 19.058 35.9961 19.058C36.8619 19.058 37.5664 19.7568 37.5664 20.6157C37.5664 21.4745 36.8621 22.1733 35.9961 22.1733Z\u0022 fill=\u0022#1D1D1B\u0022\/\u003E\n        \u003Cpath d=\u0022M15.093 25.4559C11.583 25.4559 8.72742 28.2886 8.72742 31.7703C8.72742 34.1938 10.0902 36.3652 12.2842 37.4371C12.749 37.6639 13.3105 37.4744 13.5392 37.0137C13.7679 36.5531 13.5768 35.9957 13.1124 35.7688C11.5639 35.0124 10.602 33.4803 10.602 31.7703C10.602 29.3139 12.6167 27.3154 15.093 27.3154C17.5693 27.3154 19.584 29.3139 19.584 31.7703C19.584 33.6162 18.4639 35.2443 16.7305 35.9182C16.2485 36.1057 16.0109 36.645 16.1999 37.1232C16.3888 37.6014 16.9327 37.8369 17.4145 37.6495C19.8712 36.6944 21.4586 34.3866 21.4586 31.7703C21.4585 28.2884 18.603 25.4559 15.093 25.4559V25.4559Z\u0022 fill=\u0022#1D1D1B\u0022\/\u003E\n        \u003Cpath d=\u0022M48.7044 23.1744C50.6034 23.1744 52.3066 24.2966 53.0435 26.0332C53.2442 26.5065 53.7938 26.7287 54.2709 26.5295C54.7481 26.3303 54.972 25.7852 54.7713 25.3119C53.741 22.8839 51.3597 21.3149 48.7044 21.3149C45.0762 21.3149 42.1245 24.2429 42.1245 27.8419C42.1245 31.4409 45.0762 34.3689 48.7044 34.3689C51.3597 34.3689 53.7412 32.8 54.7713 30.3719C54.972 29.8988 54.7481 29.3536 54.2709 29.1543C53.7944 28.9553 53.2444 29.1773 53.0435 29.6506C52.3066 31.3871 50.6036 32.5093 48.7044 32.5093C46.1099 32.5093 43.9991 30.4155 43.9991 27.8418C43.999 25.2682 46.1099 23.1744 48.7044 23.1744V23.1744Z\u0022 fill=\u0022#1D1D1B\u0022\/\u003E\n      \u003C\/svg\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \n    \u003C\/div\u003E\n\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003C!-- \u003Cbutton type=\u0022button\u0022 class=\u0022btn btn-white find-more-button\u0022\u003E\u003C\/button\u003E --\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022btn btn-orrange agree-button eu-cookie-compliance-default-button\u0022\u003EGOT IT\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":true,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/cookies-policy","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"default","automatic_cookies_removal":false,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Cp\u003EThis site uses cookies. By continuing to browse the site you are agreeing to our use of cookies.\u003Cbr \/\u003EReview our \u003Ca href=\u0022\/cookies-policy\u0022\u003Ecookies information\u003C\/a\u003E\u00a0for more details.\u003C\/p\u003E\n\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button \u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":null,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":false,"cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","settings_tab_enabled":false,"olivero_primary_button_classes":"","olivero_secondary_button_classes":"","close_button_action":"","open_by_default":true,"modules_allow_popup":true,"hide_the_banner":false,"geoip_match":true},"ckeditorAccordion":{"accordionStyle":{"collapseAll":0,"keepRowsOpen":null,"animateAccordionOpenAndClose":1,"openTabsWithHash":1}},"basePath":"modules\/contrib\/vote_up_down","statistics":{"data":{"nid":"3740566"},"url":"\/core\/modules\/statistics\/statistics.php"},"qs_firebase_sso":{"sso_url":"https:\/\/sso.qs.com"},"g8data":"noApply","user":{"uid":0,"permissionsHash":"1c0d61bc405621e8d4313d0fc3fa0b015b63a466357657f89fca9fcb44a1aea3"}}</script>
+<script src="/sites/default/files/js/js_-80OWc69nV5b4ingGtNlrD-byNLT4dEvjx9CJxRcWzM.js"></script>
+<script src="https://static.addtoany.com/menu/page.js" async></script>
+<script src="/sites/default/files/js/js_QgdZ7h4eCpAKLmNOvvnzyYfhnxH5vJdGBL7pD9hKg2E.js"></script>
+<script src="https://www.google-analytics.com/analytics.js" async></script>
+<script src="/sites/default/files/js/js_ZyxGjY4a-jwCBmWIIUUPZdKSx1h1irMireZP7jBPxA0.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.0.0/dist/algoliasearch-lite.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.14.0/dist/instantsearch.production.min.js"></script>
+<script src="/sites/default/files/js/js_IJ4iAzU5ygcm50DUDvlhfM5ZJPo-YTyLxodNwlwcWyU.js"></script>
+<script src="https://kit.fontawesome.com/3b60fb92b0.js" defer></script>
+<script src="/sites/default/files/js/js_cqHrgj7eRv8EkUEiDnbCQXxq0fmbLRmPKRSpBQQZCUQ.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/components/search.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/components/api.min.js"></script>
+<script src="/sites/default/files/js/js_sz8U0BqPgVo8DpNxo59958kPtHMwLqUbX6oQKeQ-BRc.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+<script src="/sites/default/files/js/js_rDoPTk9Kf0tqP88Hk1SgnKHCPl5z8vFfqErViFWiACo.js"></script>
+<script src="/modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.min.js?v=10.0.9" defer></script>
+<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.js?s3hkfb"></script>
+<script src="/sites/default/files/js/js_uQsmlXcOvLveVxvOe5KQeMPyfvrSLum9c2EYF7hCZqQ.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.17.0/dist/jquery.validate.min.js"></script>
+<script src="/sites/default/files/js/js_2Gqz9p_r5YhRtHNPl0glvQnAEoO6PBLkYndZ-riHKUs.js"></script>
+<script type="text/javascript">
+    (function(d) {
+      var wf = d.createElement('script'), s = d.scripts[0];
+      wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
+      wf.async = true;
+      s.parentNode.insertBefore(wf, s);
+    })(document);
+  </script>
+<script async type="application/ld+json">
+   [{
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Top Universities",
+    "alternateName": "Top Universities",
+    "url": "https://www.topuniversities.com"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "QS International",
+    "url": "https://www.topuniversities.com/",
+    "logo": "https://www.topuniversities.com/themes/custom/tu_d8/logo.svg",
+    "alternateName": "QS International",
+    "sameAs": [
+      "https://www.facebook.com/topuniversities",
+      "https://twitter.com/TopUnis",
+      "https://www.linkedin.com/company/243103",
+      "https://www.youtube.com/qstopuniversities?sub_confirmation=1",
+      "https://www.instagram.com/topunis/"
+    ],
+    "contactPoint": [
+     {
+       "@type": "ContactPoint",
+       "contactType": "customer service",
+       "email": "tusupport@qs.com"
+     }
+   ]
+  }]
+  </script>
+
+<div class="body_resize_modal d-none">
+<div class="_gallery_popup_title">
+<div class="row">
+<div class="col-lg-12">
+<span class="_gallery_title _gallery_title_jsuniv">&nbsp;</span>
+<span class="float-right _colormobile closeGalleryArticles">
+<a class="_article_popup_close _gallerycloseicon"><i class="fal fa-times"></i></a>
+</span>
+</div>
+</div>
+</div>
+<div class="bodyheader">
+<div class="_media_playerwidthheight _createHTMLDOM_galleryjs" style="text-align:center;">
+<div class="html5gallery-loading" style="display:block;margin:0 auto;width:300px;height:300px;background:url('/themes/custom/tu_d8/js/skins/gallery/loading.gif') no-repeat center center;"></div>
+</div>
+</div>
+</div>
+
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"828f2d721fd8a7cb","b":1,"version":"2023.10.0","token":"3f1db70e1b8440979416801e311d8074"}' crossorigin="anonymous"></script>
+</body>
+</html>
