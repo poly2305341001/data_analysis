@@ -1,0 +1,312 @@
+Seoul National University
+81.7
+8.9
+4
+83.9
+75
+98.3
+96.5
+KAIST - Korea Advanced Institute of Science & Technology
+79.1
+12
+8.5
+73.1
+98.8
+87.5
+83.1
+Korea University
+66.3
+34
+4.3
+89.5
+30.6
+77.6
+90.4
+Yonsei University
+65.5
+44.1
+7.1
+89.6
+34.4
+71.6
+92.6
+Pohang University of Science And Technology (POSTECH)
+65.4
+3
+17.6
+100
+99.7
+44.3
+64.1
+Sungkyunkwan University (SKKU)
+60.5
+38.5
+7.2
+85.4
+46.8
+61.5
+68.8
+Hanyang University
+49.8
+31.7
+8.9
+80.1
+30.1
+45.2
+74.3
+Ulsan National Institute of Science and Technology (UNIST)
+42.4
+13.1
+35.4
+76.1
+100
+9.9
+6.5
+Kyung Hee University
+37.2
+51.9
+4.2
+85.5
+15.2
+26.4
+34.9
+Gwangju Institute of Science and Technology (GIST)
+34.1
+7.6
+5.7
+36.4
+100
+13.4
+6.1
+Ewha Womans University
+30.8
+21.2
+2.3
+81.1
+10.4
+23
+20.1
+Chung-Ang University (CAU)
+27.4
+32.1
+4.8
+73.2
+9.2
+15.5
+27.7
+HUFS - Hankuk (Korea) University of Foreign Studies 
+26.1
+39.5
+16.1
+79
+1.6
+11.7
+23.8
+The Catholic University of Korea 
+24.6
+4.3
+1.2
+97.9
+12.2
+4.8
+2.5
+Dongguk University 
+24.1
+21.2
+3.6
+82.8
+7.4
+9.4
+9.4
+Sogang University
+24.1
+30.2
+2.8
+47.2
+9.1
+18.2
+38.4
+Ajou University 
+n/a
+16.2
+2.1
+64.1
+15.9
+11.4
+10.5
+Kyungpook National University
+n/a
+10.7
+2.4
+55.7
+15.1
+13.5
+17.3
+University of Ulsan 
+n/a
+4.7
+1.4
+64.4
+30.6
+5.8
+2.7
+Hallym University 
+n/a
+6.1
+1.6
+91.7
+8
+2.6
+1.6
+Inha University
+n/a
+11.8
+2.1
+69.9
+12.1
+7.3
+12.8
+Jeonbuk National University
+n/a
+8.4
+3.1
+58.6
+13.2
+12.5
+9.7
+Konkuk University 
+n/a
+12.6
+2.1
+58.1
+11.5
+7.3
+11.3
+Pusan National University
+n/a
+7.6
+2.7
+29
+20.4
+19.1
+15.9
+Sejong University 
+n/a
+21.6
+11.8
+17.7
+37.6
+11.3
+18.1
+Chonnam National University
+n/a
+9.8
+2.4
+40.1
+15.8
+9.2
+4.5
+Chungnam National University
+n/a
+10.5
+2.6
+37.8
+11.3
+10.3
+9.3
+Dankook University 
+n/a
+5
+1.8
+64.8
+3.7
+3.4
+3.4
+University of Seoul 
+n/a
+7
+1.4
+31.3
+9.2
+11.3
+9.4
+Yeungnam University 
+n/a
+10.1
+11.1
+15
+26.3
+4.9
+3.8
+Chungbuk National University
+n/a
+6.5
+2.1
+28.4
+7.9
+3.8
+3
+Jeju National University
+n/a
+6.2
+1.3
+24.9
+3.5
+3.2
+2
+Kangwon National University
+n/a
+2.9
+1.8
+17
+12.2
+4
+4.6
+Kookmin University
+n/a
+28.7
+2
+25.2
+4.3
+3.8
+3.7
+Pukyong National University
+n/a
+7.4
+1.9
+7.2
+12
+5.1
+3.1
+Seoul National University of Science and Technology
+n/a
+7.5
+2.8
+8.3
+11.4
+6.3
+3.7
+Sookmyung Women's University
+n/a
+1.7
+2.2
+25.2
+4.4
+3.7
+5
+Youngsan University
+n/a
+6.3
+1.4
+16
+1.2
+4.3
+8.1
+Hongik University
+n/a
+10
+8.6
+9.7
+3.6
+4.2
+5

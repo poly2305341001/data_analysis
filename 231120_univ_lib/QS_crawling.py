@@ -14,20 +14,24 @@ from bs4 import BeautifulSoup
 # 동적 웹페이지 작동 준비
 import time
 
-# # 데이터 저장 준비
-# import pandas as pd
+# 데이터 저장 준비
+import pandas as pd
 
 # import requests
+
 
 
 # 크롬 드라이버 생성
 driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
 
 # 사이트에 접속
-driver.get('https://www.topuniversities.com/world-university-rankings/2022')
+
+# driver.get('https://www.topuniversities.com/world-university-rankings/2022')
+driver.get('https://www.topuniversities.com/world-university-rankings/2023')
+
 
 # 동적 페이지 갱신을 위한 여유시간
-time.sleep(30)
+time.sleep(50)
 
 # 웹 페이지 HTML 소스 파싱
 html = driver.page_source
@@ -35,11 +39,13 @@ soup = BeautifulSoup(html, 'html.parser')
 
 # 중복되는 태그 제외, 학교 이름과 각 점수 파싱
 rm_duplicate = soup.select('div.row.ind-row.firstloaded.hide-this-in-mobile-indi div.td-wrap-in')
-f = open('univ_score.txt', 'w')
+f = open('univ_score_2023.txt', 'a')
 for line in rm_duplicate:
     text = line.get_text()
     f.write(text + '\n')
 f.close()
+
+
 
 
 # univ_name = list()
